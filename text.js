@@ -373,17 +373,17 @@ export let project_plan =
 "<p> Text </p>" +
 "<h4>App Development Story (so far)</h4>"+
 "<p>Design for the app began during assignment 2. This included building a basic understanding of platforms, what would be included and what would be required to create an app to meet the goal. It was decided that the app would be a native app for iOS and Android. For the iOS app, Swift would be the programming language and XCode would be the IDE. For the Android app, Java would be the programming language and Android Studio would be the IDE. The design of the app is designed to be user-centred and uses Nielsen’s Usability Heuristics as a guideline for the user interface. Nielsen's usability heuristics focus on simplicity and usability, which are key factors in designing a basic app (Nielsen 1994). The purpose of the app is to connect to the Courtesy Light and allow the user to make two individualised messages that will be displayed on the hardware device.   </p>" +
-"<h5>App Keypath Scenarios  </h5>"
+"<h5>App Keypath Scenarios  </h5>" +
 "<p>For the beginning of the design process, I created several keypath scenarios. Keypath scenarios are a design tool where you use a scenario to build a navigable path in the design (Lowdermilk, 2013). They are useful to app design because they help ensure that an app is designed with the user in mind. To create the keypath scenario, I started by identifying the primary tasks that users will perform in the app. Next, I mapped out the steps that a user would take to complete each task.   </p>" +
 "<p>Once I created the keypath scenarios, I used them as a guide for the design and development of the app. They were beneficial in informing decisions about which features to include, how to present information, and how to make navigation intuitive. </p>" +
-"<h5>Low-Fidelity Wireframes </h5>"
+"<h5>Low-Fidelity Wireframes </h5>" +
 "<p>Following the creation of keypath scenarios, I created a series of low-fidelity wireframes to ensure that I could fit this into the app's design. Low-fidelity wireframes are less detailed than the final design and don't focus on visual elements (Laubheimer, 2016). This allows for focusing on the layout, navigation, and functionality of the app. This means that you are able to easily make changes before it's too late in the process. Low-fidelity wireframes are beneficial for app design because they provide a fast way to explore design concepts early in the design process. </p>" +
 "<p>Following the development of the low-fidelity wireframes, they were tested against the keypath scenarios. The keypath scenarios suggested a few minor modifications that needed to be made. Making these modifications was a simple process, thanks to the simplicity of low-fidelity wireframes. Once these modifications were made, I began work on the app prototype.  </p>" +
-"<h5>App Prototype</h5>"
+"<h5>App Prototype</h5>" +
 "<p>The app prototype features the navigation and functionality of the app.</p>" +
 "<p><b>Scenario 1:</b> Connecting to the device for the first time </p>" +
 "<ol>"+
-"<li>Ali opens the app and taps on the \"Settings\" button.  </li>" +
+"<li>Ali opens the app and taps on the 'Settings' button.  </li>" +
 "<li>Ali chooses the “Bluetooth” option from the menu.  </li>" +
 "<li>The app searches for available Bluetooth devices and displays a list of them.  </li>" +
 "<li>Ali selects the device he wants to connect to from the list.  </li>" +
