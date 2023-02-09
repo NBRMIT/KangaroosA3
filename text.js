@@ -361,6 +361,29 @@ export let tools =
 export let project_plan = 
 
 "<h1>Project Plan</h1>" + 
+"<h2>Project Description </h2>" + 
+"<p> Text </p>" +
+"<h2>Overview </h2>" + 
+"<p> Text </p>" +
+"<h2>Detailed Description </h2>" + 
+"<p> Text </p>" +
+"<h3>Aims </h3>" + 
+"<p> Text </p>" +
+"<h3>Plans and Progress </h3>" + 
+"<p> Text </p>" +
+"<h3>Roles</h3>" + 
+"<p> Text </p>" +
+"<h3>Scope and Limits </h3>" + 
+"<p> Text </p>" +
+"<h3>Tools and Technologies</h3>" + 
+"<p> Text </p>" +
+"<h3>Testing </h3>" + 
+"<p> Text </p>" +
+"<h3>Timeframe</h3>" + 
+"<p> Text </p>" +
+"<h3>Risks</h3>" + 
+"<p> Text </p>" +
+"<h3>Group Processes and Communications</h3>" + 
 "<p> Text </p>" +
 "<hr>"
 
