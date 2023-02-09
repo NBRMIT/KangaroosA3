@@ -371,11 +371,84 @@ export let project_plan =
 "<p> Text </p>" +
 "<h3>Plans and Progress </h3>" + 
 "<p> Text </p>" +
+"<h4>App Development Story (so far)</h4>"+
+"<p>Design for the app began during assignment 2. This included building a basic understanding of platforms, what would be included and what would be required to create an app to meet the goal. It was decided that the app would be a native app for iOS and Android. For the iOS app, Swift would be the programming language and XCode would be the IDE. For the Android app, Java would be the programming language and Android Studio would be the IDE. The design of the app is designed to be user-centred and uses Nielsen’s Usability Heuristics as a guideline for the user interface. Nielsen's usability heuristics focus on simplicity and usability, which are key factors in designing a basic app (Nielsen 1994). The purpose of the app is to connect to the Courtesy Light and allow the user to make two individualised messages that will be displayed on the hardware device.   </p>" +
+"<h5>App Keypath Scenarios  </h5>"
+"<p>For the beginning of the design process, I created several keypath scenarios. Keypath scenarios are a design tool where you use a scenario to build a navigable path in the design (Lowdermilk, 2013). They are useful to app design because they help ensure that an app is designed with the user in mind. To create the keypath scenario, I started by identifying the primary tasks that users will perform in the app. Next, I mapped out the steps that a user would take to complete each task.   </p>" +
+"<p>Once I created the keypath scenarios, I used them as a guide for the design and development of the app. They were beneficial in informing decisions about which features to include, how to present information, and how to make navigation intuitive. </p>" +
+"<h5>Low-Fidelity Wireframes </h5>"
+"<p>Following the creation of keypath scenarios, I created a series of low-fidelity wireframes to ensure that I could fit this into the app's design. Low-fidelity wireframes are less detailed than the final design and don't focus on visual elements (Laubheimer, 2016). This allows for focusing on the layout, navigation, and functionality of the app. This means that you are able to easily make changes before it's too late in the process. Low-fidelity wireframes are beneficial for app design because they provide a fast way to explore design concepts early in the design process. </p>" +
+"<p>Following the development of the low-fidelity wireframes, they were tested against the keypath scenarios. The keypath scenarios suggested a few minor modifications that needed to be made. Making these modifications was a simple process, thanks to the simplicity of low-fidelity wireframes. Once these modifications were made, I began work on the app prototype.  </p>" +
+"<h5>App Prototype</h5>"
+"<p>The app prototype features the navigation and functionality of the app.</p>" +
+"<p><b>Scenario 1:</b> Connecting to the device for the first time </p>" +
+"<ol>"+
+"<li>Ali opens the app and taps on the \"Settings\" button.  </li>" +
+"<li>Ali chooses the “Bluetooth” option from the menu.  </li>" +
+"<li>The app searches for available Bluetooth devices and displays a list of them.  </li>" +
+"<li>Ali selects the device he wants to connect to from the list.  </li>" +
+"<li>The app sends a request to the device to establish a connection.  </li>" +
+"<li>The device accepts the connection request, and the app displays a message indicating a successful connection.  </li>" +
+"</ol>"+
+"<p><b>Scenario 2:</b> Connecting to the device that has been previously paired and writing a new custom message for the Courtesy Light</p>" +
+"<ol>"+
+"<li>Ali opens the app and taps on the 'Settings' button.  </li>" +
+"<li>The app automatically connects to the device that has been previously paired as it is saved in the app's memory.  </li>" +
+"<li>The app displays a message indicating a successful connection.  </li>" +
+"<li>Ali returns to the app’s home screen through the navigation bar.  </li>" +
+"<li>Ali taps the 'Customise' button.  </li>" +
+"<li>Ali taps on the 'Change Message' button.  </li>" +
+"<li>Ali types a message into the app and presses save.  </li>" +
+"<li>The app sends a request to the device to change the message it's displaying.  </li>" +
+"<li>The device receives the request, updates the message, and sends a confirmation to the app.  </li>" +
+"<li>The app displays a message indicating a successful message change.  </li>" +
+"</ol>"+
+"<h5>Nielsen’s 10 Usability Heuristics </h5>" +
+"<p>For assignment 2, it was mentioned that the app’s user interface design would follow Jakob Nielsen’s 10 usability heuristics. Below is an outline of how each of these heuristics is important in app design and how they each were integrated into the UI design prototype.  </p>" +
+"<h6>1. Visibility of system status  </h6>" +
+"<p>Visibility of system status is important in app design because when users perform an action within an app, they expect to receive immediate feedback about the status of their request. If the system status is not visible, users may become confused, frustrated or assume that their action was not processed. </p>" +
+"<h6>2. Match between system and the real world  </h6>" +
+"<p>Matching the system and the real world is important in app design because it helps create a smooth user experience. Users are better able to comprehend and navigate an app when its behaviour and interface reflect how people think and interact with the world.  </p>" +
+"<h6>3. User control and freedom  </h6>" +
+"<p>User control and freedom are important in app design as they give users the power to determine how they interact with the app. Accessibility can also be improved by allowing users to adjust the app to better meet their individual needs through user control and freedom. </p>" +
+"<h6>4. Consistency and standards  </h6>" +
+"<p>Consistency and standards are important in app design because they provide users with a clear and predictable experience. When an app follows established design patterns, users can understand how the app works and can easily navigate through it.  </p>" +
+"<h6>5. Error prevention  </h6>" +
+"<p>Error prevention is important in app design because it helps to minimise the risk of users making mistakes while using the app. This was accomplished by providing confirmations prior to carrying out potentially unintended actions, and by using the help and information page.  </p>" +
+"<h6>6. Recognition rather than recall  </h6>" +
+"<p>By prioritising recognition in app design, designers can create apps that are easy to navigate. This will reduce the cognitive load on the users. When users can recognise elements within an app, such as icons, buttons, and navigation, they are able to quickly and efficiently complete tasks without having to rely on their memory of where specific information is located. Recall, however, requires users to remember specific information, which can be frustrating and time-consuming.  </p>" +
+"<h6>7. Flexibility and efficiency of use  </h6>" +
+"<p>Flexibility and efficiency of use are important in app design because they allow users to easily accomplish their goals. The app has been designed to be efficient and save users time and effort by using an intuitive interface. Users will be more likely to continue using an app if they can complete tasks quickly and easily. </p>" +
+"<h6>8. Aesthetic and minimalist design  </h6>" +
+"<p>Aesthetic and minimalist design is important in app design because it can improve the user experience by making the app visually appealing and easy to navigate. Aesthetic design creates a positive first impression. Minimalist design, on the other hand, focuses on simplicity. This means reducing clutter and making it easier for users to focus on the most important elements of the app. The app has been designed to meet these heuristics through the visual design.   </p>" +
+"<h6>9. Help users recognize, diagnose, and recover from errors  </h6>" +
+"<p>Helping users to recognise, diagnose, and recover from errors is important in app design because by providing clear error messages, users can quickly identify a problem and take steps to resolve them. This will reduce frustration for the user, making them enjoy using the app. When users can quickly identify the source of an error, they can take appropriate action to resolve the issue. In addition, providing users with self-help options, such as a FAQ, can help to solve issues without having to seek assistance from others. The Courtesy Light app provides a full FAQ and information on the device specifications.   </p>" +
+"<h6>10. Help and documentation  </h6>" +
+"<p>Help and documentation are important in app design because they provide users with the information and support they need to effectively use the app. Clear and concise documentation can help users understand  how to complete specific tasks. Having access to a help section will also reduce the likelihood of errors.   </p>" +
 "<h3>Roles</h3>" + 
 "<p> Text </p>" +
 "<h3>Scope and Limits </h3>" + 
 "<p> Text </p>" +
 "<h3>Tools and Technologies</h3>" + 
+"<h4>App Tools and Technologies  </h4>" +
+"<p>The developers will be using the latest stable release for the Integrated Development Environments (IDEs). Using the latest stable release is beneficial because it contains the latest improvements (Humble & Farley, 2010). This may include new features and functionality that will make the development process easier. Using the most recent stable release is also likely to have improved compatibility with the most recent libraries, technologies, and tools. This is particularity crucial for the Courtesy Light's Bluetooth API compatibility.   </p>" +
+"<ul>" + 
+"<li>The latest stable release of XCode is version 14.2  </li>" +
+"<li>The latest stable release of Android Studio is Android Studio Electric Eel | 2022.2.  </li>" +
+"<li>The latest stable release of Swift is version 5.7.3  </li>" +
+"<li>The latest stable release of Java is Java 19  </li>" +
+"<li>The latest stable release of Firebase Realtime Database SDK is 10.5.0 for iOS and 31.2.0 for Android (Java version).   </li>" +
+"</ul>" +
+"<p>The low-fidelity wireframes and app prototype use the web application Figma.  </p>" +
+"<ul>" + 
+"<li>Figma developed by Figma, Inc. Note: Figma has a free and premium version. I have used the premium version for the prototype, because I have a license from another course I am doing.   </li>" +
+"<li> </li>" +
+"<li> </li>" +
+"<li> </li>" +
+"<li> </li>" +
+"</ul>" +
+"<p> Text </p>" +
+"<p> Text </p>" +
 "<p> Text </p>" +
 "<h3>Testing </h3>" + 
 "<p> Text </p>" +
