@@ -429,6 +429,14 @@ export let project_plan =
 "<p> Text </p>" +
 "<h3>Scope and Limits </h3>" + 
 "<p> Text </p>" +
+"<h4>App Scope</h4>" +
+"<p>The app design has four main goals. These goals are considered the scope of the app.  </p>" +
+"<ul>" + 
+"<li>Pairing and Connecting: The app should provide a simple way for the user to connect to the Courtesy Light device and establish a Bluetooth connection. </li>" +
+"<li>Message customisation: The app should allow the user to create and edit custom messages to be displayed on the Courtesy Light. </li>" +
+"<li>Secure Connection: The app should ensure secure communication between the user's device and the Courtesy Light to protect user data. </li>" +
+"<li>User-friendly interface: The app should have a user-friendly interface, to make it easy for users to use all of its features.  </li>" +
+"</ul>" +
 "<h3>Tools and Technologies</h3>" + 
 "<h4>App Tools and Technologies  </h4>" +
 "<p>The developers will be using the latest stable release for the Integrated Development Environments (IDEs). Using the latest stable release is beneficial because it contains the latest improvements (Humble & Farley, 2010). This may include new features and functionality that will make the development process easier. Using the most recent stable release is also likely to have improved compatibility with the most recent libraries, technologies, and tools. This is particularity crucial for the Courtesy Light's Bluetooth API compatibility.   </p>" +
@@ -452,10 +460,17 @@ export let project_plan =
 "<p> Text </p>" +
 "<h3>Testing </h3>" + 
 "<p> Text </p>" +
+"<h4>App Development Testing </h4>" +
+"<p>App testing is an essential part of software development and a crucial step in ensuring the quality and usability of an application. App testing is an iterative process (Unadkat, 2022), and it is important to repeat the testing process multiple times to ensure that the app is of high quality and meets the needs of the users. There are several stages of app testing, including unit testing, functional testing, performance testing, security testing, and user testing (Android, 2022). These types of testing all require a different approach in order to test the app’s functionality.  </p>" +
+"<p>Unit testing involves testing individual components of an app to ensure they function as expected in isolation. This type of testing helps identify and fix any bugs or errors in the early stages of development (Muccini et al., 2012). This will make it easier to catch and fix problems before they have the chance to get worse. Functional testing is the process of verifying that an app meets its specified requirements and functions as intended. During functional testing, the app is tested in different scenarios, such as different input combinations, different screen sizes, and different operating systems. This is done to make sure it works as expected under different conditions. Performance testing is the process of evaluating an app’s performance and behaviour under real-world conditions. This type of testing is designed to identify performance bottlenecks and other issues that may impact the user experience. This includes things such as slow load times, long wait times, or poor app responsiveness. Security testing is performed to evaluate the app's security features and to identify any vulnerabilities that could be exploited by hackers or attackers. User testing is the final step in the testing process, where the app is tested by users to ensure that it meets their requirements and expectations. This is done as part of a beta or market research test. We have outlined our plans to conduct this type of testing elsewhere in this section.  </p>" +
+"<p>Concerning the testing that has been done so far for the Courtesy Light app, all testing has been within the unit testing and functional testing stages. This is because the prototype created for this assignment is UI design based, rather than programming based. Further development on the app would require completing other stages of testing to take place to ensure a fully functional and efficient app. Testing has included creation of keypath scenarios and low-fidelity wireframes. These were created to ensure that the user goals can be accomplished through the app. Low-Fidelity wireframes are beneficial to the testing process because they are a cheap and easy way to test functionality. By creating a simple and rough outline of the app's structure, it was easy to identify and address any potential issues with the layout, navigation, and overall user experience. This allowed for faster prototyping, resulting in a smoother design process. The testing for the app also involved creating several keypath scenarios. These scenarios were concerned with achieving the user’s goals for using the app. When tested, the keypath scenarios worked effectively with the wireframes. This suggests that the design has so far proven functional.   </p>" +
 "<h3>Timeframe</h3>" + 
 "<p> Text </p>" +
 "<h3>Risks</h3>" + 
 "<p> Text </p>" +
+"<h4>App Risks</h4>" +
+"<p>Using Bluetooth to connect the app to the Courtesy Light device has potential to be a security risk if proper measures aren’t taken. Bluetooth technology is not fully secure and can be vulnerable to hacking, making it easier for attackers to access sensitive information transmitted through the app (Loveless, 2018). Connecting to a device through an app that uses Bluetooth can potentially compromise the security of both the device and the user's personal information stored on it. Bluetooth signals can also be disrupted by other electronic devices, resulting in a loss of connection or data transmission errors.  </p>" +
+"<p>Encryption and disabling Bluetooth when not in use are common preventative measures. The Firebase Realtime Database has a set of developer tools to assist with security measures. These include; Security rules, user authentication, encryption, and access tokens. Successful integration of these security measures will decrease the risk from third party attacks through the Bluetooth connection.  </p>" +
 "<h3>Group Processes and Communications</h3>" + 
 "<p> Text </p>" +
 "<hr>"
