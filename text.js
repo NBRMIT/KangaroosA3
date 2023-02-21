@@ -791,7 +791,7 @@ export let project_plan =
 "</tr>"+
 
 "<tr>"+
-"<td>Week 3</td>"+
+"<td>Week 4</td>"+
 "<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
 "<ul>"+
 "<li>Brainstorm project ideas</li>"+
@@ -803,7 +803,7 @@ export let project_plan =
 "</tr>"+
 
 "<tr>"+
-"<td>Week 3</td>"+
+"<td>Week 5</td>"+
 "<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
 "<ul>"+
 "<li>Brainstorm project ideas</li>"+
@@ -815,7 +815,7 @@ export let project_plan =
 "</tr>"+
 
 "<tr>"+
-"<td>Week 3</td>"+
+"<td>Week 6</td>"+
 "<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
 "<ul>"+
 "<li>Brainstorm project ideas</li>"+
@@ -827,7 +827,7 @@ export let project_plan =
 "</tr>"+
 
 "<tr>"+
-"<td>Week 3</td>"+
+"<td>Week Blank</td>"+
 "<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
 "<ul>"+
 "<li>Brainstorm project ideas</li>"+
@@ -839,7 +839,7 @@ export let project_plan =
 "</tr>"+
 
 "<tr>"+
-"<td>Week 3</td>"+
+"<td>Week 7</td>"+
 "<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
 "<ul>"+
 "<li>Brainstorm project ideas</li>"+
@@ -851,7 +851,7 @@ export let project_plan =
 "</tr>"+
 
 "<tr>"+
-"<td>Week 3</td>"+
+"<td>Week 8</td>"+
 "<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
 "<ul>"+
 "<li>Brainstorm project ideas</li>"+
@@ -863,7 +863,7 @@ export let project_plan =
 "</tr>"+
 
 "<tr>"+
-"<td>Week 3</td>"+
+"<td>Week 9</td>"+
 "<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
 "<ul>"+
 "<li>Brainstorm project ideas</li>"+
@@ -873,6 +873,96 @@ export let project_plan =
 "</ul>"+
 "</td>"+
 "</tr>"+
+
+
+"<tr>"+
+"<td>Week 10</td>"+
+"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<ul>"+
+"<li>Brainstorm project ideas</li>"+
+"<li>Research potential technologies</li>"+
+"<li>Decide on a project idea</li>"+
+"<li>Write a rough outline of our project</li>"+
+"</ul>"+
+"</td>"+
+"</tr>"+
+
+"<tr>"+
+"<td>Week 11</td>"+
+"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<ul>"+
+"<li>Brainstorm project ideas</li>"+
+"<li>Research potential technologies</li>"+
+"<li>Decide on a project idea</li>"+
+"<li>Write a rough outline of our project</li>"+
+"</ul>"+
+"</td>"+
+"</tr>"+
+
+
+"<tr>"+
+"<td>Week 12</td>"+
+"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<ul>"+
+"<li>Brainstorm project ideas</li>"+
+"<li>Research potential technologies</li>"+
+"<li>Decide on a project idea</li>"+
+"<li>Write a rough outline of our project</li>"+
+"</ul>"+
+"</td>"+
+"</tr>"+
+
+
+"<tr>"+
+"<td>Week 13</td>"+
+"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<ul>"+
+"<li>Brainstorm project ideas</li>"+
+"<li>Research potential technologies</li>"+
+"<li>Decide on a project idea</li>"+
+"<li>Write a rough outline of our project</li>"+
+"</ul>"+
+"</td>"+
+"</tr>"+
+
+"<tr>"+
+"<td>Week 14</td>"+
+"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<ul>"+
+"<li>Brainstorm project ideas</li>"+
+"<li>Research potential technologies</li>"+
+"<li>Decide on a project idea</li>"+
+"<li>Write a rough outline of our project</li>"+
+"</ul>"+
+"</td>"+
+"</tr>"+
+
+
+"<tr>"+
+"<td>Week 15</td>"+
+"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<ul>"+
+"<li>Brainstorm project ideas</li>"+
+"<li>Research potential technologies</li>"+
+"<li>Decide on a project idea</li>"+
+"<li>Write a rough outline of our project</li>"+
+"</ul>"+
+"</td>"+
+"</tr>"+
+
+"<tr>"+
+"<td>Week 16</td>"+
+"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<ul>"+
+"<li>Brainstorm project ideas</li>"+
+"<li>Research potential technologies</li>"+
+"<li>Decide on a project idea</li>"+
+"<li>Write a rough outline of our project</li>"+
+"</ul>"+
+"</td>"+
+"</tr>"+
+
+
 
 
 "<tr>"+
@@ -905,7 +995,7 @@ export let skills_and_jobs =
 "<p><b>Who We Are:</b> </p>"+
 "<p>We are a small but dedicated group of individuals who are passionate about creating innovative products that enhance the driving experience. Our latest creation is a device that displays custom messages on car windows using LED lights. The device is powered by an Arduino board and can be controlled through a mobile app. We are dedicated to delivering a high-quality product that meets the needs of our customers and exceeds their expectations.</p>"+
 "<p><b>About the Position:</b></p>"+
-"<p> Text </p>"+
+"<p> We are seeking a talented Mobile App Developer to join our team for a small project. The successful candidate will have a passion for developing innovative and user-friendly apps for both iOS and Android platforms, as well as experience with Bluetooth technology.  </p>"+
 "<p><b>Responsibilities: </b> </p>"+
 "<ul>"+
 "<li>Design, develop, and maintain native mobile apps for iOS and Android  </li>"+
@@ -924,7 +1014,108 @@ export let skills_and_jobs =
 "<li>Ability to write clean, well-documented, and maintainable code </li>" +
 "<li>Good communication and collaboration skills </li>" +
 "</ul>"+
-"<p> Text </p>"+
+"<p>We offer a friendly and dynamic working environment, and the opportunity to work in an exciting entrepreneurial setting. If you're passionate about mobile app development and have a strong desire to deliver high-quality products, we would love to hear from you. If you think you're a fit for this role, please send your resume and a cover letter highlighting your relevant experience. </p>"+
+"<p>Note: Only shortlisted candidates will be contacted for an interview. </p>"+
+
+"<hr>" +
+
+"<h2>Job Title: Electronics Engineer  </h2>"+
+"<p>The electronics engineer will be responsible for designing, testing, and optimising the electronic components of the Courtesy Light. They will work to determine the specifications for the device. This includes things such as its size, power requirements, and desired features (Engineers Australia, 2023). The electronics engineer will work together with the industry and regulatory officer to ensure that the circuit design meets safety and regulatory requirements. They will also be required to ensure that it will be reliable enough to operate in various circumstances. The electronics engineer will also be responsible for determining the most appropriate electronics components to meet the requirements of the Courtesy Light device (Labor Market Insights, 2021). This will require the electronics engineer to create a schematic diagram of the device. This is a visual representation of the electronic circuits and components. This diagram will serve as the blueprint for the final product. Following this, the electronics engineer will test the prototypes of the Courtesy Light. This includes verifying that the circuit board and components are functioning properly, and that the device meets the specifications. The electronics engineer will also be required to work with the app developer to ensure that the device is compatible with the app. The electronics engineer will also provide ongoing support for the device. This includes troubleshooting any issues that arise, and making updates or modifications as needed. They may also work on new product development, and continue to improve the device to meet the changing needs of the users.  </p>"+
+"<h3>Job Ad: Electronics Engineer</h3>"+
+"<p><b>Who We Are:</b> </p>"+
+"<p>We are a small but dedicated group of individuals who are passionate about creating innovative products that enhance the driving experience. Our latest creation is a device that displays custom messages on car windows using LED lights. The device is powered by an Arduino board and can be controlled through a mobile app. We are dedicated to delivering a high-quality product that meets the needs of our customers and exceeds their expectations.</p>"+
+"<p><b>About the Position:</b></p>"+
+"<p>We are seeking a talented Electronics Engineer to join our team and help us design, develop and test the hardware and firmware of our new device. As our Electronics Engineer, you will be responsible for collaborating with our software team to ensure seamless integration of the hardware and firmware. This is a unique opportunity to be part of a small but dedicated team, and make a significant impact on our company's growth.</p>"+
+"<p><b>Responsibilities: </b> </p>"+
+"<ul>"+
+"<li>·	Design and develop electronic circuits and software for the car message display device based on Arduino technology.</li>"+
+"<li>·	Collaborate with the software team to ensure seamless integration of the hardware and firmware.</li>"+
+"<li>·	Develop and execute test plans to ensure the quality and reliability of the device.</li>"+
+"<li>·	Develop and maintain firmware for the device and mobile app.</li>"+
+"<li>·	Conduct testing and debugging to ensure the device operates reliably and meets customer needs.</li>" +
+"<li>·	Collaborate with the marketing and regulatory team to provide technical support and develop product documentation.</li>" +
+"<li>·	Assist in the troubleshooting and resolution of technical issues related to the hardware and firmware.</li>" +
+"</ul>"+
+"<p> <b>Requirements:  </b> </p>"+
+"<ul>"+
+"<li>·	Bachelor's degree in Electrical Engineering or a related field.</li>"+
+"<li>·	Certificate 3 in instrumental and control</li>"+
+"<li>·	Certificate 4 in instrumental and control </li>"+
+"<li>·	Certificate 3 in security equipment</li>"+
+"<li>·	Experience in consumer electronics or automotive industry is a plus</li>" +
+"<li>·	Excellent communication and interpersonal skills</li>" +
+"<li>·	Strong analytical and problem-solving skills</li>" +
+"<li>·	Experience working with small teams and startups preferred</li>" +
+"<li>·	Passion for innovation and creativity</li>" +
+"<li>·	Proven experience in designing, building, and testing electronic circuits and software.</li>" +
+"<li>·	Proficient in programming language C++ and experience with Arduino technology.</li>" +
+"<li>·	Knowledge of digital circuit design, microcontrollers, and sensors.</li>" +
+"<li>·	Strong problem-solving skills and attention to detail.</li>" +
+"<li>·	Excellent communication and interpersonal skills.</li>" +
+"<li>·	Experience in testing and debugging hardware and firmware.</li>" +
+"<li>·	Experience in the automotive industry is a plus.</li>" +
+"</ul>"+
+"<p>We offer a friendly and dynamic working environment, and the opportunity to work in an exciting entrepreneurial setting. If you're a skilled and enthusiastic Electronics Engineer looking for a new challenge, we'd love to hear from you. Please send your resume and a cover letter highlighting your relevant experience. </p>"+
+"<p>Note: Only shortlisted candidates will be contacted for an interview. </p>"+
+
+"<hr>" +
+
+"<h2>Job Title: Industry and Regulatory Officer</h2>"+
+"<p>The industry and regulatory officer will be responsible for ensuring that the Courtesy Light complies with all relevant laws, regulations, and standards. This will be required for each market that the Courtesy Light is released in. The Courtesy Light falls into the category of consumer electronics, which are required to meet many different rules and standards (Australian Competition and Consumer Commission, 2022). Since the Courtesy Light is also intended to be installed in a vehicle, it will need to be familiar with road vehicle standards. The industry and regulatory officer will also be required to ensure that the Courtesy Light complies with all relevant privacy and data protection regulations. This involves working with the app developer to develop privacy policies, and data protection processes. This is done to ensure that the app is secure and will protect the users' data. The industry and regulatory officer must also ensure that the device complies with all relevant standards for wireless communications, such as those for Bluetooth. This requires the regulatory officer to stay up to date on the latest wireless communications standards (National Careers Institute 2022), and to work with the development team to ensure that the device is designed to meet these standards. The industry and regulatory officer must also ensure that the device is marketed in a way that is compliant with all relevant advertising regulations. This includes working together with the marketing strategist to ensure that any claims made about the device in advertising materials are truthful, and that the device is marketed in a manner that is not misleading to customers.  </p>"+
+"<h3>Job Ad: Industry and Regulatory Officer</h3>"+
+"<p><b>Who We Are:</b> </p>"+
+"<p>We are a small but dedicated group of individuals who are passionate about creating innovative products that enhance the driving experience. Our latest creation is a device that displays custom messages on car windows using LED lights. The device is powered by an Arduino board and can be controlled through a mobile app. We are dedicated to delivering a high-quality product that meets the needs of our customers and exceeds their expectations.</p>"+
+"<p><b>About the Position:</b></p>"+
+"<p>We are seeking an experienced Industry and Regulatory Officer to join our team and help us navigate the regulatory landscape and ensure compliance with industry standards. As our Industry and Regulatory Officer, you will be responsible for collaborating with our hardware and software teams to ensure compliance with applicable regulations and standards. This is a unique opportunity to be part of a small but dedicated team, and make a significant impact on our company's growth.</p>"+
+"<p><b>Responsibilities: </b> </p>"+
+"<ul>"+
+"<li>·	Identify and monitor relevant industry and regulatory requirements for automotive device standards.</li>"+
+"<li>·	Collaborate with the hardware, software and marketing teams to ensure compliance with applicable regulations and standards.</li>"+
+"<li>·	Prepare and submit relevant documentation for regulatory approval.</li>"+
+"<li>·	Participate in product testing and certification processes.</li>"+
+"<li>·	Keep up-to-date with the latest industry and regulatory developments.</li>" +
+"<li>·	Communicate with regulatory agencies and industry organisations as needed.</li>" +
+"</ul>"+
+"<p> <b>Requirements:  </b> </p>"+
+"<ul>"+
+"<li>·	Bachelor's degree in a related field.</li>"+
+"<li>·	Proven experience in industry and regulatory compliance, preferably in the automotive industry.</li>"+
+"<li>·	Strong understanding of industry standards and regulations related to automotive electronics.</li>"+
+"<li>·	Excellent communication and interpersonal skills.</li>"+
+"<li>·	Strong analytical skills and attention to detail.</li>" +
+"<li>·	Ability to work independently and in a team environment.</li>" +
+"</ul>"+
+"<p>We offer a friendly and dynamic working environment, and the opportunity to work in a fast-paced, entrepreneurial environment. If you're an experienced Industry and Regulatory Officer looking for a new challenge, we'd love to hear from you. Please send your resume and a cover letter highlighting your relevant experience. </p>"+
+"<p>Note: Only shortlisted candidates will be contacted for an interview. </p>"+
+
+"<hr>" +
+
+"<h2>Job Title: Marketing Strategist   </h2>"+
+"<p>The marketing strategist will be responsible for producing the brand and marketing of the Courtesy Light. A strong marketing strategy will help generate awareness, interest, and demand for the device, which will ultimately lead to increased sales and profits. The marketing strategist will be required to research the target audience and to determine the best way to reach them. From this research, they will develop a clear idea for how to market the Courtesy Light (Louis, 2022). They will then be responsible for producing marketing materials. This includes the product packaging, website, and advertising. For this, they will need to develop a strong brand identity for the Courtesy Light. The Courtesy Light brand will need to be consistent across all marketing materials. This includes creating a logo, tagline, and visual style that accurately represents the product, and appeals to the target audience. The marketing strategist will also be responsible for monitoring and evaluating the effectiveness of the marketing campaigns. This can be evaluated through various metrics, such as website traffic, sales figures, and customer feedback (Morgan et al. 2018). The results of these evaluations will then be used to make informed decisions about future marketing campaigns. This will help to continually improve the marketing strategy and drive the success of the Courtesy Light.  </p>"+
+"<h3>Job Ad: Marketing Strategist </h3>"+
+"<p><b>Who We Are:</b> </p>"+
+"<p>We are a small but dedicated group of individuals who are passionate about creating innovative products that enhance the driving experience. Our latest creation is a device that displays custom messages on car windows using LED lights. The device is powered by an Arduino board and can be controlled through a mobile app. We are dedicated to delivering a high-quality product that meets the needs of our customers and exceeds their expectations.</p>"+
+"<p><b>About the Position:</b></p>"+
+"<p>We are seeking a talented marketing strategist to join our small team to help develop and execute marketing strategies for our new device. As our Marketing Strategist, you will be responsible for developing and executing marketing strategies that will drive sales and increase brand awareness.</p>"+
+"<p><b>Responsibilities: </b> </p>"+
+"<ul>"+
+"<li>·	Develop and maintain a content strategy that aligns with our brand voice and drives engagement</li>"+
+"<li>·	Develop and execute marketing strategies to drive sales and increase brand awareness</li>"+
+"<li>·	Create and manage marketing campaigns across various channels including social media, email, and advertising</li>"+
+"<li>·	Collaborate with the software and hardware development teams to identify product improvements and new features based on customer feedback and market trends</li>"+
+"<li>·	Analyse and report on marketing campaign performance and adjust strategies as needed </li>" +
+"<li>·	Stay up to date with industry trends, new technologies, and emerging platforms to identify new opportunities</li>" +
+"</ul>"+
+"<p> <b>Requirements:  </b> </p>"+
+"<ul>"+
+"<li>·	Bachelor's degree in Marketing, Business Administration or a related field</li>"+
+"<li>·	Experience in consumer electronics or automotive industry is a plus</li>"+
+"<li>·	Excellent communication and interpersonal skills</li>"+
+"<li>·	Strong analytical and problem-solving skills</li>"+
+"<li>·	Experience working with small teams and startups preferred</li>" +
+"<li>·	Passion for innovation and creativity</li>" +
+"</ul>"+
+"<p>We offer a friendly and dynamic working environment, and the opportunity to work in an exciting entrepreneurial setting. If you are passionate about marketing and excited about the opportunity to make an impact on a growing company, please send your resume and a cover letter highlighting your relevant experience. </p>"+
 "<p>Note: Only shortlisted candidates will be contacted for an interview. </p>"+
 
 "<hr>"
