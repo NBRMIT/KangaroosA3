@@ -755,44 +755,32 @@ export let project_plan =
 
   "<tr>"+
     "<td>Week 1</td>"+
-    "<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:</td>"+
+    "<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
     "<ul>"+
-      "<li>Brainstorm project ideas</li>"+
-      "<li>Research potential technologies</li>"+
-      "<li>Decide on a project idea</li>"+
-      "<li>Write a rough outline of our project</li>"+
-      "</ul>"+
-
-    "<td>Week 2</td>"+
-    "<td>Week 2 was our first group meeting. It was during this that we assigned members different tasks according to their skills, interests and expertise. We also began looking into the requirements for elements of the assignment, such as prototyping tools. By the end of week two we had the following complete:</td>"+
-    "<ul>"+        
-      "<li>Assign tasks to team members</li>"+
-      "<li>Begin looking into prototyping tools</li>"+
-      "<li>Set up team assignment and tools</li>"+
-      "</ul>"+
+    "<li>Brainstorm project ideas</li>"+
+    "<li>Research potential technologies</li>"+
+    "<li>Decide on a project idea</li>"+
+    "<li>Write a rough outline of our project</li>"+
+    "</ul>"+
+    
+    "</td>"+
 
 
   "</tr>"+
   "<tr>"+
     "<td>Nicole Brooker</td>"+
     "<td> text </td>"+
-    "<td> text </td>"+
-    "<td> text </td>"+
-    "<td> text </td>"+
+
   "</tr>"+
   "<tr>"+
   "<td>Tarish Kapur</td>"+
   "<td> text </td>"+
-  "<td> text </td>"+
-  "<td> text </td>"+
-  "<td> text </td>"+
+
 "</tr>"+
 "<tr>"+
     "<td>Tatsuya</td>"+
     "<td> text </td>"+
-    "<td> text </td>"+
-    "<td> text </td>"+
-    "<td> text </td>"+
+
 "</tr>"+
 "<tr>"+
 "</table>"+
