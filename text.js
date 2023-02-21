@@ -213,6 +213,7 @@ export let kangaroo_team_profiles =
 "<div><img src='./TR_BigFive.PNG'></div>"+
 "<p>The three tests helped me confirm and provide insight on my strengths and weaknesses which are important to know when working with a team. Teamwork is about a group of people working together in an efficient and effective manner to reach the same goal. It’s important to understand each member’s individual strengths and weaknesses to allocate the appropriate task.  The results I have obtained will help me convey my strengths and weaknesses to my team, helping not only myself but the team as well. This will help devise a plan/strategy to complete the assigned work effectively and efficiently.  </p>"+
 
+
 "<h2>Ideal Jobs Comparison Table</h2>" + 
 "<table>"+
   "<tr>"+
@@ -281,6 +282,62 @@ export let kangaroo_team_profiles =
 "<p>John is the Kangaroos member closest to being application ready for his ideal role. The other 4 members are in the earlier stages of their IT careers and understandably lack the necessary skills required for their ideal jobs. That said, every team member has a plan as to how they will obtain these skills and work towards their goals.  </p>"+
 
 
+"<hr>"+
+"<h4>Group Processes </h4>" +
+"<p>This assignment will follow the same procedure as assignment 2. Our team will communicate via Microsoft Teams, utilising the messaging features of the platform for regular updates and conversations. In addition, weekly meetings with a clear agenda and documented minutes will be organised. To ensure that everyone is on the same page, the team will be encouraged to participate in the MS Teams discussion boards and to upload our work to a shared template document on a regular basis. Much like with assignment 2, a shared document will be utilised for final submission.</p>"+
+"<p>Having a detailed and organised plan will also help us stay on track and focused on the project's objectives. We will create a detailed to-do list for this assignment, that includes all of the relevant tasks and responsibilities to keep us accountable and on track throughout the project. This will allow us to immediately detect potential problems and collaborate to overcome them before they become major obstacles.</p>"+
+
+"<hr>"+
+"<h4>Career Plans </h4>" +
+"<table>"+
+  "<tr>"+
+  "<th>Name</th>"+
+  "<th>Ideal Job Title</th>"+
+  "<th>Education and Skill Development</th>"+
+  "<th>Job Outlook and Industry Trends </th>"+
+  "<th>Analysis</th>"+
+  "</tr>"+
+
+  "<tr>"+
+    "<td>Ben</td>"+
+    "<td> text </td>"+
+    "<td> text </td>"+
+    "<td> text </td>"+
+    "<td> text </td>"+
+
+  "</tr>"+
+  "<tr>"+
+    "<td>Nicole Brooker</td>"+
+    "<td> text </td>"+
+    "<td> text </td>"+
+    "<td> text </td>"+
+    "<td> text </td>"+
+  "</tr>"+
+  "<tr>"+
+  "<td>Tarish Kapur</td>"+
+  "<td> text </td>"+
+  "<td> text </td>"+
+  "<td> text </td>"+
+  "<td> text </td>"+
+"</tr>"+
+"<tr>"+
+    "<td>Tatsuya</td>"+
+    "<td> text </td>"+
+    "<td> text </td>"+
+    "<td> text </td>"+
+    "<td> text </td>"+
+"</tr>"+
+"<tr>"+
+"</table>"+
+
+"<hr>"+
+"<h4>Career Plans Discussion </h4>" +
+"<p>text</p>"+
+"<p>text</p>"+
+
+
+
+
 "<hr>"
 
 
@@ -291,8 +348,8 @@ export let tools =
 "<h3>Microsoft Teams</h3>" + 
 "<p><a href='https://teams.microsoft.com/l/team/19%3aizXvHwCpaIgYFzzgCLLxkqUhPJvwfNKEUGXMoNcnipg1%40thread.tacv2/conversations?groupId=6a275845-1466-4e32-97a3-1389e32c07f9&tenantId=d1323671-cdbe-4417-b4d4-bdb24b51316b'>Kangaroos Team</a> </p>"+
 "<h2>GitHub Links</h2>" + 
-"<p><a href='https://github.com/JohnGude/kangaroos.github.io'>GitHub Repo</a> </p>"+
-"<p><a href='https://johngude.github.io/kangaroos.github.io'>GitHub Page</a> </p>"+
+"<p><a href='https://github.com/NBRMIT/KangaroosA3'>GitHub Repo</a> </p>"+
+"<p><a href='https://nbrmit.github.io/KangaroosA3/'>GitHub Page</a> </p>"+
 
 "<h3>Meetings</h3>" + 
 "<table>"+
@@ -304,31 +361,31 @@ export let tools =
   "<th>Tools</th>"+
   "</tr>"+
   "<tr>"+
-    "<td>23/12/2022</td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EfGFRFMFWElEjLY_y-c8t9YBjZfCXqSiKMIDMfj8-oIelQ?e=4df99n'>Agenda</a> </td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/ERkKG3B6_fNEr_HXG7kxofQBt3wkvveV5m0MfcwoeKhR9Q?e=jcWNym'>Recording</a></td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ESA1RSSRTllNhn_bk44M7RsBvrb1i2XyUsl3xbHdXdMaUg?e=r2f4z3'>Actions</a></td>"+
+    "<td>30/01/2023</td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EfH-nskXa2dMkeo8t1eeYyYBDEEZOvXxIGCsWIHQvGQxTQ?e=szMmeQ'>Agenda</a> </td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/EdNIRQzd2_NBoTti_EW6iI4B79pSXClbVCAI7aRdHujOKw?e=LCf2Fx'>Recording</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ERMcoHXkrX5KioxPX0FsqY8Bt9nfSqx9n6DUy9I_Zy4OPA?e=4R8Y3k'>Actions</a></td>"+
     "<td>MS Teams</td>"+
   "</tr>"+
   "<tr>"+
-    "<td>30/12/2022</td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EZ3xsA37Wn5Huc3LNGJ0idoBj21bbtADm3GCCNi2WSlXhQ?e=ug6Zy2'>Agenda</a></td>"+
-    "<td><a href='https://rmiteduau-my.sharepoint.com/:v:/g/personal/s3973475_student_rmit_edu_au/EWEYWvnOem5EpRNCE7YWBLgBAa8i19fN1xyv_SQVF0zORA?e=a8hxmz'>Recording</a></td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETbzMdXg2hlJroFxowXGzu4BJUiF_9r1mtZmjxvuloUl8Q?e=PaPPaq'>Actions</a></td>"+
+    "<td>06/02/2023</td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ET5xMFCmFU1DlykEBVB_QdsBoOELtNkLMNudk_V3FgOw_Q?e=7O99TL'>Agenda</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/EWxUjnlDS5BInt7esUr3PrwBNjKhzifoHrXQ_tK2kdU9HQ?e=FYEiyA'>Recording</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EaoEbP0z7Y9KnB8UDyc7yBsBMsCXMQbAbDBInnicjyh0dA?e=42McHs'>Actions</a></td>"+
     "<td>MS Teams</td>"+
   "</tr>"+
   "<tr>"+
-    "<td>6/1/2023</td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/Edh4kXsRWDpMi2YtJrnwkSABghzJgIgL5KWY4tGnNYgIUA?e=lLfpIK'>Agenda</a></td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/Ef8COeQLWFpEtQGMzCYQizgBlNvXdCmOGtF9gdxoZFO_hg?e=mQeJpp'>Recording</a></td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EYFDMyqyqnlJpFvU5BsMKCwBfWCemjm0OKCqi5qf8B2xLQ?e=yRmHiu'>Actions</a></td>"+
+    "<td>10/02/2023</td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EXp9NVq3zLRHqM8l1l_ZfnsB71n6UBxonq42sQEsxLWJjw?e=ULCn20'>Agenda</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/EWxUjnlDS5BInt7esUr3PrwBNjKhzifoHrXQ_tK2kdU9HQ?e=CMq0Db'>Recording</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETCTS4V1LA1Nra-XTfNR4aUBKbqMAhnrM65hznPOmD03ug?e=7rmD94'>Actions</a></td>"+
     "<td>MS Teams</td>"+
   "</tr>"+
   "<tr>"+
-  "<td>10/1/2023</td>"+
-  "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EVnbyKuX1pdFriod0BXueD8BhRUhqH13Q446G_H2ZVuQuA?e=cS1JBN'>Agenda</a></td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/sites/Kangaroos/Shared%20Documents/General/Recordings/Meeting%20in%20_General_-20230110_171145-Meeting%20Recording.mp4?web=1'>Recording</a></td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ETlfXZEl12xJsiYOxCgU0x4BW8lNtog6axjxzxbOT_JnpA?e=nr0fNH'>Actions</a></td>"+
+  "<td>17/02/2023</td>"+
+  "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EU3iO-e0JUVFqBEzyNWZe5wBtCwH1S74npv7mCzoTUxzUg?e=YV5906'>Agenda</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/EWTmvEMa-mhJrz7JT_e8drIB4SGN8Y7N_AxkZ-YAeeV_SA?e=9qKjyL'>Recording</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EX7Qlp7X6BNGoXkDBCUwMHkB3LebCCA_8tpGcOLNF-8C1w?e=MuAK0u'>Actions</a></td>"+
     "<td>MS Teams</td>"+
   "</tr>"+
   "<tr>"+
@@ -338,19 +395,7 @@ export let tools =
     "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EX2O97_x4ZZJnLdEMFQNXDABbN2axtngbjsUj3xF9gRjqw?e=awqbdr'>Actions</a></td>"+
     "<td>MS Teams</td>"+
   "</tr>"+
-  "<tr>"+
-    "<td>17/1/2023</td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/Edh4kXsRWDpMi2YtJrnwkSABghzJgIgL5KWY4tGnNYgIUA?e=lLfpIK'>Agenda</a></td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/EV_3dgmVAnVBiriXwlugMBYBYhrGtsa5s5SXsxKun7WpIQ?e=41QVcj'>Recording</a></td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EYFDMyqyqnlJpFvU5BsMKCwBfWCemjm0OKCqi5qf8B2xLQ?e=yRmHiu'>Actions</a></td>"+
-    "<td>MS Teams</td>"+
-   "</tr>"+
-   "<tr>"+
-    "<td>20/1/2023</td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/Ec-g2jcgjIZMsLZoOOz6SxABg8Fif_UrIA104oDGJR3Ksg?e=AaQSwE'>Agenda</a></td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/sites/Kangaroos/_layouts/15/stream.aspx?id=%2Fsites%2FKangaroos%2FShared%20Documents%2FGeneral%2FRecordings%2FMeeting%20in%20%5FGeneral%5F%2D20230120%5F180505%2DMeeting%20Recording%2Emp4&ga=1'>Recording</a></td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ESrdMCmrjnhKpZ1uuA1VLycB3I6JTgw9UUArpTUFRiOokQ?e=fh3MIB'>Actions</a></td>"+
-    "<td>MS Teams</td>"+
+
 "</tr>"+
 "</table>"+
 "<hr>"
