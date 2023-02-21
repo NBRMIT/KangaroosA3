@@ -398,6 +398,14 @@ export let tools =
 
 "</tr>"+
 "</table>"+
+
+"<hr>"+
+"<h3>•How well do you think your GitHub log of activity reflects your group’s work on this assignment?</h3>" + 
+"<p> Ben: </p>" +
+"<p> Nicole: </p>" +
+"<p> Tarish: </p>" +
+"<p> Tatsuya </p>" +
+
 "<hr>"
 
 
@@ -407,13 +415,26 @@ export let project_plan =
 
 "<h1>Project Plan</h1>" + 
 "<h2>Project Description </h2>" + 
-"<p> Text </p>" +
+"<hr>" +
+
 "<h2>Overview </h2>" + 
 "<p> Text </p>" +
+
+"<hr>" +
+
+
 "<h2>Detailed Description </h2>" + 
 "<p> Text </p>" +
+
+"<hr>" +
+
+
 "<h3>Aims </h3>" + 
 "<p> Text </p>" +
+
+"<hr>" +
+
+
 "<h3>Plans and Progress </h3>" + 
 "<p> Text </p>" +
 "<h4>App Development Story (so far)</h4>"+
@@ -470,8 +491,17 @@ export let project_plan =
 "<p>Helping users to recognise, diagnose, and recover from errors is important in app design because by providing clear error messages, users can quickly identify a problem and take steps to resolve them. This will reduce frustration for the user, making them enjoy using the app. When users can quickly identify the source of an error, they can take appropriate action to resolve the issue. In addition, providing users with self-help options, such as a FAQ, can help to solve issues without having to seek assistance from others. The Courtesy Light app provides a full FAQ and information on the device specifications.   </p>" +
 "<h6>10. Help and documentation  </h6>" +
 "<p>Help and documentation are important in app design because they provide users with the information and support they need to effectively use the app. Clear and concise documentation can help users understand  how to complete specific tasks. Having access to a help section will also reduce the likelihood of errors.   </p>" +
+
+
+"<hr>" +
+
+
 "<h3>Roles</h3>" + 
 "<p> Text </p>" +
+
+"<hr>" +
+
+
 "<h3>Scope and Limits </h3>" + 
 "<p> Text </p>" +
 "<h4>App Scope</h4>" +
@@ -482,6 +512,11 @@ export let project_plan =
 "<li>Secure Connection: The app should ensure secure communication between the user's device and the Courtesy Light to protect user data. </li>" +
 "<li>User-friendly interface: The app should have a user-friendly interface, to make it easy for users to use all of its features.  </li>" +
 "</ul>" +
+
+
+"<hr>" +
+
+
 "<h3>Tools and Technologies</h3>" + 
 "<h4>App Tools and Technologies  </h4>" +
 "<p>The developers will be using the latest stable release for the Integrated Development Environments (IDEs). Using the latest stable release is beneficial because it contains the latest improvements (Humble & Farley, 2010). This may include new features and functionality that will make the development process easier. Using the most recent stable release is also likely to have improved compatibility with the most recent libraries, technologies, and tools. This is particularity crucial for the Courtesy Light's Bluetooth API compatibility.   </p>" +
@@ -503,6 +538,11 @@ export let project_plan =
 "<p> Text </p>" +
 "<p> Text </p>" +
 "<p> Text </p>" +
+
+
+"<hr>" +
+
+
 "<h3>Testing</h3>" +
 "<p>After we develop the idea ourselves, with all of the features and design capabilities to handle the use-cases we see fit, we will conduct a survey (created via free online tool Survey Monkey) in order to gather feedback from the general public. The questions in this survey will cover people’s past experience with road rage, the likelihood of consumers taking up a product like the Courtesy Light, what types of transport they use, and what potential extra features they would like to see from a product like the Courtesy Light that could potentially be implemented into future revisions. This survey can be accessed via the following link <a href='https://www.surveymonkey.com/r/3KVYVQS'> https://www.surveymonkey.com/r/3KVYVQS</a>. </p>" +
 "<p>Market testing or beta testing is a critical stage in bringing a product to market. It involves testing the product with a smaller group of potential customers or early adopters to gather feedback and make any necessary improvements before the releasing the product to the full market (Teel 2016). Bringing a new product to the market is costly so it is paramount that concept development & testing along with market testing is done to extract as much feedback and data for the focused market. The demographic to target for the courtesy light is car owners who want to convey appreciation and gratitude to other drivers on the road. Additionally, the product can appeal to individuals who want a simple and user-friendly way to improve road safety by drawing attention to reckless driving behaviours. The strategy that projects team has decided on here is to conduct a survey targeted towards ride sharing drivers and delivery partners, such as Uber and Lyft, that can help to gather important feedback on the idea and gauge interest in participating in the concept testing. A full working week for an average uber driver is around 37.4 hours according to Alexander et al. (2022).  </p>" +
@@ -512,13 +552,23 @@ export let project_plan =
 "<p>App testing is an essential part of software development and a crucial step in ensuring the quality and usability of an application. App testing is an iterative process (Unadkat, 2022), and it is important to repeat the testing process multiple times to ensure that the app is of high quality and meets the needs of the users. There are several stages of app testing, including unit testing, functional testing, performance testing, security testing, and user testing (Android, 2022). These types of testing all require a different approach in order to test the app’s functionality.  </p>" +
 "<p>Unit testing involves testing individual components of an app to ensure they function as expected in isolation. This type of testing helps identify and fix any bugs or errors in the early stages of development (Muccini et al., 2012). This will make it easier to catch and fix problems before they have the chance to get worse. Functional testing is the process of verifying that an app meets its specified requirements and functions as intended. During functional testing, the app is tested in different scenarios, such as different input combinations, different screen sizes, and different operating systems. This is done to make sure it works as expected under different conditions. Performance testing is the process of evaluating an app’s performance and behaviour under real-world conditions. This type of testing is designed to identify performance bottlenecks and other issues that may impact the user experience. This includes things such as slow load times, long wait times, or poor app responsiveness. Security testing is performed to evaluate the app's security features and to identify any vulnerabilities that could be exploited by hackers or attackers. User testing is the final step in the testing process, where the app is tested by users to ensure that it meets their requirements and expectations. This is done as part of a beta or market research test. We have outlined our plans to conduct this type of testing elsewhere in this section.  </p>" +
 "<p>Concerning the testing that has been done so far for the Courtesy Light app, all testing has been within the unit testing and functional testing stages. This is because the prototype created for this assignment is UI design based, rather than programming based. Further development on the app would require completing other stages of testing to take place to ensure a fully functional and efficient app. Testing has included creation of keypath scenarios and low-fidelity wireframes. These were created to ensure that the user goals can be accomplished through the app. Low-Fidelity wireframes are beneficial to the testing process because they are a cheap and easy way to test functionality. By creating a simple and rough outline of the app's structure, it was easy to identify and address any potential issues with the layout, navigation, and overall user experience. This allowed for faster prototyping, resulting in a smoother design process. The testing for the app also involved creating several keypath scenarios. These scenarios were concerned with achieving the user’s goals for using the app. When tested, the keypath scenarios worked effectively with the wireframes. This suggests that the design has so far proven functional.   </p>" +
+
+
+"<hr>" +
+
 "<h3>Timeframe</h3>" + 
 "<p> Text </p>" +
+
+"<hr>" +
+
+
 "<h3>Risks</h3>" + 
 "<p> Text </p>" +
-"<h4>App Risks</h4>" +
-"<p>Using Bluetooth to connect the app to the Courtesy Light device has potential to be a security risk if proper measures aren’t taken. Bluetooth technology is not fully secure and can be vulnerable to hacking, making it easier for attackers to access sensitive information transmitted through the app (Loveless, 2018). Connecting to a device through an app that uses Bluetooth can potentially compromise the security of both the device and the user's personal information stored on it. Bluetooth signals can also be disrupted by other electronic devices, resulting in a loss of connection or data transmission errors.  </p>" +
-"<p>Encryption and disabling Bluetooth when not in use are common preventative measures. The Firebase Realtime Database has a set of developer tools to assist with security measures. These include; Security rules, user authentication, encryption, and access tokens. Successful integration of these security measures will decrease the risk from third party attacks through the Bluetooth connection.  </p>" +
+
+
+"<hr>" +
+
+
 "<h3>Group Processes and Communications</h3>" + 
 "<p>Clear and effective communication is paramount to the success of any project, and group projects are no exception. A well-organized and planned communication plan ensures that all team members are on the same page and working towards the same goal. We will employ a variety of synchronous and asynchronous communication tools, such as face-to-face meetings, video conferencing via Microsoft teams, email, and instant messaging, as a group. Meetings will take place once a week, with additional meetings planned as needed. Meeting agendas and minutes will be distributed ahead of time to ensure that everyone is aware of the topics to be discussed as well as the tasks given to each team member. </p>" +
 "<p>We will have a strategy in place to ensure that we can still make progress towards our goals if a team member does not reply to contact attempts. We will also establish a protocol for dealing with critical problems and how promptly responses are expected. We can ensure that the group remains focused, motivated, and productive throughout the project by establishing clear communication norms and expectations </p>" +
@@ -542,31 +592,19 @@ export let team_reflections =
 
 "<hr>"+
 
-"<h2>John Gude</h2>" +
-"<h4>What went well?</h4>" +
-"<p>As a group of people with varying backgrounds who had never met before, we came together and collaborated very well to complete the assignment within the scheduled deadlines. Our organisation and time management were our strengths.</p>"+
-"<h4>What could be improved?</h4>" +
-"<p>Decision making on what the project would be could have been improved and decisions made earlier in the process. However, the feasibility of the project was an early concern to the group and made deciding on the project more complex. The group used a voting system to get the consensus based on 3 concept ideas. It was decided through that medium that simplicity would be advantageous to us in the later stages should the concept idea need building.</p>"+
-"<h4>At least one thing that was surprising?</h4>" +
-"<p>That the team didn’t require direct leadership. We all contributed effectively and were proactive on taking action to complete tasks that need doing rather than having someone assign tasks to them. This team was built on initiative and collective benefit which is unusual within a new group of people.</p>"+
-"<h4>At least one thing that you have learned about groups?</h4>" +
-"<p>People often play down or are not confident about their skills or what they can offer in group situations.</p>"+
-"<h4>Tools how well you think your Github log of activity reflects your group’s work on the assignment</h4>" +
-"<p>The team used MS Teams as their primary communication platform. Weekly meetings were set up  along with meeting agenda and minutes, however MS teams chats was used as required during the week for general conversations and updates. Git updates messages were reflective of the updates by the team and were easy to understand and track. However, due to the configuration of the webpage, most updates were text based for the assignment sections rather than coding level updates. Access to Git and GitHub and teams was provided to all members while recordings etc were located on SharePoint, MS Teams repository. Alignment of GitHub updates and tasks allocated to team members during meetings mirrored very closely</p>" +
 
-"<hr>"+
 
 "<h2>Nicole Brooker</h2>" +
 "<h4>What went well?</h4>" +
-"<p>For this assignment, our group planned well ahead of when the assignment was due. This gave us plenty of time later on to organise and coordinate when we were working on more complicated parts of this assignment. The group has been able to effectively communicate through Microsoft Teams and everyone has been active and participated. </p>" +
+"<p> text </p>" +
 "<h4>What could be improved?</h4>" +
-"<p>While the group planned ahead, we took a decent amount of time to decide on a team project idea. This was largely due to discussion around what assignment 3 would require of our group and how everyone's interests and skill sets could be best utilised.   </p>" +
+"<p> text  </p>" +
 "<h4>At least one thing that was surprising?</h4>" +
-"<p>Our group was able to work well despite obstacles faced. For example, we had a member leave within the first couple of weeks and the work that had been allocated to them was swiftly undertaken by another group member. </p>" +
+"<p> text </p>" +
 "<h4>At least one thing that you have learned about groups?</h4>" +
-"<p>One thing that I have learned about groups is the benefit of group work when people are engaged. Group members brought different perspectives through their work, which I think was a great benefit to our final assignment.   </p>" +
+"<p> text  </p>" +
 "<h4>Tools how well you think your Github log of activity reflects your group’s work on the assignment</h4>" +
-"<p>Our group’s GitHub log is not necessarily a reflection on how our group worked for this assignment. This is due to our group making commits for small and large sections of this assignment and general troubleshooting taking up a generous number of commits.    </p>" +
+"<p> text </p>" +
 
 "<hr>"+
 
