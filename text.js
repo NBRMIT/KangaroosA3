@@ -782,7 +782,7 @@ export let project_plan =
 
 "<tr>"+
 "<td>Week 3</td>"+
-"<td>During week 3 we were able to get our prototypes up and going. This included the hardware prototype for the Courtesy Light device and the app prototype for the accompanying app. We also had more research into the local laws surrounding technology of the Courtesy Light and made modifications to our design in order to meet these requirements. More details about this change can be found in the plans and progress section of this report.  By the end of week 3 we had completed the following: " +
+"<td>During week 3 we were able to get our prototypes up and going. This included the hardware prototype for the Courtesy Light device and the app prototype for the accompanying app. We also had conducted more research into the local laws surrounding the technology of the Courtesy Light, and we made modifications to our design in order to meet the required standards. More details about this change can be found in the plans and progress section of this report.  By the end of week 3 we had completed the following:  " +
 "<ul>"+
 "<li>Building prototyping features and functionality</li>"+
 "<li>Research into further requirements</li>"+
@@ -793,84 +793,63 @@ export let project_plan =
 
 "<tr>"+
 "<td>Week 4</td>"+
-"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<td>For week four we realised we were likely down a team member compared to who we thought would be a part of this assignment. Due to this, we made some modifications around who was doing what work. We also began writing our reports on how the technologies would work in practice. This included researching the technical details and adding more features to improve functionality. We also began looking into testing processes and discussing how we could implement testing procedures. By the end of week four we had completed the following: " +
 "<ul>"+
-"<li>Brainstorm project ideas</li>"+
-"<li>Research potential technologies</li>"+
-"<li>Decide on a project idea</li>"+
-"<li>Write a rough outline of our project</li>"+
+"<li>Research into the technical details and how these would be implemented past the point of our team's work on the project </li>"+
+"<li>Add more features and functionality </li>"+
 "</ul>"+
 "</td>"+
 "</tr>"+
 
 "<tr>"+
 "<td>Week 5</td>"+
-"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<td>For week five our team was concerned with writing documentation and further expanding on the technical side of our project. This involved research into the flow of data and a complete redesign of how the app’s database would function. From this, we had finalised all of the features we wished to add and were confident with our documentation. By the end of week five we had completed the following: " +
 "<ul>"+
-"<li>Brainstorm project ideas</li>"+
-"<li>Research potential technologies</li>"+
-"<li>Decide on a project idea</li>"+
-"<li>Write a rough outline of our project</li>"+
+"<li>Finalising features and functionality </li>"+
+"<li>Writing documentation </li>"+
+"<li>Restructure for efficiency </li>"+
 "</ul>"+
 "</td>"+
 "</tr>"+
 
 "<tr>"+
 "<td>Week 6</td>"+
-"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
-"<ul>"+
-"<li>Brainstorm project ideas</li>"+
-"<li>Research potential technologies</li>"+
-"<li>Decide on a project idea</li>"+
-"<li>Write a rough outline of our project</li>"+
-"</ul>"+
+"<td>By week six we were more concerned with other sections of our assignment to be able to work further on our prototypes and project research/design. We discussed this during our team meetings and our work for this week reflected that. By the end of week six we had completed all that is seen in this report.  " +
 "</td>"+
 "</tr>"+
 
 "<tr>"+
-"<td>Week Blank</td>"+
-"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
-"<ul>"+
-"<li>Brainstorm project ideas</li>"+
-"<li>Research potential technologies</li>"+
-"<li>Decide on a project idea</li>"+
-"<li>Write a rough outline of our project</li>"+
-"</ul>"+
+"<td> </td>"+
+"<td>This is the week where our team’s work on this project has ended. Everything from Week 7 – Week 16 is just an estimate based on similarly sized tech projects.  " +
 "</td>"+
 "</tr>"+
 
 "<tr>"+
 "<td>Week 7</td>"+
-"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<td>"+
 "<ul>"+
-"<li>Brainstorm project ideas</li>"+
-"<li>Research potential technologies</li>"+
-"<li>Decide on a project idea</li>"+
-"<li>Write a rough outline of our project</li>"+
+"<li>Begin building app and hardware </li>"+
 "</ul>"+
 "</td>"+
 "</tr>"+
 
 "<tr>"+
 "<td>Week 8</td>"+
-"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<td>"+
 "<ul>"+
-"<li>Brainstorm project ideas</li>"+
-"<li>Research potential technologies</li>"+
-"<li>Decide on a project idea</li>"+
-"<li>Write a rough outline of our project</li>"+
+"<li>Implement basic security features </li>"+
+"<li>Conduct comprehensive testing </li>"+
+"<li>Reach out to manufacturing  </li>"+
 "</ul>"+
 "</td>"+
 "</tr>"+
 
 "<tr>"+
 "<td>Week 9</td>"+
-"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<td>" +
 "<ul>"+
-"<li>Brainstorm project ideas</li>"+
-"<li>Research potential technologies</li>"+
-"<li>Decide on a project idea</li>"+
-"<li>Write a rough outline of our project</li>"+
+"<li>Refactor code for efficacy </li>"+
+"<li>Write final documentation </li>"+
 "</ul>"+
 "</td>"+
 "</tr>"+
@@ -878,24 +857,21 @@ export let project_plan =
 
 "<tr>"+
 "<td>Week 10</td>"+
-"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<td>" +
 "<ul>"+
-"<li>Brainstorm project ideas</li>"+
-"<li>Research potential technologies</li>"+
-"<li>Decide on a project idea</li>"+
-"<li>Write a rough outline of our project</li>"+
+"<li>Create user guides  </li>"+
+"<li>Prepare for user beta test  </li>"+
+
 "</ul>"+
 "</td>"+
 "</tr>"+
 
 "<tr>"+
 "<td>Week 11</td>"+
-"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<td>" +
 "<ul>"+
-"<li>Brainstorm project ideas</li>"+
-"<li>Research potential technologies</li>"+
-"<li>Decide on a project idea</li>"+
-"<li>Write a rough outline of our project</li>"+
+"<li>Conduct beta test for small group of users </li>"+
+"<li>Monitor performance and user feedback </li>"+
 "</ul>"+
 "</td>"+
 "</tr>"+
@@ -903,12 +879,11 @@ export let project_plan =
 
 "<tr>"+
 "<td>Week 12</td>"+
-"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<td>" +
 "<ul>"+
-"<li>Brainstorm project ideas</li>"+
-"<li>Research potential technologies</li>"+
-"<li>Decide on a project idea</li>"+
-"<li>Write a rough outline of our project</li>"+
+"<li>Plan and implement updates and improvements </li>"+
+"<li>Focus on user engagement and outreach </li>"+
+
 "</ul>"+
 "</td>"+
 "</tr>"+
@@ -916,24 +891,20 @@ export let project_plan =
 
 "<tr>"+
 "<td>Week 13</td>"+
-"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<td>" +
 "<ul>"+
-"<li>Brainstorm project ideas</li>"+
-"<li>Research potential technologies</li>"+
-"<li>Decide on a project idea</li>"+
-"<li>Write a rough outline of our project</li>"+
+"<li>Begin work on deployment plan </li>"+
+"<li>Create marketing materials and online presence </li>"+
 "</ul>"+
 "</td>"+
 "</tr>"+
 
 "<tr>"+
 "<td>Week 14</td>"+
-"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<td>" +
 "<ul>"+
-"<li>Brainstorm project ideas</li>"+
-"<li>Research potential technologies</li>"+
-"<li>Decide on a project idea</li>"+
-"<li>Write a rough outline of our project</li>"+
+"<li>Gather and analyse user data </li>"+
+"<li>Consider adding new features and functionality </li>"+
 "</ul>"+
 "</td>"+
 "</tr>"+
@@ -941,30 +912,21 @@ export let project_plan =
 
 "<tr>"+
 "<td>Week 15</td>"+
-"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<td>" +
 "<ul>"+
-"<li>Brainstorm project ideas</li>"+
-"<li>Research potential technologies</li>"+
-"<li>Decide on a project idea</li>"+
-"<li>Write a rough outline of our project</li>"+
+"<li>Conduct comprehensive testing of updates </li>"+
 "</ul>"+
 "</td>"+
 "</tr>"+
 
 "<tr>"+
 "<td>Week 16</td>"+
-"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<td>" +
 "<ul>"+
-"<li>Brainstorm project ideas</li>"+
-"<li>Research potential technologies</li>"+
-"<li>Decide on a project idea</li>"+
-"<li>Write a rough outline of our project</li>"+
+"<li>Finalise deployment plan </li>"+
 "</ul>"+
 "</td>"+
 "</tr>"+
-
-
-
 
 "<tr>"+
 "</table>"+
