@@ -527,6 +527,8 @@ export let project_plan =
 "<p> Once the design was complete, I used Figma's prototyping tools to create a prototype that is able to simulate the app's user flow. This is an important step in the development process because it allows for testing and refining the app's design before the final app is built. This step also involved adding interactions and animations, which help to make the app feel more engaging and dynamic.  </p>" +
 "<p> This is the link to the full Figma prototype: <a href='https://www.figma.com/file/FJrR4kTfKRryLjKs51xvq0/Intro-App-Prototype?node-id=0%3A1&t=1BxME1avgTbCQ0Vr-1'>Figma Prototype</a>  </p>" +
 "<p> This is the link to the navigable Figma prototype: <a href='https://www.figma.com/proto/FJrR4kTfKRryLjKs51xvq0/Intro-App-Prototype?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3 '> Navigable Figma </a></p>" +
+"<p> Here is a link to a video demonstrating the navigation of the app: <a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/ERssRRcrq7tHjrTXx_MrV0MB4WVmTmq_WEugvO9n6SNI8w?e=53zuiW '> App Video </a></p>" +
+
 "<div><img src='./prototype_image.JPG'></div>"+
 
 
