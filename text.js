@@ -524,8 +524,8 @@ export let project_plan =
 "<p><b>App Prototype </b></p>" + 
 "<p> The app prototype features the navigation and functionality of the app. Once the wireframes were completed, I began adding more detail to the prototypes using Figma's design tools. This included adding colours, images, and other visual elements to make the app look more polished.   </p>" +
 "<p> Once the design was complete, I used Figma's prototyping tools to create a prototype that is able to simulate the app's user flow. This is an important step in the development process because it allows for testing and refining the app's design before the final app is built. This step also involved adding interactions and animations, which help to make the app feel more engaging and dynamic.  </p>" +
-"<p> This is the link to the full Figma prototype: <a href='https://www.figma.com/file/FJrR4kTfKRryLjKs51xvq0/Intro-App-Prototype?node-id=0%3A1&t=1BxME1avgTbCQ0Vr-1'></a> Figma Prototype </p>" +
-"<p> This is the link to the navigable Figma prototype: <a href='https://www.figma.com/proto/FJrR4kTfKRryLjKs51xvq0/Intro-App-Prototype?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3 '></a> Navigable Figma </p>" +
+"<p> This is the link to the full Figma prototype: <a href='https://www.figma.com/file/FJrR4kTfKRryLjKs51xvq0/Intro-App-Prototype?node-id=0%3A1&t=1BxME1avgTbCQ0Vr-1'>Figma Prototype</a>  </p>" +
+"<p> This is the link to the navigable Figma prototype: <a href='https://www.figma.com/proto/FJrR4kTfKRryLjKs51xvq0/Intro-App-Prototype?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3 '> Navigable Figma </a></p>" +
 "<div><img src='./prototype_image.JPG'></div>"+
 
 
@@ -692,13 +692,15 @@ export let project_plan =
 
 "<h3>Tools and Technologies</h3>" + 
 "<h4>App Tools and Technologies  </h4>" +
-"<p>The developers will be using the latest stable release for the Integrated Development Environments (IDEs). Using the latest stable release is beneficial because it contains the latest improvements (Humble & Farley, 2010). This may include new features and functionality that will make the development process easier. Using the most recent stable release is also likely to have improved compatibility with the most recent libraries, technologies, and tools. This is particularity crucial for the Courtesy Light's Bluetooth API compatibility.   </p>" +
+"<p>The developers will be using the latest stable release for the tools involved in the development of the Courtesy Light app. Using the latest stable release for programs is beneficial because the latest stable release contains the most recent improvements available (Humble & Farley, 2010). This may include new features and functionality that will make the development process easier. Using the most recent stable release is also likely to have improved compatibility with the most recent libraries, technologies, and tools. This is particularly crucial for the Courtesy Light's Bluetooth API compatibility.   </p>" +
 "<ul>" + 
 "<li>The latest stable release of XCode is version 14.2  </li>" +
 "<li>The latest stable release of Android Studio is Android Studio Electric Eel | 2022.2.  </li>" +
 "<li>The latest stable release of Swift is version 5.7.3  </li>" +
 "<li>The latest stable release of Java is Java 19  </li>" +
-"<li>The latest stable release of Firebase Realtime Database SDK is 10.5.0 for iOS and 31.2.0 for Android (Java version).   </li>" +
+"<li>The latest stable release of SQLite is version 3.40.1 </li>" +
+"<li>Firebase Cloud Messaging </li>" +
+"<li>Apple Push Notification Service </li>" +
 "</ul>" +
 "<p>The low-fidelity wireframes and app prototype use the web application Figma.  </p>" +
 "<ul>" + 
@@ -722,15 +724,79 @@ export let project_plan =
 "<p>We believe that because they spend a significant amount of time on the road and are more likely to have noticed a gap in the market for this product, this demographic will be ideal for contributing to our testing phase. The results of the survey, feedback from the concept testing phase, and any additional data and insights gathered through market research will be included in our acceptance criteria for this project. Our acceptance criteria for this project will be based on three key factors: Functionality, Performance, and Usability/Compatibility. Our goal is to ensure that the product meets the needs and expectations of our target market and performs well in real-world scenarios. The data and feedback collected through our survey and concept testing phase will be used to evaluate the product's functionality and performance, while user experience and compatibility with different car models and road conditions will also be taken into consideration. Ultimately, we aim to develop a product that not only meets but exceeds the expectations of our target market and contributes to road safety. Survey Monkey, a popular survey tool, will be used to collect data and insights from our target demographic. </p>" +
 "<p>This information will help us determine the product's potential success and guide the next steps in its development and commercialisation. In addition, we will assess the product's ability to meet customer expectations and provide a positive user experience. This will be done during the concept testing phase, in which we will create 6-8 concept designs and distribute them to Uber drivers who expressed interest in participating via the survey. We will collect feedback from participants on their experience with the concepts, including usability, design, and overall satisfaction, using survey monkey once more. This data will be used to improve the design during subsequent product development and, ultimately, to bring the product to market with confidence that it will meet the needs and expectations of its target audience. The ultimate goal of this project is to bring to market a product that solves a problem and adds value to its target audience. We will consider the project successful if it meets the requirements and standards outlined in the project plan and passes all tests with few or no errors. Additionally, user feedback and acceptance of the final product will be used to determine project success. </p>" +
 "<h4>App Development Testing </h4>" +
-"<p>App testing is an essential part of software development and a crucial step in ensuring the quality and usability of an application. App testing is an iterative process (Unadkat, 2022), and it is important to repeat the testing process multiple times to ensure that the app is of high quality and meets the needs of the users. There are several stages of app testing, including unit testing, functional testing, performance testing, security testing, and user testing (Android, 2022). These types of testing all require a different approach in order to test the app’s functionality.  </p>" +
-"<p>Unit testing involves testing individual components of an app to ensure they function as expected in isolation. This type of testing helps identify and fix any bugs or errors in the early stages of development (Muccini et al., 2012). This will make it easier to catch and fix problems before they have the chance to get worse. Functional testing is the process of verifying that an app meets its specified requirements and functions as intended. During functional testing, the app is tested in different scenarios, such as different input combinations, different screen sizes, and different operating systems. This is done to make sure it works as expected under different conditions. Performance testing is the process of evaluating an app’s performance and behaviour under real-world conditions. This type of testing is designed to identify performance bottlenecks and other issues that may impact the user experience. This includes things such as slow load times, long wait times, or poor app responsiveness. Security testing is performed to evaluate the app's security features and to identify any vulnerabilities that could be exploited by hackers or attackers. User testing is the final step in the testing process, where the app is tested by users to ensure that it meets their requirements and expectations. This is done as part of a beta or market research test. We have outlined our plans to conduct this type of testing elsewhere in this section.  </p>" +
-"<p>Concerning the testing that has been done so far for the Courtesy Light app, all testing has been within the unit testing and functional testing stages. This is because the prototype created for this assignment is UI design based, rather than programming based. Further development on the app would require completing other stages of testing to take place to ensure a fully functional and efficient app. Testing has included creation of keypath scenarios and low-fidelity wireframes. These were created to ensure that the user goals can be accomplished through the app. Low-Fidelity wireframes are beneficial to the testing process because they are a cheap and easy way to test functionality. By creating a simple and rough outline of the app's structure, it was easy to identify and address any potential issues with the layout, navigation, and overall user experience. This allowed for faster prototyping, resulting in a smoother design process. The testing for the app also involved creating several keypath scenarios. These scenarios were concerned with achieving the user’s goals for using the app. When tested, the keypath scenarios worked effectively with the wireframes. This suggests that the design has so far proven functional.   </p>" +
+"<p>App testing is an essential part of software development and a crucial step in ensuring the quality and usability of an application. App testing is an iterative process (Unadkat, 2022), and it is important to repeat the testing process multiple times to ensure that the app is high quality and meets the needs of the users. There are several stages of app testing, including unit testing, functional testing, performance testing, security testing, and user testing (Android, 2022). These types of testing all require a different approach in order to test the app’s functionality.  </p>" +
+"<p>Unit testing involves testing individual components of an app to ensure they function as expected while in isolation from other components. This type of testing helps identify and fix any bugs or errors in the early stages of development (Muccini et al. 2012). This will make it easier to catch and fix problems before they have the chance to get worse. Functional testing is the process of verifying that an app meets its specified requirements and functions as intended. During functional testing, the app is tested in different scenarios, such as different input combinations, different screen sizes, and different operating systems. This is done to make sure it works as expected under different conditions. Performance testing is the process of evaluating an app’s performance and behaviour under different real-world conditions. This type of testing is designed to identify performance bottlenecks and other issues that may impact the user experience. This includes testing for things such as slow load times, or poor app responsiveness. Security testing is the process of evaluating the app's security features. This is done to identify any vulnerabilities that could be exploited. User testing is the final step in the testing process, where the app is tested by users to ensure that it meets their requirements and expectations. This is done as part of a beta test run or market research testing. We have outlined our plans to conduct this type of testing elsewhere in this section. </p>" +
+"<p>Testing for an app can be done manually or through an automated system/program (Pai, 2022). Manual testing involves a human tester performing a set of test cases/scenarios on the app to test its functionality and identify any bugs or issues with their experience. Automated testing involves the use of tools and scripts to automate the testing process. Both manual and automatic testing have advantages. The choice between the two will often depend on the nature of the application, as well as the resources and budget available for the development team (Stanic, 2023). The testing for the Courtesy Light app will only require manual testing, due to the size and nature of the app. </p>" +
+"<p>Concerning what testing has so far taken place for the Courtesy Light app, all testing has been within the unit testing and functional testing stages. This is because the prototype created for this assignment is UI design based, rather than programming based. Further development on the app would require completing other stages of testing to take place to ensure a fully functional and efficient app. Testing has included creation of keypath scenarios and low-fidelity wireframes. The keypath scenarios that were created were concerned with achieving the user’s goals for using the app. These were created to ensure that the user goals can be accomplished through the app's design and navigation. The Low-Fidelity wireframes were beneficial to the testing process because they are an easy way to test functionality. By creating a simple and rough outline of the app's structure, it was easy to identify and address potential issues with the layout, navigation, and overall user experience. This in turn allowed for faster prototyping, resulting in a smoother design process. When tested, the keypath scenarios worked effectively with the wireframes. This suggests that the design has so far proven functional.  </p>" +
 
 
 "<hr>" +
 
 "<h3>Timeframe</h3>" + 
-"<p> Text </p>" +
+
+"<p>Starting in week 1, we created a basic idea for how long the project may take, based on research from similarly sized tech projects. This resulted in the following estimate: </p>" +
+
+"<ul>"+
+"<li>Concept and feasibility phase: 2-4 weeks </li>"+
+"<li>Design and prototyping phase: 4-8 weeks </li>"+
+"<li>Testing and verification phase: 4-8 weeks </li>"+
+"<li>Manufacturing and quality assurance phase: 8-12 weeks </li>"+
+"</ul>"+
+
+"<p>This gives a total estimated timeline of 18-32 weeks or 4-8 months. Compared to other similar tech projects, this timeline is relatively short, as it involves only basic features and simple hardware. For example, the development timeline for a more complex device could take 12-18 months or longer, due to the larger number of features and components involved (Crucible Design, 2019) (Pacific Research, 2020) (Teel, 2022).  </p>" +
+"<p>Understanding the timeframe for this project requires consideration to the fact that our team is that of university students, while a comparative team would be a team of professionals. This creates several gaps that affect the timeframe for the product to be produced. One of the main differences is the level of experience and knowledge that each group brings to the table. Professional teams typically consist of individuals who have been in the industry for a number of years. This means that they have a lot of experience and knowledge to work from, while our team for this project has limited knowledge and experience to work from. Our team members also have jobs, classes, and other commitments, which limits how much time and effort they can devote to the project. When compared to a project completed by a professional team, who are able to devote their full attention to the task at hand, this can result in a product that takes a significantly longer timeframe to produce. Professional teams will also typically have access to a wider variety of resources which can have a significant impact on the timeframe. This includes resources such as expertise, software, and equipment. While our team is limited by our budget and resources. Professional teams are also often working with real clients or stakeholders and are under pressure to deliver a high-quality product within a specified timeframe and budget. Our project, on the other hand, has less pressure. </p>" +
+"<p>The following is the week-by-week progress made by our team, and a projection on what could be accomplished for the following ten weeks. </p>" +
+
+"<table>"+
+  "<tr>"+
+  "<th>Week #</th>"+
+  "<th>Actions Taken</th>"+
+  "</tr>"+
+
+  "<tr>"+
+    "<td>Week 1</td>"+
+    "<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:</td>"+
+    "<ul>"+
+      "<li>Brainstorm project ideas</li>"+
+      "<li>Research potential technologies</li>"+
+      "<li>Decide on a project idea</li>"+
+      "<li>Write a rough outline of our project</li>"+
+      "</ul>"+
+
+    "<td>Week 2</td>"+
+    "<td>Week 2 was our first group meeting. It was during this that we assigned members different tasks according to their skills, interests and expertise. We also began looking into the requirements for elements of the assignment, such as prototyping tools. By the end of week two we had the following complete:</td>"+
+    "<ul>"+        
+      "<li>Assign tasks to team members</li>"+
+      "<li>Begin looking into prototyping tools</li>"+
+      "<li>Set up team assignment and tools</li>"+
+      "</ul>"+
+
+
+  "</tr>"+
+  "<tr>"+
+    "<td>Nicole Brooker</td>"+
+    "<td> text </td>"+
+    "<td> text </td>"+
+    "<td> text </td>"+
+    "<td> text </td>"+
+  "</tr>"+
+  "<tr>"+
+  "<td>Tarish Kapur</td>"+
+  "<td> text </td>"+
+  "<td> text </td>"+
+  "<td> text </td>"+
+  "<td> text </td>"+
+"</tr>"+
+"<tr>"+
+    "<td>Tatsuya</td>"+
+    "<td> text </td>"+
+    "<td> text </td>"+
+    "<td> text </td>"+
+    "<td> text </td>"+
+"</tr>"+
+"<tr>"+
+"</table>"+
+
 
 "<hr>" +
 
