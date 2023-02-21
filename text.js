@@ -654,9 +654,9 @@ export let project_plan =
 
 "<p><b>Frequently Asked Questions </b></p>" + 
 "<p>The app information page includes a Frequently Asked Questions (FAQ) section. The FAQ is designed to answer any questions the user may have in regard to using the app, and allows the user to resolve any issues they may have. A copy of the text from the FAQ is printed below. </p>" +
-"<p>Q: What kind of devices does the app work with? \n A: The app is designed to work with the Courtesy Light device, which can be connected through Bluetooth. </p>" +
-"<p> Text </p>" +
-"<p> Text </p>" +
+"<p>Q: What kind of devices does the app work with? <br> A: The app is designed to work with the Courtesy Light device, which can be connected through Bluetooth. </p>" +
+"<p>Q: Is the app available for both iOS and Android platforms? <br>  A: Yes, the app is available on both Android and iOS devices. </p>" +
+"<p> Q: How do I connect my Courtesy Light device to the app? <br> A: To connect your device to the app, make sure Bluetooth is enabled on your smartphone. Then select Bluetooth via the settings menu and follow the on screen prompts to complete the connection process.  </p>" +
 "<p> Text </p>" +
 "<p> Text </p>" +
 "<p> Text </p>" +
@@ -667,7 +667,8 @@ export let project_plan =
 
 
 "<h3>Roles</h3>" + 
-"<p> Text </p>" +
+"<p>For this assignment our group decided to adopt a holistic approach. This meant that we did not assign specific roles, such as Lead Developer, Technical Designer, or User Interface Designer, to team members. Instead, we encouraged everyone to take on different tasks and responsibilities as needed, based on their strengths, interests and expertise. This approach allowed us to take advantage of the unique skills and perspectives of each team member, leading to a more collaborative and efficient project.   </p>" +
+"<p>One of the benefits of taking this approach is that it fosters a sense of teamwork and encourages open communication among all team members (Tumpa et al., 2022). By not having specific roles, team members are free to share their thoughts and ideas on different sections, which will lead to a stronger project outcome. Additionally, this approach encourages team members to develop new skills and take on new challenges, which will hopefully lead team members to personal and academic growth. A holistic approach to a group project also allows for flexibility and adaptability (Freifeld, 2018). For example, if one team member is unable to complete their assigned task, the rest of the team can step in to support them. This not only ensures that the project continues to progress, but it also strengthens the team's ability to work together effectively.   </p>" +
 
 "<hr>" +
 
@@ -682,6 +683,8 @@ export let project_plan =
 "<li>Secure Connection: The app should ensure secure communication between the user's device and the Courtesy Light to protect user data. </li>" +
 "<li>User-friendly interface: The app should have a user-friendly interface, to make it easy for users to use all of its features.  </li>" +
 "</ul>" +
+"<h4>App Limits</h4>"+
+"<p>An app's design often determines its limitations, and one of the key decisions developers must make is whether to focus on simplicity or include a wide range of features. While having many features can be appealing to some users, it can also make the app more complex and harder to use (Selway, 2013). The Courtesy Light app design has opted for a simple and straightforward approach. There are several reasons for why this was chosen. Making an app simple can be important for attracting a wider audience, including those who may not be very tech-savvy. Many people are intimidated by complex technology and prefer apps that are straightforward and easy to use (Loranger, 2015). By focusing on simplicity in the design process, the Courtesy Light app was created to be accessible and user-friendly for a wide range of users, regardless of their technical expertise. More specifically, the Courtesy Light app is made for people who want a simple app that doesn't require a complicated setup or technical problems. The app is also designed to be more accessible for people who are unfamiliar with Bluetooth technology, with on screen prompts guiding the user through the connection process.   </p>" +
 
 
 "<hr>" +
