@@ -656,12 +656,13 @@ export let project_plan =
 "<p>The app information page includes a Frequently Asked Questions (FAQ) section. The FAQ is designed to answer any questions the user may have in regard to using the app, and allows the user to resolve any issues they may have. A copy of the text from the FAQ is printed below. </p>" +
 "<p>Q: What kind of devices does the app work with? <br> A: The app is designed to work with the Courtesy Light device, which can be connected through Bluetooth. </p>" +
 "<p>Q: Is the app available for both iOS and Android platforms? <br>  A: Yes, the app is available on both Android and iOS devices. </p>" +
-"<p> Q: How do I connect my Courtesy Light device to the app? <br> A: To connect your device to the app, make sure Bluetooth is enabled on your smartphone. Then select Bluetooth via the settings menu and follow the on screen prompts to complete the connection process.  </p>" +
-"<p> Text </p>" +
-"<p> Text </p>" +
-"<p> Text </p>" +
-"<p> Text </p>" +
-"<p> Text </p>" +
+"<p>Q: How do I connect my Courtesy Light device to the app? <br> A: To connect your device to the app, make sure Bluetooth is enabled on your smartphone. Then select Bluetooth via the settings menu and follow the on screen prompts to complete the connection process.  </p>" +
+"<p>Q: Can I change the message displayed on the Courtesy Light device through the app? <br> A: Yes, once your Courtesy Light device is connected to the app, you can change the message displayed on the device.  </p>" +
+"<p>Q: Is there a limit to the number of characters that can be displayed on the Courtesy Light device? <br> A: There is a limit to the number of characters that can be displayed on the device. Please refer to the Courtesy Light device's manual for specific details. </p>" +
+"<p>Q: Can I change the message displayed on the Courtesy Light device at any time? <br> A: Yes, once your Courtesy Light device is connected to the app, you can change the message displayed on the device at any time. </p>" +
+"<p>Q: Can the app be used with multiple Courtesy Light devices simultaneously? <br> A: The app allows connection with a single Courtesy Light device at a time.  </p>" +
+"<p>Q: How do I troubleshoot issues with connecting the app to the device? <br> A: If you are having trouble connecting the app to the Courtesy Light device, you can try restarting both the device and your phone, making sure Bluetooth is turned on, and checking the Bluetooth settings. If the problem persists, you can contact support for further assistance.  </p>" +
+"<p> support@courtesylight.com  </p>" +
 
 "<hr>" +
 
@@ -762,26 +763,118 @@ export let project_plan =
     "<li>Decide on a project idea</li>"+
     "<li>Write a rough outline of our project</li>"+
     "</ul>"+
-    
     "</td>"+
-
-
   "</tr>"+
-  "<tr>"+
-    "<td>Nicole Brooker</td>"+
-    "<td> text </td>"+
 
-  "</tr>"+
-  "<tr>"+
-  "<td>Tarish Kapur</td>"+
-  "<td> text </td>"+
 
+  "<tr>"+
+  "<td>Week 2</td>"+
+  "<td>Week 2 was our first group meeting. It was during this that we assigned members different tasks according to their skills, interests and expertise. We also began looking into the requirements for elements of the assignment, such as prototyping tools. By the end of week two we had the following complete:" +
+  "<ul>"+
+  "<li>Assign tasks to team members</li>"+
+  "<li>Begin looking into prototyping tools</li>"+
+  "<li>Set up team assignment and tools</li>"+
+  "</ul>"+
+  "</td>"+
 "</tr>"+
+
+
 "<tr>"+
-    "<td>Tatsuya</td>"+
-    "<td> text </td>"+
-
+"<td>Week 3</td>"+
+"<td>During week 3 we were able to get our prototypes up and going. This included the hardware prototype for the Courtesy Light device and the app prototype for the accompanying app. We also had more research into the local laws surrounding technology of the Courtesy Light and made modifications to our design in order to meet these requirements. More details about this change can be found in the plans and progress section of this report.  By the end of week 3 we had completed the following: " +
+"<ul>"+
+"<li>Building prototyping features and functionality</li>"+
+"<li>Research into further requirements</li>"+
+"<li>Modifications made as appropriate</li>"+
+"</ul>"+
+"</td>"+
 "</tr>"+
+
+"<tr>"+
+"<td>Week 3</td>"+
+"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<ul>"+
+"<li>Brainstorm project ideas</li>"+
+"<li>Research potential technologies</li>"+
+"<li>Decide on a project idea</li>"+
+"<li>Write a rough outline of our project</li>"+
+"</ul>"+
+"</td>"+
+"</tr>"+
+
+"<tr>"+
+"<td>Week 3</td>"+
+"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<ul>"+
+"<li>Brainstorm project ideas</li>"+
+"<li>Research potential technologies</li>"+
+"<li>Decide on a project idea</li>"+
+"<li>Write a rough outline of our project</li>"+
+"</ul>"+
+"</td>"+
+"</tr>"+
+
+"<tr>"+
+"<td>Week 3</td>"+
+"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<ul>"+
+"<li>Brainstorm project ideas</li>"+
+"<li>Research potential technologies</li>"+
+"<li>Decide on a project idea</li>"+
+"<li>Write a rough outline of our project</li>"+
+"</ul>"+
+"</td>"+
+"</tr>"+
+
+"<tr>"+
+"<td>Week 3</td>"+
+"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<ul>"+
+"<li>Brainstorm project ideas</li>"+
+"<li>Research potential technologies</li>"+
+"<li>Decide on a project idea</li>"+
+"<li>Write a rough outline of our project</li>"+
+"</ul>"+
+"</td>"+
+"</tr>"+
+
+"<tr>"+
+"<td>Week 3</td>"+
+"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<ul>"+
+"<li>Brainstorm project ideas</li>"+
+"<li>Research potential technologies</li>"+
+"<li>Decide on a project idea</li>"+
+"<li>Write a rough outline of our project</li>"+
+"</ul>"+
+"</td>"+
+"</tr>"+
+
+"<tr>"+
+"<td>Week 3</td>"+
+"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<ul>"+
+"<li>Brainstorm project ideas</li>"+
+"<li>Research potential technologies</li>"+
+"<li>Decide on a project idea</li>"+
+"<li>Write a rough outline of our project</li>"+
+"</ul>"+
+"</td>"+
+"</tr>"+
+
+"<tr>"+
+"<td>Week 3</td>"+
+"<td>From the first week, our team had the project idea done. This is because our project is based on the work from our previous assignment. This means that by the end of week one we had the following complete:" +
+"<ul>"+
+"<li>Brainstorm project ideas</li>"+
+"<li>Research potential technologies</li>"+
+"<li>Decide on a project idea</li>"+
+"<li>Write a rough outline of our project</li>"+
+"</ul>"+
+"</td>"+
+"</tr>"+
+
+
 "<tr>"+
 "</table>"+
 
@@ -806,7 +899,33 @@ export let project_plan =
 export let skills_and_jobs = 
 
 "<h1>Skills and Jobs</h1>" + 
+"<h2>Job Title: Mobile App Developer </h2>"
 "<p> Text </p>"+
+"<h3>Job Ad: App Developer   </h3>"
+"<p><b>Who We Are:</b> </p>"+
+"<p>We are a small but dedicated group of individuals who are passionate about creating innovative products that enhance the driving experience. Our latest creation is a device that displays custom messages on car windows using LED lights. The device is powered by an Arduino board and can be controlled through a mobile app. We are dedicated to delivering a high-quality product that meets the needs of our customers and exceeds their expectations.</p>"+
+"<p><b>About the Position:</b></p>"+
+"<p> Text </p>"+
+"<p><b>Responsibilities: </b> </p>"+
+"<ul>"+
+"<li>Design, develop, and maintain native mobile apps for iOS and Android  </li>"+
+"<li>Implement Bluetooth connectivity to connect the device with the app </li>"+
+"<li>Work with a multidisciplinary team to turn ideas into a great user experience </li>"+
+"<li>Write clean, maintainable, and efficient code </li>"+
+"<li>Ensure the performance, quality, and responsiveness of the app </li>" +
+"<li>Collaborate with the team to fix bugs and improve the app's functionality </li>" +
+"</ul>"+
+"<p> <b>Requirements:  </b> </p>"+
+"<ul>"+
+"<li>Bachelor's degree in computer science or a related field </li>"+
+"<li>Strong proficiency in Swift + XCode for iOS and Java + Android Studio for Android development </li>"+
+"<li>Hands-on experience with Bluetooth API (Application Programming Interface) </li>"+
+"<li>Excellent problem-solving and debugging skills </li>"+
+"<li>Ability to write clean, well-documented, and maintainable code </li>" +
+"<li>Good communication and collaboration skills </li>" +
+"</ul>"+
+"<p> Text </p>"+
+"<p>Note: Only shortlisted candidates will be contacted for an interview. </p>"+
 
 "<hr>"
 
