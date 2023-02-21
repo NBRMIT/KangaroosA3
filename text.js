@@ -437,9 +437,20 @@ export let project_plan =
 
 "<h3>Plans and Progress </h3>" + 
 "<p> Text </p>" +
-"<h4>App Development Story (so far)</h4>"+
-"<p>Design for the app began during assignment 2. This included building a basic understanding of platforms, what would be included and what would be required to create an app to meet the goal. It was decided that the app would be a native app for iOS and Android. For the iOS app, Swift would be the programming language and XCode would be the IDE. For the Android app, Java would be the programming language and Android Studio would be the IDE. The design of the app is designed to be user-centred and uses Nielsen’s Usability Heuristics as a guideline for the user interface. Nielsen's usability heuristics focus on simplicity and usability, which are key factors in designing a basic app (Nielsen 1994). The purpose of the app is to connect to the Courtesy Light and allow the user to make two individualised messages that will be displayed on the hardware device.   </p>" +
-"<h5>App Keypath Scenarios  </h5>" +
+"<h4>App Development Story</h4>"+
+"<p>Design for the app began during assignment 2. This included building a basic understanding of platforms, what would be included and what would be required to create an app to meet the requirements. It was decided that the app would be a native app for iOS and Android. This is because native apps can be distributed through the respective app stores, having met the compliance guidelines and regulations. For the iOS app, Swift will be the programming language and XCode will be the IDE. For the Android app, Java will be the programming language and Android Studio will be the IDE. The design of the app is focused on being user-centred. To achieve this, Nielsen’s Usability Heuristics will act as a guideline for the user interface. Nielsen's usability heuristics focus on simplicity and usability, which are key factors in designing a basic app (Nielsen 1994). The purpose of the app is to connect to the Courtesy Light device and allow the user to make two individualised messages that will be displayed on the device.  </p>" +
+
+"<p><b>Research and Inspiration</b></p>" + 
+"<p> Text </p>" +
+"<p> Text </p>" +
+"<p> Text </p>" +
+"<p> Text </p>" +
+
+"<p><b>Research and Inspiration</b></p>" + 
+"<p> Text </p>" +
+
+
+"<h4>App Keypath Scenarios  </h4>" +
 "<p>For the beginning of the design process, I created several keypath scenarios. Keypath scenarios are a design tool where you use a scenario to build a navigable path in the design (Lowdermilk, 2013). They are useful to app design because they help ensure that an app is designed with the user in mind. To create the keypath scenario, I started by identifying the primary tasks that users will perform in the app. Next, I mapped out the steps that a user would take to complete each task.   </p>" +
 "<p>Once I created the keypath scenarios, I used them as a guide for the design and development of the app. They were beneficial in informing decisions about which features to include, how to present information, and how to make navigation intuitive. </p>" +
 "<h5>Low-Fidelity Wireframes </h5>" +
