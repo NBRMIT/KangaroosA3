@@ -413,7 +413,7 @@ export let tools =
 
 export let project_plan = 
 
-"<h1>Project Plan</h1>" + 
+"<h1><i class='fa-solid fa-lightbulb-exclamation-on'></i> Project Plan</h1>" + 
 "<h2>Project Description </h2>" + 
 "<hr>" +
 
@@ -988,7 +988,8 @@ export let project_plan =
 
 export let skills_and_jobs = 
 
-"<h1>Skills and Jobs</h1>" + 
+"<h1><i class='fa-solid fa-briefcase'></i> Skills and Jobs</h1>" + 
+
 "<h2>Job Title: Mobile App Developer </h2>"+
 "<p> Text </p>"+
 "<h3>Job Ad: App Developer   </h3>"+
@@ -1028,32 +1029,32 @@ export let skills_and_jobs =
 "<p>We are seeking a talented Electronics Engineer to join our team and help us design, develop and test the hardware and firmware of our new device. As our Electronics Engineer, you will be responsible for collaborating with our software team to ensure seamless integration of the hardware and firmware. This is a unique opportunity to be part of a small but dedicated team, and make a significant impact on our company's growth.</p>"+
 "<p><b>Responsibilities: </b> </p>"+
 "<ul>"+
-"<li>·	Design and develop electronic circuits and software for the car message display device based on Arduino technology.</li>"+
-"<li>·	Collaborate with the software team to ensure seamless integration of the hardware and firmware.</li>"+
-"<li>·	Develop and execute test plans to ensure the quality and reliability of the device.</li>"+
-"<li>·	Develop and maintain firmware for the device and mobile app.</li>"+
-"<li>·	Conduct testing and debugging to ensure the device operates reliably and meets customer needs.</li>" +
-"<li>·	Collaborate with the marketing and regulatory team to provide technical support and develop product documentation.</li>" +
-"<li>·	Assist in the troubleshooting and resolution of technical issues related to the hardware and firmware.</li>" +
+"<li>Design and develop electronic circuits and software for the car message display device based on Arduino technology.</li>"+
+"<li>Collaborate with the software team to ensure seamless integration of the hardware and firmware.</li>"+
+"<li>Develop and execute test plans to ensure the quality and reliability of the device.</li>"+
+"<li>Develop and maintain firmware for the device and mobile app.</li>"+
+"<li>Conduct testing and debugging to ensure the device operates reliably and meets customer needs.</li>" +
+"<li>Collaborate with the marketing and regulatory team to provide technical support and develop product documentation.</li>" +
+"<li>Assist in the troubleshooting and resolution of technical issues related to the hardware and firmware.</li>" +
 "</ul>"+
 "<p> <b>Requirements:  </b> </p>"+
 "<ul>"+
-"<li>·	Bachelor's degree in Electrical Engineering or a related field.</li>"+
-"<li>·	Certificate 3 in instrumental and control</li>"+
-"<li>·	Certificate 4 in instrumental and control </li>"+
-"<li>·	Certificate 3 in security equipment</li>"+
-"<li>·	Experience in consumer electronics or automotive industry is a plus</li>" +
-"<li>·	Excellent communication and interpersonal skills</li>" +
-"<li>·	Strong analytical and problem-solving skills</li>" +
-"<li>·	Experience working with small teams and startups preferred</li>" +
-"<li>·	Passion for innovation and creativity</li>" +
-"<li>·	Proven experience in designing, building, and testing electronic circuits and software.</li>" +
-"<li>·	Proficient in programming language C++ and experience with Arduino technology.</li>" +
-"<li>·	Knowledge of digital circuit design, microcontrollers, and sensors.</li>" +
-"<li>·	Strong problem-solving skills and attention to detail.</li>" +
-"<li>·	Excellent communication and interpersonal skills.</li>" +
-"<li>·	Experience in testing and debugging hardware and firmware.</li>" +
-"<li>·	Experience in the automotive industry is a plus.</li>" +
+"<li>Bachelor's degree in Electrical Engineering or a related field.</li>"+
+"<li>Certificate 3 in instrumental and control</li>"+
+"<li>Certificate 4 in instrumental and control </li>"+
+"<li>Certificate 3 in security equipment</li>"+
+"<li>Experience in consumer electronics or automotive industry is a plus</li>" +
+"<li>Excellent communication and interpersonal skills</li>" +
+"<li>Strong analytical and problem-solving skills</li>" +
+"<li>Experience working with small teams and startups preferred</li>" +
+"<li>Passion for innovation and creativity</li>" +
+"<li>Proven experience in designing, building, and testing electronic circuits and software.</li>" +
+"<li>Proficient in programming language C++ and experience with Arduino technology.</li>" +
+"<li>Knowledge of digital circuit design, microcontrollers, and sensors.</li>" +
+"<li>Strong problem-solving skills and attention to detail.</li>" +
+"<li>Excellent communication and interpersonal skills.</li>" +
+"<li>Experience in testing and debugging hardware and firmware.</li>" +
+"<li>Experience in the automotive industry is a plus.</li>" +
 "</ul>"+
 "<p>We offer a friendly and dynamic working environment, and the opportunity to work in an exciting entrepreneurial setting. If you're a skilled and enthusiastic Electronics Engineer looking for a new challenge, we'd love to hear from you. Please send your resume and a cover letter highlighting your relevant experience. </p>"+
 "<p>Note: Only shortlisted candidates will be contacted for an interview. </p>"+
@@ -1069,21 +1070,21 @@ export let skills_and_jobs =
 "<p>We are seeking an experienced Industry and Regulatory Officer to join our team and help us navigate the regulatory landscape and ensure compliance with industry standards. As our Industry and Regulatory Officer, you will be responsible for collaborating with our hardware and software teams to ensure compliance with applicable regulations and standards. This is a unique opportunity to be part of a small but dedicated team, and make a significant impact on our company's growth.</p>"+
 "<p><b>Responsibilities: </b> </p>"+
 "<ul>"+
-"<li>·	Identify and monitor relevant industry and regulatory requirements for automotive device standards.</li>"+
-"<li>·	Collaborate with the hardware, software and marketing teams to ensure compliance with applicable regulations and standards.</li>"+
-"<li>·	Prepare and submit relevant documentation for regulatory approval.</li>"+
-"<li>·	Participate in product testing and certification processes.</li>"+
-"<li>·	Keep up-to-date with the latest industry and regulatory developments.</li>" +
-"<li>·	Communicate with regulatory agencies and industry organisations as needed.</li>" +
+"<li>Identify and monitor relevant industry and regulatory requirements for automotive device standards.</li>"+
+"<li>Collaborate with the hardware, software and marketing teams to ensure compliance with applicable regulations and standards.</li>"+
+"<li>Prepare and submit relevant documentation for regulatory approval.</li>"+
+"<li>Participate in product testing and certification processes.</li>"+
+"<li>Keep up-to-date with the latest industry and regulatory developments.</li>" +
+"<li>Communicate with regulatory agencies and industry organisations as needed.</li>" +
 "</ul>"+
 "<p> <b>Requirements:  </b> </p>"+
 "<ul>"+
-"<li>·	Bachelor's degree in a related field.</li>"+
-"<li>·	Proven experience in industry and regulatory compliance, preferably in the automotive industry.</li>"+
-"<li>·	Strong understanding of industry standards and regulations related to automotive electronics.</li>"+
-"<li>·	Excellent communication and interpersonal skills.</li>"+
-"<li>·	Strong analytical skills and attention to detail.</li>" +
-"<li>·	Ability to work independently and in a team environment.</li>" +
+"<li>Bachelor's degree in a related field.</li>"+
+"<li>Proven experience in industry and regulatory compliance, preferably in the automotive industry.</li>"+
+"<li>Strong understanding of industry standards and regulations related to automotive electronics.</li>"+
+"<li>Excellent communication and interpersonal skills.</li>"+
+"<li>Strong analytical skills and attention to detail.</li>" +
+"<li>Ability to work independently and in a team environment.</li>" +
 "</ul>"+
 "<p>We offer a friendly and dynamic working environment, and the opportunity to work in a fast-paced, entrepreneurial environment. If you're an experienced Industry and Regulatory Officer looking for a new challenge, we'd love to hear from you. Please send your resume and a cover letter highlighting your relevant experience. </p>"+
 "<p>Note: Only shortlisted candidates will be contacted for an interview. </p>"+
@@ -1099,21 +1100,21 @@ export let skills_and_jobs =
 "<p>We are seeking a talented marketing strategist to join our small team to help develop and execute marketing strategies for our new device. As our Marketing Strategist, you will be responsible for developing and executing marketing strategies that will drive sales and increase brand awareness.</p>"+
 "<p><b>Responsibilities: </b> </p>"+
 "<ul>"+
-"<li>·	Develop and maintain a content strategy that aligns with our brand voice and drives engagement</li>"+
-"<li>·	Develop and execute marketing strategies to drive sales and increase brand awareness</li>"+
-"<li>·	Create and manage marketing campaigns across various channels including social media, email, and advertising</li>"+
-"<li>·	Collaborate with the software and hardware development teams to identify product improvements and new features based on customer feedback and market trends</li>"+
-"<li>·	Analyse and report on marketing campaign performance and adjust strategies as needed </li>" +
-"<li>·	Stay up to date with industry trends, new technologies, and emerging platforms to identify new opportunities</li>" +
+"<li>Develop and maintain a content strategy that aligns with our brand voice and drives engagement</li>"+
+"<li>Develop and execute marketing strategies to drive sales and increase brand awareness</li>"+
+"<li>Create and manage marketing campaigns across various channels including social media, email, and advertising</li>"+
+"<li>Collaborate with the software and hardware development teams to identify product improvements and new features based on customer feedback and market trends</li>"+
+"<li>Analyse and report on marketing campaign performance and adjust strategies as needed </li>" +
+"<li>Stay up to date with industry trends, new technologies, and emerging platforms to identify new opportunities</li>" +
 "</ul>"+
 "<p> <b>Requirements:  </b> </p>"+
 "<ul>"+
-"<li>·	Bachelor's degree in Marketing, Business Administration or a related field</li>"+
-"<li>·	Experience in consumer electronics or automotive industry is a plus</li>"+
-"<li>·	Excellent communication and interpersonal skills</li>"+
-"<li>·	Strong analytical and problem-solving skills</li>"+
-"<li>·	Experience working with small teams and startups preferred</li>" +
-"<li>·	Passion for innovation and creativity</li>" +
+"<li>Bachelor's degree in Marketing, Business Administration or a related field</li>"+
+"<li>Experience in consumer electronics or automotive industry is a plus</li>"+
+"<li>Excellent communication and interpersonal skills</li>"+
+"<li>Strong analytical and problem-solving skills</li>"+
+"<li>Experience working with small teams and startups preferred</li>" +
+"<li>Passion for innovation and creativity</li>" +
 "</ul>"+
 "<p>We offer a friendly and dynamic working environment, and the opportunity to work in an exciting entrepreneurial setting. If you are passionate about marketing and excited about the opportunity to make an impact on a growing company, please send your resume and a cover letter highlighting your relevant experience. </p>"+
 "<p>Note: Only shortlisted candidates will be contacted for an interview. </p>"+
