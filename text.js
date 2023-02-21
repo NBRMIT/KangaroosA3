@@ -332,8 +332,9 @@ export let kangaroo_team_profiles =
 
 "<hr>"+
 "<h4>Career Plans Discussion </h4>" +
-"<p>text</p>"+
-"<p>text</p>"+
+"<p>There are a few things that everyone on our team has in common when it comes to their career plans. This includes the level of education required and industry trends regarding our job titles. All members seek to obtain a bachelor's degree related to their job title, which is perhaps unsurprising due to this assignment being part of an undergraduate degree. It is also promising that all of these careers are seeing job growth. This is according to the industry trend data from assignment 2. This indicates promising career prospects for all team members as most importantly, all of the group member’s chosen fields are growing not just in demand but also scope as more employers seek to improve their data analysis capabilities, their software offerings (both internal and external), and their information security. </p>"+
+"<p>Our group members also express some differences concerning their career plans. Despite the fact that all team member’s job titles fall under the STEM category, each has listed a distinct job title. This has led to members seeking to acquire a diverse range of skills. For instance, Tarish refers to standard certifications like CISSP, CISA, and CISM, while Ben and Nicole refer to particular programming languages like Python. The diverse interests amongst team members has been beneficial for this assignment, as members have been able to contribute in areas where they have a unique interest. </p>"+
+"<p>Despite these differences, the majority of members also want to gain work experience in their chosen field prior to assuming their ideal job role. Our team members will likely benefit from this industry experience for further skill development after earning their bachelor's degree.  </p>"+
 
 
 
