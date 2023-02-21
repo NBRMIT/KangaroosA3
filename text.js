@@ -413,7 +413,8 @@ export let tools =
 
 export let project_plan = 
 
-"<h1><i class='fa-solid fa-lightbulb-exclamation-on'></i> Project Plan</h1>" + 
+
+"<h1><i class='fa-solid fa-clipboard-list'></i> Project Plan</h1>" + 
 "<h2>Project Description </h2>" + 
 "<hr>" +
 
