@@ -899,9 +899,9 @@ export let project_plan =
 export let skills_and_jobs = 
 
 "<h1>Skills and Jobs</h1>" + 
-"<h2>Job Title: Mobile App Developer </h2>"
+"<h2>Job Title: Mobile App Developer </h2>"+
 "<p> Text </p>"+
-"<h3>Job Ad: App Developer   </h3>"
+"<h3>Job Ad: App Developer   </h3>"+
 "<p><b>Who We Are:</b> </p>"+
 "<p>We are a small but dedicated group of individuals who are passionate about creating innovative products that enhance the driving experience. Our latest creation is a device that displays custom messages on car windows using LED lights. The device is powered by an Arduino board and can be controlled through a mobile app. We are dedicated to delivering a high-quality product that meets the needs of our customers and exceeds their expectations.</p>"+
 "<p><b>About the Position:</b></p>"+
