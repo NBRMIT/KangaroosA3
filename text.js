@@ -308,10 +308,10 @@ export let kangaroo_team_profiles =
   "</tr>"+
   "<tr>"+
     "<td>Nicole Brooker</td>"+
-    "<td> text </td>"+
-    "<td> text </td>"+
-    "<td> text </td>"+
-    "<td> text </td>"+
+    "<td>Data Scientist</td>"+
+    "<td>Bachelor's degree in information technology or similar. Python, GCP, SQL, communication, problem solving, DevOps, teamwork.  </td>"+
+    "<td>According to the Industry Trends data from assignment 2, the job title is currently in demand and there is steady growth in this field. Additionally, the skills required for this position can be transferred across multiple career boundaries.  </td>"+
+    "<td>I need to work on these skills and get some work experience to meet the job requirements. After completing my bachelor's degree, I hope to find a graduate/junior/entry-level job and get experience working in the field. I believe that firsthand experience working in the field is one of the best ways to develop and build on existing skills. </td>"+
   "</tr>"+
   "<tr>"+
   "<td>Tarish Kapur</td>"+
@@ -402,7 +402,7 @@ export let tools =
 "<hr>"+
 "<h3>•How well do you think your GitHub log of activity reflects your group’s work on this assignment?</h3>" + 
 "<p> Ben: </p>" +
-"<p> Nicole: </p>" +
+"<p> Nicole: I believe that the GitHub log of activity reflects decently well on how our group worked on this assignment. Primarily as a result of individuals uploading the particular assignment sections that they have personally worked on, with a few minor exceptions. </p>" +
 "<p> Tarish: </p>" +
 "<p> Tatsuya </p>" +
 
@@ -709,10 +709,6 @@ export let project_plan =
 "<p>The low-fidelity wireframes and app prototype use the web application Figma.  </p>" +
 "<ul>" + 
 "<li>Figma developed by Figma, Inc. Note: Figma has a free and premium version. I have used the premium version for the prototype, because I have a license from another course I am doing.   </li>" +
-"<li> </li>" +
-"<li> </li>" +
-"<li> </li>" +
-"<li> </li>" +
 "</ul>" +
 "<p> Text </p>" +
 "<p> Text </p>" +
@@ -1099,15 +1095,14 @@ export let team_reflections =
 
 "<h2>Nicole Brooker</h2>" +
 "<h4>What went well?</h4>" +
-"<p> text </p>" +
+"<p>I think that one thing that was beneficial to our group for this assignment was that everyone had a unique perspective and skillset to contribute to the assignment. Because of this, we were able to approach tasks in a variety of ways and contribute to areas we had personal interest in.  I also think that the group work for this assignment has helped me personally in terms of improving skills related to teamwork. </p>" +
 "<h4>What could be improved?</h4>" +
-"<p> text  </p>" +
+"<p>On reflection, I believe that the way we divided up work did not make sense for what this assignment required. Early on we divided work based on sections. However, as time went on, I came to the realisation that it would be more logical for a few members to work on specific projects and bring their expertise to the project across all sections to ensure that the information remained consistent. For example, I did all of the work on the “app” part of this assignment, writing something about the app under each section. It became excessive when writing all of the app's details in addition to other sections, like the timeframe, skills and jobs, roles and creating the Figma prototype. In future group projects, I want to make sure that work is divided more mindfully from the beginning.   </p>" +
 "<h4>At least one thing that was surprising?</h4>" +
-"<p> text </p>" +
+"<p>I was surprised that the smaller group size wasn't too much of a hindrance on our team. I believe this is because it allowed everyone to make more meaningful contributions. Everyone was able to share their thoughts and their contributions were important to the final report.  </p>" +
 "<h4>At least one thing that you have learned about groups?</h4>" +
-"<p> text  </p>" +
-"<h4>Tools how well you think your Github log of activity reflects your group’s work on the assignment</h4>" +
-"<p> text </p>" +
+"<p>I have learned that online group work can be just as productive as in-person group work. Our group was able to communicate well through Microsoft Teams, sharing ideas, working on our assignments and providing feedback on member’s contributions. Planning for things like meetings was also alright, once time zones are understood and members communicate their availability.  </p>" +
+
 
 "<hr>"+
 
@@ -1120,9 +1115,6 @@ export let team_reflections =
 "<p>I was honestly surprised at how open everyone was to help if other team members were having issues. I have worked in teams before where there was an expectation that we all made our contributions, but it was the burden of one or two to pick up the slack (nominated as editors or scribes for example), but here things have been very smooth with everyone working to their strengths.</p>" +
 "<h4>At least one thing that you have learned about groups?</h4>" +
 "<p>I have learnt the value of open discussion regarding updating team other team members on progress of our sections. It ensures all team members are on the same page or can make adjustments to the workload if need be. </p>" +
-"<h4>Tools how well you think your Github log of activity reflects your group’s work on the assignment</h4>" +
-"<p>I feel the GitHub activity log does not necessarily accurate trace of amount of work done by team members overall but it does show that we were all participating. Whether individuals decided to add their contributions in large batches, in a series of small commits, or had others upload their sections, the logs can make it seem like some team members did significantly more work than the others which is not the case.</p>" +
-"<p>That said the group meeting discussion and meeting minutes documents are a closer reflection to how the work was divided amongst team members. We were quite active in the message forums within Microsoft Teams as well as regularly uploading our work into a shared template document and later a shared document for submission.</p>" +
 "<hr>"+
 
 "<h2>Tarish Kapur</h2>" +
@@ -1134,8 +1126,6 @@ export let team_reflections =
 "<p>One of the surprising parts of this project was the team's level of structure. We worked together to complete a task list set out by one of the group members, this ensured that each member understood their roles and what needed to be accomplished.  </p>" +
 "<h4>At least one thing that you have learned about groups?</h4>" +
 "<p>The success of a group's performance is frequently determined by its ability to effectively communicate and organise. Clear communication and organisation were the key pillars of our project's success. We were able to reduce the likelihood of errors and avoid unnecessary delays by ensuring that every team member understood their duties and responsibilities. It is evident that effective communication and organisation are critical components for any group's success. They lay the groundwork for a team to work together, stay focused, and complete the project on schedule and to a high standard. </p>" +
-"<h4>Tools how well you think your Github log of activity reflects your group’s work on the assignment</h4>" +
-"<p> The team found the GitHub log to be user-friendly, and several members were proficient in its use. This made it easy to resolve any issues that arose during the assignment. </p>" +
 
 "<hr>"+
 
@@ -1148,8 +1138,6 @@ export let team_reflections =
 "<p>One thing that surprised me was the diversity of our group members and how we were able to work coherently as a team to accomplish our end goal. </p>" +
 "<h4>At least one thing that you have learned about groups?</h4>" +
 "<p>I have learned that when working as a team we are able to overcome any challenges when we help and learn from each other as a team. </p>" +
-"<h4>Tools how well you think your Github log of activity reflects your group’s work on the assignment</h4>" +
-"<p>It is evident that the whole team is contributing towards our assignment as we have a record of our teams Github log. By observing the activity log on Github we can see all members of the team have contributed within a week. This reassures that our team is working together to accomplish our end goal.   </p>" +
 "<hr>"+
 
 "<h2>Group Reflection </h2>"+
