@@ -441,23 +441,55 @@ export let project_plan =
 "<p>Design for the app began during assignment 2. This included building a basic understanding of platforms, what would be included and what would be required to create an app to meet the requirements. It was decided that the app would be a native app for iOS and Android. This is because native apps can be distributed through the respective app stores, having met the compliance guidelines and regulations. For the iOS app, Swift will be the programming language and XCode will be the IDE. For the Android app, Java will be the programming language and Android Studio will be the IDE. The design of the app is focused on being user-centred. To achieve this, Nielsen’s Usability Heuristics will act as a guideline for the user interface. Nielsen's usability heuristics focus on simplicity and usability, which are key factors in designing a basic app (Nielsen 1994). The purpose of the app is to connect to the Courtesy Light device and allow the user to make two individualised messages that will be displayed on the device.  </p>" +
 
 "<p><b>Research and Inspiration</b></p>" + 
-"<p> Text </p>" +
-"<p> Text </p>" +
-"<p> Text </p>" +
-"<p> Text </p>" +
+"<p> When creating an app, it can be helpful to look to other successful apps for inspiration. From their user interface to their overall design elements, these apps can provide valuable insight into what makes an app user-friendly and engaging (Babich et al., 2021). By taking inspiration from the design elements and functionality from established apps, an app can be designed to be familiar to users and easier to understand, while still offering a unique value (Helios Design, 2022). The design of the Courtesy Light app was influenced by apps with user-friendly design interfaces and Bluetooth functionality. The Smart Life app, the Wo Mic app, and the Bose Connect app are a few examples of apps that have inspired the design of the Courtesy Light app.   </p>" +
+"<p> Smart Life is a smartphone app that allows users to control their smart home devices (Volcano Technology Limited, 2023). The app connects to smart home devices via Bluetooth, making it simple for users to control their devices from anywhere. Smart Life's user interface aims to be simple and easy to understand, making it easy for users to control their devices using on-screen prompts with just a few steps. Wo Mic is a smartphone app that allows users to turn their smartphone into a wireless microphone for their computer (Wolicheng Tech, 2023). The app uses Bluetooth or Wi-Fi technology to connect the smartphone to the computer, allowing users to make use of the phone's microphone as a microphone for their laptop or desktop. The app has a minimalist design, with only the absolute necessary buttons and controls available to the user. Bose Connect is a smartphone app that allows users to control their Bose headphones and speakers (Bose Corporation, 2023). The app uses Bluetooth technology to connect the smartphone to the Bose devices. This connection allows users to control their audio and adjust settings from their smartphone. The user interface of Bose Connect is simple and has a specific focus on making it easy for users to control their audio devices through Bluetooth.   </p>" +
+"<p> The design elements that have proven to be effective in these applications served as inspiration for the Courtesy Light app. This includes features such as Wo Mic’s minimalist design and Bose Connect’s fast and efficient Bluetooth connectivity. The Courtesy Light app's innovation stems primarily from its seamless integration with the Courtesy Light device. Utilising tried-and-true components, and adapting them to a new product we believe will be beneficial to a new audience. This, in turn, results in a one-of-a-kind benefit for the audience of the Courtesy Light.   </p>" +
+"<p> Following the research and inspiration phase, I outlined who would be the user groups for the app to get a better understanding of what their requirements would be.  </p>" +
 
-"<p><b>Research and Inspiration</b></p>" + 
-"<p> Text </p>" +
+"<p><b>User Groups</b></p>" + 
+"<p> Defining user groups is beneficial for app development because it helps developers to understand potential user’s needs and preferences. By identifying different user groups, developers can create user-centred designs that are tailored to specific user motivations, technological level and requirements. The three user groups I have identified for the Courtesy Light app are; New Users, Casual Users and Regular Users. </p>" +
+
+"<table>"+
+  "<tr>"+
+  "<th>User Type</th>"+
+  "<th>Motivations</th>"+
+  "<th>Technological Level</th>"+
+  "<th>Requirements</th>"+
+  "</tr>"+
+  "<tr>"+
+    "<td>New Users</td>"+
+    "<td>Want to try out the features of the Courtesy Light app. May already own a Courtesy Light device and use the default settings.</td>"+
+    "<td>Beginner - Advanced</td>"+
+    "<td>They require some sort of motivator to use the features of the app. The app should not be too complicated for them, but it should offer them something that they find useful.</td>"+
+
+  "</tr>"+
+  "<tr>"+
+    "<td>Casual Users</td>"+
+    "<td>They want to simply change the messages displayed on the Courtesy Light. </td>"+
+    "<td>Beginner - Advanced</td>"+
+    "<td>They require a simple app design layout and navigation system. Nothing too complicated, otherwise they may think the effort is not worth the benefit. </td>"+
+
+  "</tr>"+
+  "<tr>"+
+    "<td>Regular Users</td>"+
+    "<td>They want to regularly use the features of the app to change the messages displayed on their Courtesy Light. </td>"+
+    "<td>Beginner - Advanced</td>"+
+    "<td>They require a stable Bluetooth connection that allows them to regularly update their Courtesy Light device. </td>"+
+
+  "</tr>"+
+
+"</table>"+
+
+"<p> Following the defining of user groups, I had a better understanding of who I was making the app for. From this, I was able to begin the process of designing the app.  </p>" +
+
+"<p><b>Design Side  </b></p>" + 
+"<p>The design side of app development includes creating the look and feel of an application, as well as ensuring its usability and functionality. For the Courtesy Light app this has involved the creation of keypath scenarios and wireframes and the implementation of usability heuristics. </p>" +
 
 
 "<h4>App Keypath Scenarios  </h4>" +
-"<p>For the beginning of the design process, I created several keypath scenarios. Keypath scenarios are a design tool where you use a scenario to build a navigable path in the design (Lowdermilk, 2013). They are useful to app design because they help ensure that an app is designed with the user in mind. To create the keypath scenario, I started by identifying the primary tasks that users will perform in the app. Next, I mapped out the steps that a user would take to complete each task.   </p>" +
+"<p>For the beginning of the design process, I created several keypath scenarios. Keypath scenarios are a design tool where you use a scenario to build a navigable path in the design (Lowdermilk, 2013). They are useful to app design because they help ensure that an app is designed with the user in mind. To create the keypath scenario, I started by identifying the primary tasks that users will perform in the app. Next, I mapped out the steps that a user would take to complete each task.  </p>" +
 "<p>Once I created the keypath scenarios, I used them as a guide for the design and development of the app. They were beneficial in informing decisions about which features to include, how to present information, and how to make navigation intuitive. </p>" +
-"<h5>Low-Fidelity Wireframes </h5>" +
-"<p>Following the creation of keypath scenarios, I created a series of low-fidelity wireframes to ensure that I could fit this into the app's design. Low-fidelity wireframes are less detailed than the final design and don't focus on visual elements (Laubheimer, 2016). This allows for focusing on the layout, navigation, and functionality of the app. This means that you are able to easily make changes before it's too late in the process. Low-fidelity wireframes are beneficial for app design because they provide a fast way to explore design concepts early in the design process. </p>" +
-"<p>Following the development of the low-fidelity wireframes, they were tested against the keypath scenarios. The keypath scenarios suggested a few minor modifications that needed to be made. Making these modifications was a simple process, thanks to the simplicity of low-fidelity wireframes. Once these modifications were made, I began work on the app prototype.  </p>" +
-"<h5>App Prototype</h5>" +
-"<p>The app prototype features the navigation and functionality of the app.</p>" +
+
 "<p><b>Scenario 1:</b> Connecting to the device for the first time </p>" +
 "<ol>"+
 "<li>Ali opens the app and taps on the 'Settings' button.  </li>" +
@@ -467,7 +499,7 @@ export let project_plan =
 "<li>The app sends a request to the device to establish a connection.  </li>" +
 "<li>The device accepts the connection request, and the app displays a message indicating a successful connection.  </li>" +
 "</ol>"+
-"<p><b>Scenario 2:</b> Connecting to the device that has been previously paired and writing a new custom message for the Courtesy Light</p>" +
+"<p><b>Scenario 2:</b> Connecting to the device that has been previously paired and writing a new custom message for the Courtesy Light </p>" +
 "<ol>"+
 "<li>Ali opens the app and taps on the 'Settings' button.  </li>" +
 "<li>The app automatically connects to the device that has been previously paired as it is saved in the app's memory.  </li>" +
@@ -480,29 +512,79 @@ export let project_plan =
 "<li>The device receives the request, updates the message, and sends a confirmation to the app.  </li>" +
 "<li>The app displays a message indicating a successful message change.  </li>" +
 "</ol>"+
+
+"<p> Once I created the keypath scenarios, I used them as a guide for the design and development of the app. They were beneficial in informing decisions about which features to include, how to present information, and how to make navigation intuitive.  </p>" +
+
+"<p><b>Low-Fidelity Wireframes</b></p>" + 
+"<p> Following the creation of keypath scenarios, I created a series of low-fidelity wireframes to ensure that I could fit the scenarios into the app's design. Low-fidelity wireframes are less detailed than the final design and don't focus on visual elements (Laubheimer, 2016). This allows for focusing on the layout, navigation, and functionality of the app. This also means that you are able to easily make changes before it's too late in the process. Overall, low-fidelity wireframes are beneficial for app design because they provide a fast way to explore design concepts early in the design process. </p>" +
+"<div><img src='./wireframe_image.JPG'></div>"+
+"<p> Following the development of the low-fidelity wireframes, they were tested against the keypath scenarios. The keypath scenarios suggested a few minor modifications that needed to be made. Making these modifications was a simple process, thanks to the simplicity of low-fidelity wireframes. Modifications included the addition of a save and clear button in the customisation menu and access to notification settings. Once these modifications were made, I began work on the app prototype.   </p>" +
+
+
+"<p><b>App Prototype </b></p>" + 
+"<p> The app prototype features the navigation and functionality of the app. Once the wireframes were completed, I began adding more detail to the prototypes using Figma's design tools. This included adding colours, images, and other visual elements to make the app look more polished.   </p>" +
+"<p> Once the design was complete, I used Figma's prototyping tools to create a prototype that is able to simulate the app's user flow. This is an important step in the development process because it allows for testing and refining the app's design before the final app is built. This step also involved adding interactions and animations, which help to make the app feel more engaging and dynamic.  </p>" +
+"<p> This is the link to the full Figma prototype: <a href='https://www.figma.com/file/FJrR4kTfKRryLjKs51xvq0/Intro-App-Prototype?node-id=0%3A1&t=1BxME1avgTbCQ0Vr-1'></a> </p>" +
+"<p> This is the link to the navigable Figma prototype: <a href='https://www.figma.com/proto/FJrR4kTfKRryLjKs51xvq0/Intro-App-Prototype?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3 '></a> </p>" +
+"<div><img src='./prototype_image.JPG'></div>"+
+
+
+
 "<h5>Nielsen’s 10 Usability Heuristics </h5>" +
-"<p>For assignment 2, it was mentioned that the app’s user interface design would follow Jakob Nielsen’s 10 usability heuristics. Below is an outline of how each of these heuristics is important in app design and how they each were integrated into the UI design prototype.  </p>" +
-"<h6>1. Visibility of system status  </h6>" +
+"<p>For assignment 2, it was mentioned that the app’s user interface design would follow Jakob Nielsen’s 10 usability heuristics. Below is an outline of how each of these heuristics is important in app design and how they each were integrated into the prototype’s UI design. </p>" +
+
+"<p><b>1. Visibility of System Status  </b></p>" +
+"<div><img src='./usability_1.JPG'></div>"+
 "<p>Visibility of system status is important in app design because when users perform an action within an app, they expect to receive immediate feedback about the status of their request. If the system status is not visible, users may become confused, frustrated or assume that their action was not processed. </p>" +
-"<h6>2. Match between system and the real world  </h6>" +
+
+"<p><b>2. Match Between System and the Real World  </b></p>" +
+"<div><img src='./usability_2.JPG'></div>"+
 "<p>Matching the system and the real world is important in app design because it helps create a smooth user experience. Users are better able to comprehend and navigate an app when its behaviour and interface reflect how people think and interact with the world.  </p>" +
-"<h6>3. User control and freedom  </h6>" +
+
+"<p><b>3. User Control and Freedom  </b></p>" +
+"<div><img src='./usability_3.JPG'></div>"+
 "<p>User control and freedom are important in app design as they give users the power to determine how they interact with the app. Accessibility can also be improved by allowing users to adjust the app to better meet their individual needs through user control and freedom. </p>" +
-"<h6>4. Consistency and standards  </h6>" +
+
+"<p><b>4. Consistency and Standards  </b></p>" +
+"<div><img src='./usability_4.JPG'></div>"+
 "<p>Consistency and standards are important in app design because they provide users with a clear and predictable experience. When an app follows established design patterns, users can understand how the app works and can easily navigate through it.  </p>" +
-"<h6>5. Error prevention  </h6>" +
+
+"<p><b>5. Error Prevention  </b></p>" +
+"<div><img src='./usability_5.JPG'></div>"+
 "<p>Error prevention is important in app design because it helps to minimise the risk of users making mistakes while using the app. This was accomplished by providing confirmations prior to carrying out potentially unintended actions, and by using the help and information page.  </p>" +
-"<h6>6. Recognition rather than recall  </h6>" +
+
+"<p><b>6. Recognition Rather than Recall  </b></p>" +
+"<div><img src='./usability_6.JPG'></div>"+
 "<p>By prioritising recognition in app design, designers can create apps that are easy to navigate. This will reduce the cognitive load on the users. When users can recognise elements within an app, such as icons, buttons, and navigation, they are able to quickly and efficiently complete tasks without having to rely on their memory of where specific information is located. Recall, however, requires users to remember specific information, which can be frustrating and time-consuming.  </p>" +
-"<h6>7. Flexibility and efficiency of use  </h6>" +
+
+"<p><b>7. Flexibility and Efficiency of Use  </b></p>" +
+"<div><img src='./usability_7.JPG'></div>"+
 "<p>Flexibility and efficiency of use are important in app design because they allow users to easily accomplish their goals. The app has been designed to be efficient and save users time and effort by using an intuitive interface. Users will be more likely to continue using an app if they can complete tasks quickly and easily. </p>" +
-"<h6>8. Aesthetic and minimalist design  </h6>" +
+
+"<p><b>8. Aesthetic and Minimalist Design  </b></p>" +
+"<div><img src='./usability_8.JPG'></div>"+
 "<p>Aesthetic and minimalist design is important in app design because it can improve the user experience by making the app visually appealing and easy to navigate. Aesthetic design creates a positive first impression. Minimalist design, on the other hand, focuses on simplicity. This means reducing clutter and making it easier for users to focus on the most important elements of the app. The app has been designed to meet these heuristics through the visual design.   </p>" +
-"<h6>9. Help users recognize, diagnose, and recover from errors  </h6>" +
+
+"<p><b>9. Help Users Recognize, Diagnose, and Recover from Errors  </b></p>" +
+"<div><img src='./usability_9.JPG'></div>"+
 "<p>Helping users to recognise, diagnose, and recover from errors is important in app design because by providing clear error messages, users can quickly identify a problem and take steps to resolve them. This will reduce frustration for the user, making them enjoy using the app. When users can quickly identify the source of an error, they can take appropriate action to resolve the issue. In addition, providing users with self-help options, such as a FAQ, can help to solve issues without having to seek assistance from others. The Courtesy Light app provides a full FAQ and information on the device specifications.   </p>" +
-"<h6>10. Help and documentation  </h6>" +
+
+"<p><b>10. Help and Documentation  </b></p>" +
+"<div><img src='./usability_10.JPG'></div>"+
 "<p>Help and documentation are important in app design because they provide users with the information and support they need to effectively use the app. Clear and concise documentation can help users understand  how to complete specific tasks. Having access to a help section will also reduce the likelihood of errors.   </p>" +
 
+
+"<p><b>Technical side </b></p>" + 
+"<p>The technical side of app development includes choosing a development platform, programming language, and implementing features. For the Courtesy Light app this has included the implementation of Bluetooth, security, and notification functions. </p>" +
+
+"<p><b>Database Management</b></p>" + 
+"<p> Text </p>" +
+
+"<p><b>User Groups</b></p>" + 
+"<p> Text </p>" +
+
+"<p><b>User Groups</b></p>" + 
+"<p> Text </p>" +
 
 "<hr>" +
 
