@@ -524,8 +524,8 @@ export let project_plan =
 "<p><b>App Prototype </b></p>" + 
 "<p> The app prototype features the navigation and functionality of the app. Once the wireframes were completed, I began adding more detail to the prototypes using Figma's design tools. This included adding colours, images, and other visual elements to make the app look more polished.   </p>" +
 "<p> Once the design was complete, I used Figma's prototyping tools to create a prototype that is able to simulate the app's user flow. This is an important step in the development process because it allows for testing and refining the app's design before the final app is built. This step also involved adding interactions and animations, which help to make the app feel more engaging and dynamic.  </p>" +
-"<p> This is the link to the full Figma prototype: <a href='https://www.figma.com/file/FJrR4kTfKRryLjKs51xvq0/Intro-App-Prototype?node-id=0%3A1&t=1BxME1avgTbCQ0Vr-1'></a> </p>" +
-"<p> This is the link to the navigable Figma prototype: <a href='https://www.figma.com/proto/FJrR4kTfKRryLjKs51xvq0/Intro-App-Prototype?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3 '></a> </p>" +
+"<p> This is the link to the full Figma prototype: <a href='https://www.figma.com/file/FJrR4kTfKRryLjKs51xvq0/Intro-App-Prototype?node-id=0%3A1&t=1BxME1avgTbCQ0Vr-1'></a> Figma Prototype </p>" +
+"<p> This is the link to the navigable Figma prototype: <a href='https://www.figma.com/proto/FJrR4kTfKRryLjKs51xvq0/Intro-App-Prototype?node-id=1%3A3&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A3 '></a> Navigable Figma </p>" +
 "<div><img src='./prototype_image.JPG'></div>"+
 
 
@@ -578,12 +578,89 @@ export let project_plan =
 "<p>The technical side of app development includes choosing a development platform, programming language, and implementing features. For the Courtesy Light app this has included the implementation of Bluetooth, security, and notification functions. </p>" +
 
 "<p><b>Database Management</b></p>" + 
-"<p> Text </p>" +
+"<p>The Courtesy Light app will be using SQLite as the database management system to store and manage data. SQLite is a relational database management system (RDBMS) (SQLite, 2021). In technical terms, this allows an app to store information in a SQLite database by using SQL statements to create tables and insert, update, or retrieve data from those tables.  </p>" +
+"<p>Here is an overview of what that process will involve for the Courtesy Light app (SQLite Tutorial, 2022): </p>" +
+"<ol>"+
+"<li>The app will establish a connection to the SQLite database. This involves opening the database file on the device and creating a connection object that can be used to interact with the database. </li>" +
+"<li>The app will create a schema for the database by using SQL statements to define the structure of the tables. This will involve the columns demonstrated below. </li>" +
+"<li>The app will insert data into the tables by using SQL INSERT statements. This involves specifying the values for each column in the table and then executing the statement to insert the data into the database. </li>" +
+"<li>The app will also retrieve the data from the tables by using SQL SELECT statements. This involves specifying the columns and conditions for the data to be retrieved, and executing the statement to retrieve the data from the database. </li>" +
+"<li>The app will be able to update data in the tables by using SQL UPDATE statements. This involves specifying the columns and conditions for the data to be retrieved and executing the statement to update the data in the database. </li>" +
+"<li>The app will delete data from the tables by using SQL DELETE statements. This involves specifying the columns and conditions for the data to be retrieved and executing the statement to be deleted from the data in the database. </li>" +
+"</ol>"+
 
-"<p><b>User Groups</b></p>" + 
-"<p> Text </p>" +
+"<p>Below is an example of what the code for table creation will look like: </p>" +
+"<div><img src='./SQL_example.JPG'></div>"+
+"<p>The table in this is called “CL_device_messages”, an identifiable name for the purpose of the table. The code has three columns for the database; device_id, message_1 and message_2. The reason behind these identifiers is outlined below: </p>" +
+"<p>CL_device_messages: The title of the table. </p>" +
+"<p>device_id: The identifier of the device that the message is stored on. </p>" +
+"<p>message_1: The text of the first message that can be stored. </p>" +
+"<p>message_2: The text of the second message that can be stored. </p>" +
 
-"<p><b>User Groups</b></p>" + 
+
+"<p><b>Notification Feature </b></p>" + 
+"<p>The Courtesy Light app will contain a notification service to alert the user to any changes made within the app. Notifications are an important part of the Courtesy Light app because they act as an alert to the user about changes in the status of the system and alert the user to any events that have occurred. The purpose that notifications serve is to keep the user informed about what is happening in the system in real-time, without the need for the user to actively seek out this information (Salazar, 2015). They also provide the user with a quick and convenient way to take action if need be. All of this can be related back to the first usability heuristic outlined earlier: visibility of system status. There are two types of notifications that the Courtesy Light app will send; push notifications and in-app notifications.  </p>" +
+"<p>Push notifications are messages sent by apps that can appear on a smartphone device at any time. These notifications are part of both iOS or Android devices, with both systems having built-in tools to develop a push notification system. Push notifications are able to appear on the lock screen and in the notification centre, even if the app is not currently in use. The Courtesy Light app will include push notifications to alert the user to important updates to the device or messages from the Courtesy Light team. When an app sends a push notification, the following process occurs (Salesforce, 2022) (Ibrahim, 2021) (Bhardwaj, 2020): </p>" +
+"<ol>"+
+"<li>The app generates a notification payload. The notification payload consists of the message text, title, and any additional data needed. </li>" +
+"<li>The app uses the respective push notification services; Apple Push Notification Service (APNS) for iOS and Firebase for Android.</li>" +
+"<li>The app registers with the push notification service and receives a unique device token.</li>" +
+"<li>The app server sends a request to the push notification service. This will include the device token and the notification payload. </li>" +
+"<li>The push notification service receives the API request and sends the notification payload to the device which is associated with the device token.  </li>" +
+"<li>The device receives the notification payload and displays the notification to the user.</li>" +
+"<li>The user interacts with the notification. The app then retrieves and executes the additional information included in the notification payload, if there is any. </li>" +
+"</ol>"+
+"<div><img src='./push_flow.JPG'></div>"+
+"<p>In-app notifications are messages sent by an app to the user while they are actively using the app on their iOS or Android device. The Courtesy Light app will include in-app notifications concerning changes to the Bluetooth connection and changes to the message display. These notifications will be displayed as pop-up alerts within the app interface. Unlike push notifications, in-app notifications do not appear on the lock screen or in the notification centre. When an app sends an in-app notification, the following process occurs (Salesforce, 2022) (Microsoft Learn, 2023):</p>" +
+"<ol>"+
+"<li>The app generates a notification payload. The notification payload consists of the message text, title, and any additional data needed. </li>" +
+"<li>The app's code determines when to show the notification, based on when certain events occur within the app, such as the user selecting 'Bluetooth' or changing the messages in the app. </li>" +
+"<li>The app sends a request to the REST API to retrieve the notification payload.</li>" +
+"<li>The app then analyses the notification payload and displays the notification to the user within the app's interface.</li>" +
+"<li>When the user interacts with the notification, the back-end will be updated with the new status (e.g. read and accepted or dismissed). </li>" +
+"</ol>"+
+"<div><img src='./notif_flow.JPG'></div>"+
+
+"<p><b>Bluetooth </b></p>" + 
+"<p>Building on from assignment 2, the Courtesy Light device and app will connect to each other via Bluetooth. This will be a process done through collaboration with the SQLite Database. When the Courtesy Light device and app connect via Bluetooth, they will be able to exchange data with each other (Gomez et al., 2012). </p>" +
+"<p>To use Bluetooth in the app, the app must first be granted permission from the user. The process for granting Bluetooth access for app notifications is slightly different on Android devices compared to iOS. On Android devices, the user can find the app's Bluetooth permissions in their smartphone's settings (Android Help, 2023). Here they can either allow or deny the Courtesy Light access to their Bluetooth. On iOS devices, the user will be prompted with an in-app notification asking for permission to turn on Bluetooth for the Courtesy Light (Apple Support, 2022). For the Bluetooth connection, the app will discover the Bluetooth serial module attached to the Courtesy Light device, and establish a Bluetooth connection with it. This will be done using the Bluetooth libraries; Android's Bluetooth API and iOS's Core Bluetooth framework. Once this connection is established, the app can communicate with the device over the Bluetooth connection. This will include the sending and receiving data through the SQLite database.  </p>" +
+"<p>The following steps show the flow of data from the app, to the database, to the Courtesy Light device: </p>" +
+"<ol>"+
+"<li>The user launches the app on their device and selects the Bluetooth device they want to connect to. </li>" +
+"<li>The app establishes a Bluetooth connection with the device. </li>" +
+"<li>The user can now use the app's customisation screen to change the message displayed on the device. </li>" +
+"<li>When the user saves the new message, the app sends a request to the SQLite database to update the message. </li>" +
+"<li>The SQLite database updates either the message_1 or message_2 column in the table and sends a confirmation back to the app. </li>" +
+"<li>The app retrieves the updated message from the database and sends it to the device over the Bluetooth connection. This will, in turn, update the message displayed on the device. </li>" +
+"</ol>"+
+"<div><img src='./Data_flow.JPG'></div>"+
+
+"<p><b>Security</b></p>" + 
+"<p>Security is an important consideration when creating the Courtesy Light app because it helps to protect user information, and prevents unauthorised access. The use of Bluetooth technology creates a need for security measures to ensure that the Courtesy Light app data and device are protected (Padgette et al., 2022). There are several ways that security will be implemented for the Courtesy Light, including the use of Bluetooth Low Energy, LE Secure Connections and regular firmware updates.  </p>" +
+"<p>Bluetooth Low Energy (BLE) is good for security because it uses encryption algorithms to secure data transmission, making it difficult for outsiders to intercept and decode data (Li & Cui, 2019). Additionally, BLE uses short-range communication. This limits the range of communication available and reduces the risk of interference from any unauthorised devices. BLE also has several built-in security features that can be used to encrypt data and protect against unauthorised access, such as LE Secure Connections.</p>" +
+"<p>LE Secure Connections is another security measure for establishing a secure Bluetooth connection. LE Secure Connections is a security feature that was introduced in Bluetooth version 4.2 (Ren, 2022). It works by generating a private and a public key on each device. The public keys are then used to exchange and verify information during the pairing process. Once the devices are paired, the connection is encrypted using a shared secret key. This key is generated by combining the public and private keys of both devices. This process will, in turn, protect against any potential security threats. LE Secure Connections is supported on both Android and iOS devices that are compatible with BLE 4.2. </p>" +
+"<p>Updating the device's firmware is also good for security, because it works to fix vulnerabilities in the software that could otherwise be exploited (Bettayeb et al., 2019). As new security threats are discovered, firmware updates are released to address these issues, and improve the security of the device. By installing the latest firmware updates, users can make sure that their devices have the most up-to-date security features and that they are protected against known security threats. The Courtesy Light app will also require updates as the security standards change for iOS and Android devices. </p>" +
+
+"<p><b>Publishing </b></p>" + 
+"<p>The app will be published to the Apple App Store and Google Play Store. The publishing process for each differs slightly.</p>" +
+"<p>To publish an app on the Apple App Store, you need to register as an iOS developer and create an Apple Developer account (Apple Inc., 2023). An app listing in App Store Connect, which is Apple's portal for managing your app, will then need to be created. This listing will include adding details such as the app name, description, and screenshots. The price for the Courtesy Light app will be free, with the cost of development being factored into the pricing of the Courtesy Light device. Once the app is ready, it can be submitted for review to the App Store. During the process of reviewing an app, Apple typically takes a few days to verify that it complies with Apple's App Store Guidelines and is free of bugs and other issues. Once the app has been approved, it will be available for download on the Apple App Store. </p>" +
+"<p>To publish an app on the Google Play Store, you need to register as an Android developer and create a Google Play Developer account (Android, 2023). A new app listing on the Google Play Console will need to be created after the account has been set up (Google Play, 2023). This requires the information about the app, such as its title, description, and screenshots. The APK file will also need to be uploaded for review. The APK file is the package of the app's code and resources. This is also the time to set the app's pricing and distribution options. This will match the details from the Apple App Store publishing. Because the app is a native app, it will have met Google Play's policies and guidelines. Once all of these details are complete, the app is ready to be submitted for review. The review process for Android apps will typically take a few days. Once the app has been approved, it will be available for download on the Google Play Store. </p>" +
+
+"<p><b>Maintenance and Update Compatibility  </b></p>" + 
+"<p>Maintenance and update compatibility are important factors to consider when creating an app. Maintenance is important for any application because it ensures that the app remains secure, stable, efficient, and relevant for its users. User feedback is an important part of the creation of any application as it provides developers with a 2-way communication channel with their user base. It is an important tool for ensuring that The Courtesy Light app is meeting the needs of its users. This helps with making data-driven decisions about how to improve the app. User feedback will be collected within the app, through the support email on the Help and Information page. The updates for the app will be centred around what the feedback has told the development team. The type of feedback users will be able to provide from within the app will include reporting any errors that they have encountered and any recommendations they may have (Singh 2020). The user feedback feature will also follow Nielsen's heuristics guidelines and be simple and easy to use, making the option to provide feedback accessible.  The feedback that is received will also provide the developers with more detailed information on how users are interacting with the app and Courtesy Light device. </p>" +
+
+"<p><b>Future Steps </b></p>" + 
+"<p>Now that the design prototype has been tested and refined, and the technical aspects have been discussed, the Courtesy Light app can be turned into a real application. Figma's code export feature allows developers to generate the assets needed for the app (Figma Help Center, 2022). From this, these assets will be used to build the app through the Xcode and Android Studio IDEs. Before the app is released, it will need to go through thorough testing to ensure that it works as expected, and to fix any bugs or glitches. Testing for the app is explained further in the testing section of this assignment.  </p>" +
+
+"<p><b>Frequently Asked Questions </b></p>" + 
+"<p>The app information page includes a Frequently Asked Questions (FAQ) section. The FAQ is designed to answer any questions the user may have in regard to using the app, and allows the user to resolve any issues they may have. A copy of the text from the FAQ is printed below. </p>" +
+"<p>Q: What kind of devices does the app work with? \n A: The app is designed to work with the Courtesy Light device, which can be connected through Bluetooth. </p>" +
+"<p> Text </p>" +
+"<p> Text </p>" +
+"<p> Text </p>" +
+"<p> Text </p>" +
+"<p> Text </p>" +
+"<p> Text </p>" +
 "<p> Text </p>" +
 
 "<hr>" +
