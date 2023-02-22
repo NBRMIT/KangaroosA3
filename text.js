@@ -254,11 +254,10 @@ export let kangaroo_team_profiles =
 
   "<tr>"+
     "<td>Ben</td>"+
-    "<td> text </td>"+
-    "<td> text </td>"+
-    "<td> text </td>"+
-    "<td> text </td>"+
-
+    "<td>Bioinformatician - Genomic Data Science </td>"+
+    "<td>BSc in computational biology, or related field with 3+ year's experience (or equivalent). Skills: Fluency in at least one programming language (Python preferred), problem solving skills, experience with scaling data pipelines, working in a collaborative coding environment, and large-scale genomic data. </td>"+
+    "<td>Data science in the field of genomics is growing at a rapid pace, there are massive amounts of genomic data produced daily and comparatively few people skilled in the art of translating this data into useful research outcomes. This is a growing industry (as is data science overall) with plenty of great employment opportunities available. </td>"+
+    "<td>Upon completing my BSc in Applied Science, I will be well equipped with the domain knowledge required. A Masters in bioinformatics/computational biology would be a good next step in order to gain the necessary skills around dealing with genomic data, generating pipelines and honing my python skills. Regarding working in a collaborative coding environment, the best way would be to get a job at a research facility (industry or academic). </td>"+
   "</tr>"+
   "<tr>"+
     "<td>Nicole Brooker</td>"+
