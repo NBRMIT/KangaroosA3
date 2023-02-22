@@ -4,10 +4,7 @@ export let kangaroo_team_profiles =
 "<h2>Team Members</h2>" + 
 
 "<div class='main_card_container'>"+
-"<div class='card_container'>"+
 
-  
-"</div>"+
 "<div class='card'>"+
 "<img src='./nb_photo.jpg' alt='Nicole Brooker' style='width:100%'></img>"+
   "<div class='container_pic'>"+
