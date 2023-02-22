@@ -5,12 +5,7 @@ export let kangaroo_team_profiles =
 
 "<div class='main_card_container'>"+
 "<div class='card_container'>"+
-"<div class='card'>"+
-"<img src='./jg_photo.jpg' alt='John Gude' style='width:100%'></img>"+
-  "<div class='container_pic'>"+
-    "<h4><b><a href='#JG'>John Gude<a/></b></h4>"+
-    "<p>S3973475</p>"+
-  "</div>"+
+
   
 "</div>"+
 "<div class='card'>"+
@@ -60,36 +55,6 @@ export let kangaroo_team_profiles =
 
 
 
-"<hr>"+
-"<a id='JG'></a>"+
-"<h1>Team Member Profiles</h1>"+
-
-"<img src='./jg_photo.jpg'></img>"+
-"<h2>John Gude</h2>" +
-"<p>Student Number: S3973475 </p>"+
-"<p>Student email Address: <a href='mailto:S3973475@student.rmit.edu.au'>S3973475@student.rmit.edu.au</a></p>"+
-"<p>John was born in 1976 in a town called York, in the county of Yorkshire , located in the North East of England. York is a very historic town visited by people from all over the world every year, its main attraction is due to its strong connections with the Vikings among many others. John mentions that he likes that it was the birthplace of Rowntree’s Chocolate (now Nestle) and how he always remembers cycling home from work to the smell of chocolate which could be detected all over the city.  John emigrated to Melbourne, Australia around 2017 with his family and has now become a citizen of Australia. John has over 25 years of experience in the Infrastructure and Transport sector globally, specifically within Railway infrastructure. John manages Digital Engineering and has extensive experience with delivery major infrastructure projects using extensive Digital technologies associated within the IT sector, including AI/ML, BIM, VR/AR, IoT, Modelling. John also possesses skills across several programming languages, having built Digital Twins these are predominantly across web-based technologies.</p> "+
-
-
-"<p>The following personality type profile tests were carried out</p>"+
-"<ol>"+
-"<li><a href='https://www.16personalities.com/'>16personalities: Myers-Briggs Type Indicator (MBTI)</a></li>"+
-"<li><a href='https://www.seemypersonality.com/'>seemy personality test</a></li>"+
-"<li><a href='https://www.123test.com/disc-personality-test/'>123 test disc personality test</a></li>"+
-"</ol>"+
-"<h4>16personalities: Myers-Briggs Type Indicator (MBTI)</h4>" +
-"<p>The results of this test were relatively accurate, it allows me to understand my view of the world against others. This in turn allows me to interact and see the social interactions I have viewed from a different person and adjust as required to accommodate the connection. The test will influence me in that I will need to accommodate others understanding, allowing other to come to their own conclusions rather than judging the conclusion early, that they make. This will allow me to work within a team more effectively. Understanding roles within a team is important, however working within a team in other role outside of my ‘comfort zone’ will allow better and deeper understanding of how the team can be better equipped for the future.</p>"+
-"<div><img src='./jg_mbrigs.PNG'></div>"+
-
-"<h4>Seemy personality test</h4>" +
-"<p>The results of this test, shown below in the provided extract, are in my opinion like horoscopes, mass application to many. However, with the various results the following could be extrapolated, the test will influence me in that I will need to accommodate others understanding, allowing other to come to their own conclusions rather than judging the conclusion early that they make. This will allow me to work within a team more effectively. Understanding roles within a team is important, however working within a team in other roles outside of my ‘comfort zone’ will allow better and deeper understanding of how the team can be better equipped for the future. I have learned that not all online tests are made equally.</p>"+
-"<div><img src='./jg_seemly.PNG'></div>"+
-
-"<h4>123 test disc personality test</h4>" +
-"<p>The results of this test were not very accurate representation of me, it allows me to understand my view of the world against others, but I believe the test is not accurate. Using tests such as these could be detrimental to you if you followed them explicitly. The test will influence me in that I will need to accommodate others understanding, allowing other to come to their own conclusions rather than judging the conclusion early that they make. This will allow me to work within a team more effectively. Understanding roles within a team is important, however working within a team in other roles outside of my ‘comfort zone’ will allow better and deeper understanding of how the team can be better equipped for the future.I have learned that not all online tests are made equally.</p>"+
-"<div><img src='./jg_disk.png'></div>"+
-"<p>John’s results, specifically the Miers-Briggs test placed John as an INFJ personality type, John contributions towards the team are indicated within the tests are being able to provide, insight and unorthodox thinking. This combined with the ability to form simple strategy from complexity provides the team with valuable angles of attack towards the tasks required. Johns' personality type is open-minded but has a sense of responsibility to the team. John is also conscientious and is agreeable towards other ideas and thoughts, understanding the inner dynamics of a team, this helps the teamwork together, yet John provides leadership where it's required with a steady and controlled empathy to others within the team. This is reflective across all three tests as can be seen within the graphics. </p>"+
-"<a id='NB'></a>"+
 "<hr>"+
 "<a id='NB'></a>"+
 "<img src='./nb_photo.jpg'></img>"+
@@ -225,15 +190,7 @@ export let kangaroo_team_profiles =
   "<th>Exp (yrs)</th>"+
   "<th>Analysis</th>"+
   "</tr>"+
-  "<tr>"+
-    "<td>John Gude</td>"+
-    "<td>Chief Digital Officer</td>"+
-    "<td>No explicit education requirements mentioned, however, requires knowledge in skills</td>"+
-    "<td>communication, problem solving, strategic understanding of business requirements across industry. Experience delivering strategy and frameworks.Coordination experience for delivery of complex transformation programs. </td>"+
-    "<td>Understanding of trends across technology stack ,AWS, General programming and industry specific engineering software.</td>"+
-    "<td>20+</td>"+
-    "<td>Increase exposure to technology stacks within industry and market moves </td>"+
-  "</tr>"+
+
   "<tr>"+
     "<td>Nicole Brooker</td>"+
     "<td>Senior Data Scientist</td>"+
@@ -1144,13 +1101,13 @@ export let team_reflections =
 
 "<h2>Group Reflection </h2>"+
 "<h4>What went well?</h4>" +
-"<p>The team was able to allocate tasks for the assignment outputs based on early decisions to read each other's profiles created as part of assignment 1. This allowed us to understand each other's strengths and weaknesses and form an understanding of how to approach the assignment tasks as a team .The teams early agreement to use MS Teams as a standard communication medium, combined with regular meetings that were scheduled, the team was able to rely on each and every team member to support each other for general issues, understanding during the week. Due to the planning element of the teams, using meeting agendas, minutes and scheduled meetings, it allowed the team to produce a quality report and web page which employed all the teams input and skills.  </p>"+
+"<p>text</p>"+
 "<h4>What could be improved?</h4>" +
-"<p>The team worked exceptionally well together based on the limited time we had to come together as a group. The key improvement area we identified was decision making, with particular reference to the project idea. The team deferred the idea to later in the production of the assignment outputs, while this allowed the team to move forward on production of the document and webpages, it was also something that was of concern. The team rectified this by using a voting system, however it wasn't so much that the team members disagreed with ideas but more that the next assignment is linked to this idea and this caused us to re-think because of the lack of clarity. Despite this the team moved forward and chose an idea and shows how well the team have come together.  </p>"+
+"<p>text</p>"+
 "<h4>At least one thing that was surprising?</h4>" +
-"<p>The surprising element to the team revolved around the diversity and efficiency of the group to work together as a group. The team members quickly came to the understanding that each one of us was able to offer skills and support to each other despite differing levels of skill against a specific area. Everyone had something that another team member needed and each member was willing and able to help.   </p>"+
+"<p>text</p>"+
 "<h4>At least one thing that you have learned about groups?</h4>" +
-"<p>The team learned more than anything both as a group and individually that groups require cooperation and understanding that each member is important. To be successful all team member need to be engaged and pro-active. This means to support each team member when needed and to contribute in multiple ways, advice, technical, emotionally or just being there to ask a question in some way. Much of our interactions were via messages so it really doesn't matter how the interactions in the group happen but that they do.  </p>"+
+"<p>text</p>"+
 
 
 "<hr>"
@@ -1165,10 +1122,7 @@ export let contacts =
   "<th>Name</th>"+
     "<th>Contact</th>"+
   "</tr>"+
-  "<tr>"+
-    "<td>John Gude</td>"+
-    "<td><a href='mailto:S3973475@student.rmit.edu.au'>S3973475@student.rmit.edu.au</a></td>"+
-  "</tr>"+
+
   "<tr>"+
     "<td>Nicole Brooker</td>"+
     "<td><a href='mailto:S3743586@student.rmit.edu.au'>S3743586@student.rmit.edu.au</a></td>"+
