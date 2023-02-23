@@ -274,10 +274,10 @@ export let kangaroo_team_profiles =
 "</tr>"+
 "<tr>"+
     "<td>Tatsuya</td>"+
-    "<td> text </td>"+
-    "<td> text </td>"+
-    "<td> text </td>"+
-    "<td> text </td>"+
+    "<td> Software Developer </td>"+
+    "<td> Minimum of a bachelor in any software related field Skills - Net Framework, Net core, C#, Teamwork, clear understanding of the product’s features, functions, and design. </td>"+
+    "<td> With the rapid expansion of the technology industry there has been an increasing demand for software developers needed in all relevant fields. This creates a vast number of opportunities for software developers.  </td>"+
+    "<td> Complete any Bachelor of Software related field, work experience and languages. </td>"+
 "</tr>"+
 "<tr>"+
 "</table>"+
@@ -357,7 +357,7 @@ export let tools =
 "<p> Ben: As we have made predominantly content updates and stylistic changes to the website, I believe yes, the GitHub log of activity is a representation of the work that we put in (to the website that is). That said, obviously the timeline is not accurate as we preferred to keep our focus mainly on the content and developing of the ideas involved in the project as opposed to uploading website updates. This explains why the majority of the commits were made in the last week of the project. As I said in the previous assessment, I do not believe these logs are a good metric for the work put in by the team necessarily as it does not factor in any of the research time or effort that goes into formulating responses, as wel as the general formatting that is involved in the other aspects of the project. </p>" +
 "<p> Nicole: I believe that the GitHub log of activity reflects decently well on how our group worked on this assignment. Primarily as a result of individuals uploading the particular assignment sections that they have personally worked on, with a few minor exceptions. </p>" +
 "<p> Tarish: </p>" +
-"<p> Tatsuya </p>" +
+"<p> Tatsuya: GitHubs activity log is a usefull tool that helps keep track of our teams overall contribution. It is evident that the whole team is contributing towards our assignment by observing the activity and commits in the log. As this assignmnet is a continuation of the previous assignment not much has been changed however, it can be seen that all members of the group have uploaded there respective parts.  </p>" +
 
 "<hr>"
 
@@ -403,13 +403,122 @@ export let project_plan =
 
 
 "<h3>Aims </h3>" + 
-"<p> Text </p>" +
+"<p> The aim of this project is to reduce the amount of road rage incidents on public roads. To accomplish this goal, we have introduced our project idea called “The Courtesy Light” which helps aim to spread positivity in hopes that drivers will show appreciation to other fellow drivers. This will be achieved through a small, simple and sleek LED that displays “Thanks” or “Sorry” when activated by a simple press of a button by the driver. To help further accomplish our goal The Courtesy Light will be paired via Bluetooth with a corresponding app to allow for customisability and user friendliness.   </p>" +
+"<p> Due to the limited amount of time and resources, our main priority is to produce a functioning prototype of “The Courtesy Light”. While the app is not essential having a functional LED display will drastically help contribute to our goal of reducing road rage incidents on public roads. The main function of the light is to show gratitude or appreciation to the other driver to help convey a positive message. A simple act of saying “Thanks” or “Sorry” can brighten up anyone’s day which will lead to a more positive mindset on public roads.  </p>" +
+"<p> While the physical display of “The Courtesy Light” is the fundamental feature we also aim to make the light user-friendly and practical to enhance the user experience. Through the use of a corresponding app paired via Bluetooth we aim to add the ability to add customisable messages offering a unique way to express your gratitude, making each interaction on the road a little more special.  </p>" +
 
 "<hr>" +
 
 
 "<h3>Plans and Progress </h3>" + 
-"<p> Text </p>" +
+"<p> During assignment 2 multiple project ideas were presented during the group discussion. Our team took consideration of the limited time and resources available during assignments 2 to 5 which intern gave the decision to choose a project that was simple but can be easily expanded upon. This decision has led us to move forward with “The Courtesy Light” which is a small, simple, and sleek LED that displays “Thanks” or “Sorry” when called upon by the driver.  </p>" +
+"<p> The aim of the project is to reduce the amount of road rage incidents and public roads with the use of an LED and an accompanying app. Understanding the scope and limitations of this project was key to deliver the projects basic features and functions within the limited time given. Knowing this we were able to split our project into two main parts being the app and the LED display.  </p>" +
+
+"<h4>Motivation for “The Courtesy Light” </h4>"+
+"<p> Our motivation for “The Courtesy Light” is centered around our experiences while driving on public roads. Whether it be our own personal experiences or friends and family, almost every vehicle owner has at least in some way been the subject of road rage. Through personal experiences we know that being a victim of road rage puts ourselves in an uncomfortable position often accompanied by stress, anxiety or anger. After doing some research we discovered that a road rage survey was conducted by insurance company Budget Direct in 2021 which found that 45% of Australians have admitted to showing signs of road rage and 75% of Australians claim to have been a victim of road rage (Budget Direct 2021). This is an alarming percentage of Australians being subjected to road rage which was a surprise as we were not aware of the amount of road rage occurring on our public roads. However, not all our experiences while driving were negative as occasionally someone will show some courtesy on the road, whether that be letting someone in, giving way or letting someone know that they left something on top of their car.  </p>" +
+"<p> Regardless of the situation, we all get a sense of appreciation and think to ourselves I wish I could at least say ‘’Thanks/Sorry” to brighten up the fellow commuter’s day. Due to this discovery, it led us to create “The Courtesy Light”. Furthermore, in modern society, the use of cars has drastically expanded our capacity to travel. This is evident as according to Kemp (2022) in an article published by PD Insurance, there are currently 1.446 billion cars on the road as of 2022.  This further emphasizes our motivation for the creation of “The Courtesy Light” as there is a vast extensive market for the use of a small LED that displays “Thanks”, “Sorry”. </p>" +
+
+"<h4>Initial Stages of the Project </h4>"+
+"<p>As stated, above our team made the decision to choose a project that was simple but can be easily expanded upon which ultimately led to choosing “The Courtesy Light”. During its initial stages the LED light only consisted of the LED display with no accompanying features or apps. It was clear that our design/idea was too simple for the scope of the project which intern led us to brainstorming further features and ideas to incorporate into the project. </p>" +
+"<p>The following ideas were presented: </p>" +
+"<ul>" + 
+"<li>Bluetooth connectivity </li>" +
+"<li>Accompanying App </li>" +
+"<li>Store data/statistics via cloud computing </li>" +
+"<li>Text Animations </li>" +
+"<li>Additional variations (E.G. Trucks, Motorbikes, cyclists, etc.)  </li>" +
+"<li>Text Colour </li>" +
+"<li>Customizable messages </li>" +
+"<li>Language preference  </li>" +
+"</ul>" + 
+
+"<p>While all these features would be beneficial towards our goal, we were aware of the limitations of this project being time and resources. Our team ultimately decided to incorporate an accompanying app connected via Bluetooth into the design. The decision was chosen due to some team members having experience in app development which would allow our group to allocate tasks easily playing to our individual strengths and weaknesses. Our team were also debating on whether we should incorporate the storing of data for users via cloud computing, but it was ultimately decided that it was too complex for the amount of time and resources given. </p>" +
+
+"<h4>Initial Planning of “The Courtesy Light”</h4>"+
+"<p>The aim of the project is to reduce the amount of road rage incidents and public roads. We have noticed that while driving, people often forget to show appreciation to other drivers. By creating a simple and easy way to spread positivity, it is our hope that this device will be a part of the solution to the road rage we experience in our lives. Our team made it clear that the “The Courtesy Light” design should be as simple as possible to ensure that the light serves as a tool and not a distraction. For this reason, the user interface for the LED would be activated by a press of a button. The display will only allow for an option of two different messages activated via two buttons. Only having two buttons available serves as a simple way to activate the messages without the user getting overwhelmed or distracted while operating a motor vehicle. We concluded that if more buttons were added it would interfere with the driver’s awareness on the road in turn leading to a safety issue.</p>" +
+"<p>As of now “The Courtesy Light” will only display “Thanks” or “Sorry”.  However, due to the incorporation of the app future expansion and customizability can be easily made through the app via updates allowing for more variability to the user. This allows for more flexibility for potential expansion of the product for future use but by default the LED will only display “Thanks” or “Sorry” which fulfills our aim of spreading acknowledgement to the other drivers. “Thanks” or “Sorry” is a simple, easy, and efficient way of showing appreciation which is known universally all around the world insuring it's not misinterpreted as a negative message. </p>" +
+"<p>Conforming to simplicity we ensured that the installation process was as simple as possible. Even though there are 1.446 billion cars on the roads today (Kemp 2022), the make and model of these cars spans over 50+ years of products. Therefore, it is important that The Courtesy Light has a universal installation method, providing the ability for use in any automobile, regardless of the age or vehicle type. Due to the nature of the LED light being applicable to any car we were faced with a challenge of allowing the light to be compatible with the majority of cars today. A cheap and simple solution for this is the use of Velcro. The advantages of Velcro are it is cheap, versatile, resistant to degradation by sunlight, its adhesive strength does not change when wet, and it has the ability to hold significant amounts of weight (Sage-Advices 2020). All these advantages are very beneficial for the intended application here with the Courtesy Light. Furthermore, Velcro allows for universal installation as the user has the freedom to install the hardware in a suitable location that best fits the user’s vehicle.  </p>" +
+"<p>During its current stage “The Courtesy Light” will require the user to install both the LED light and the buttons with the use of Velcro. The LED light should be installed in a suitable location behind the rear windshield that is clearly visible to other road users. An image below is an example of a suitable location for the LED light. </p>" +
+"<p><b>Figure 10:</b> Diagram of suggested rear mounting.</p>" +
+"<div><img src='./Figure 10.png'></div>"+
+"<p>The same concept of installation applies for the buttons.  The buttons should be installed in a suitable location somewhere in the driver's seat compartment. The buttons will be mounted with the use of Velcro for easy and simple setup with the intention of user friendliness. The use of Velcro will allow the user to personalise where the buttons will be set to best suit their vehicle, personal preferences, and body type. This will allow the driver to install the buttons in a convenient location with ease of access that will not impede any other driving related tasks.  However, another challenge we faced was the risks associated with the mounting of an electronic device within a motor vehicle with laws in place to govern their use. The risks and laws associated with the “The Courtesy Light” will be further outlined and discussed in more detail in the risks section of the report. In short, Figure 1 below outlines the areas in green that will allow for lawful placement of the buttons according to Victorian Vehicle Standards Information form 27 titled ‘Fitment of equipment and accessories within the driver’s field of view’ (VicRoads 2021b).</p>" +
+"<p><b>Figure 11:</b> Typical airbag deployment zone and suggested device mounting locations (VicRoads 2021b).</p>" +
+"<div><img src='./Figure 11.png'></div>"+
+"<p>Colour and design play an important role in creating a product that is attractive, functional, and distinguishable. A well-designed product can make it easier to use and understand, creating a wider appeal and attracting more potential customers. In a study published in the journal Sustainability, researchers were investigating the relationship between perceived ease of use of a product and customer’s continued usage of said product. They found that when a product was easy for the customer to use, they were significantly more likely to continue using it and generally had a more positive opinion of the product’s usefulness in their everyday lives (Li et al. 2019). A study by Jaehee Cho published in the International Journal of Medical Informatics looking into the continued usage of health apps came to similar conclusions (Cho 2016). It can be safely said that the more seamless the integration of an app or product with a person’s routine or habits, the more likely they are to continue to use it and recommend it to others.</p>" +
+"<p>When creating a device for automotive vehicle safety is also a big consideration in the design process. This is because it can have a direct impact on the safety of the vehicle's occupants and other road users. “The Courtesy Light” will be designed with human factors in mind, to minimise driver distraction and ensure the safety of the occupants of the car and other road users. Compliance is also an important consideration for the design of The Courtesy Light. It will comply with any relevant regulations and standards for automotive devices, including safety, and cybersecurity standards that are again, further discussed below in the ‘Risks’ section. As with the release of any electronic device for use in Australia, the courtesy light must be found to fit in accordance with Part 6 - ”Type approvals for road vehicle components used or supplied for use in the manufacture of road vehicles” as is described in the Federal Road Vehicle Standard Rules 2019 (Australian Government Federal Register of Legislation 2022). Note - this only applies in the case of manufacturers utilising the design in their cars, not with our own standalone product. We plan to hire an electronics engineer to assist with these regulatory requirements and liaising with auto manufacturers.</p>" +
+"<p>The colour of the LED will be green. The primary reason for this is that according to an article on ColorPsychology.org, green has long been associated with feelings of calm, tranquillity, balance and optimism (Color Psychology 2016). In addition, green was chosen as it will not interfere with the existing lights on the vehicle. If the display were to be orange or red, it may be mistaken for a turn signal or brake lights which would in turn lead to a safety hazard to other drivers.  When the display is activated, the display will be a static light. If the display were to have flashing lights or animations, it could present more of a distraction rather than a message. For this reason, once the button is pressed the message will only display for a short period of time (between 2 and 10 seconds, duration preferences would be selectable in the app), allowing the other driver to recognise the message without impeding their focus.  </p>" +
+
+"<h4>“The Courtesy Light” Prototype Planning</h4>"+
+"<p>The aim of the Courtesy Light product was to keep the design as simple as possible, for this will allow for easy and cheap manufacturing. The image shown below is a basic circuit diagram of the Courtesy Light.</p>" +
+"<p><b>Figure 12: </b>Basic circuit diagram of The Courtesy Light.</p>" +
+"<div><img src='./Figure 12.png'></div>"+
+"<p>The circuit above demonstrates how the Courtesy light will operate and how the individual components and hardware are connected. A list of the hardware needed for “The Courtesy Light “:</p>" +
+
+"<ul>" + 
+"<li>Arduino Uno – R3 </li>" +
+"<li>Generic breadboard </li>" +
+"<li>12V battery holder 8 x AA </li>" +
+"<li>LED matrix </li>" +
+"<li>Resistors </li>" +
+"<li>2 x push button </li>" +
+"<li>Capacitor (Capacitor Ceramic 100nF) </li>" +
+"<li>Voltage regulator 5V </li>" +
+"<li>Bluetooth serial module (HC-05 Bluetooth) </li>" +
+"<li>Jumper wires </li>" +
+"</ul>" + 
+
+"<p>All the components listed can also be seen in the labelled circuit diagram above. With all these components a basic version of the Courtesy light can be created. The versatility of the Arduino Uno is that the software/code written to run the device can be written and edited rather simply using a variety of languages and plugins/overlays to the Arduino IDE.</p>" +
+"<p>The Courtesy Light app will use Bluetooth API (Application Programming Interface) through iOS and Android. This API will allow the app to scan for nearby Bluetooth devices, connect to them, and send and receive data. This will connect through the Bluetooth serial module as shown on the above diagram. From this, the user can use the Bluetooth API to send commands to the device (Park n.d.). </p>" +
+
+"<h4>Virtual Prototype</h4>"+
+"<p>To demonstrate how “The Courtesy Light” will operate a virtual prototype representation of the product was created to outline the basic functions and features. As previously stated, our team were faced with a challenge of limited time and resources which limited our possibilities of creating a physical prototype. This lead our team to create a virtual prototype which has its own advantages and disadvantages. By creating a virtual protype it allowed our team to run test with the flexibility to easily change code if needed however, one major drawback is the virtual simulation was limited to the default library available. The virtual circuit simulation used was <a href='https://wokwi.com/'>WOKWI</a> which allowed our group to create a basic circuit of the LED matrix to demonstrate the basic function of “The Courtesy Light”. Figure A below shows the LED matrix connected to an Arduino R3 connected to an additional two buttons. </p>" +
+"<p><b>Figure A:</b>Virtual Prototype</p>" +
+"<div><img src='./Figure A.png'></div>"+
+
+"<p>By observing Figure A two buttons can be seen, one red and one green. These two buttons represent the buttons that will be mounted in the driver’s seat compartment. When the green button is pressed the LED matrix will display “Thanks” and the red button will display “Sorry”. Green and red were chosen to allow the driver to easily distinguish between “Thanks” and “Sorry”. Colour coding is an easy way to label the buttons with the corresponding message as it saves the driver having to read which would in turn cause another safety issue. Green is associated with something positive (“Thanks”) while red is associated with something negative (“Sorry”). By allocating the colour with the associated message the driver can easily distinguish between the two buttons.</p>" +
+"<p>During the construction of the circuit an issue that we faced was that WOKWI doesn’t have RGB LED matrix available in the library. Because of this the current LED matrix in Figure A defaults to red, which would be a major issue if this were to be used on public roads as it may conflict with the motor vehicles’ existing brake lights. In reality this would be changed to green as discussed previously when creating our final product. However, for the purpose of this demonstration it will remain red due to the limited resources available on WOKWI. </p>" +
+"<p>Another limitation of WOWKI was the Integratron of a Bluetooth module (HC-05) into the circuit. Due to WOWKI being a virtual simulation its limited inputs doesn’t allow for a Bluetooth module. However, the circuit diagram below (Figure B) shows how the corresponding components will be wired and connected. </p>" +
+"<p><b>Figure B:</b>“The Courtesy Light” circuit diagram</p>" +
+"<div><img src='./Figure B.png'></div>"+
+
+"<h4>Virtual Prototype Testing</h4>"+
+"<p>To demonstrate how “The Courtesy Light” will work two scenarios will be presented with the corresponding action. The following test will show how the LED light will function when called upon by the driver in a given scenario. Both scenarios will outline a list of events that may occur when driving on public roads and how the product should operate given the circumstance.  Each test will consist of two drivers being driver one and driver two with driver one having installed “The Courtesy Light”.</p>" +
+
+"<p><b>Scenario one: </b></p>" +
+"<ol>" +
+"<li>Driver one: Exits a car park and accidental cuts driver two off.  </li>" +
+"<li>Driver two: Clear signs of frustration towards driver one. </li>" +
+"<li>Driver one: Acknowledgement of accidental mistake and proceeds to press red button. </li>" +
+"<div><img src='./Figure C.png'></div>"+
+"<li>Driver two: Observes message recognizes driver one’s mistake proceeds to sigh in relief.  </li>" +
+"<li>Driver one: Relieved that driver two isn’t angry. </li>" +
+"</ol>" +
+
+"<p><b>Scenario two: </b></p>" +
+"<ol>" +
+"<li>Driver one: Major traffic congestion on main road patiently waiting for someone to give way.  </li>" +
+"<li>Driver two: Observers driver one struggling to gain access to main road and proceeds to give way. </li>" +
+"<li>Driver one: Happy that someone finally gave way, proceeds to press green button. </li>" +
+"<div><img src='./Figure D.png'></div>"+
+"<li>Driver two: Observes driver one’s message and feels a sense of appreciation.  </li>" +
+"<li>Driver one: “What a considerate person” despite the heavy traffic congestion.  </li>" +
+"<li>Driver two: Appreciates that someone acknowledges them </li>" +
+"</ol>" +
+
+"<p><b>Virtual representation of The Courtesy Light</b></p>" +
+"<p>Here is a link to a video demonstrating a virtual representation of how the Courtesy Light will operate: <a href='https://rmiteduau.sharepoint.com/sites/TheCourtesyLightPrototypeDemo'>The Courtesy Light Video</a></p>" +
+
+"<p><b>Display Duration Testing</b></p>" +
+"<p>Further testing was also conducted for the duration of the LED message. As mentioned above when the button is pressed by the driver the message will only display for a short period of time (between 2 and 10 seconds, duration preferences would be selectable in the app), allowing the other driver to recognise the message without impeding their focus. Using WOKWI multiple different durations were tested to identify a suitable default display duration. The following message durations were tested: </p>" +
+"<ul>" +
+"<li>2 seconds  </li>" +
+"<li>5 seconds  </li>" +
+"<li>10 seconds  </li>" +
+"</ul>" +
+"<p>While the user will have the customisability to change the duration via the app it was concluded that 5 seconds is an optimal duration for the message to display. Through testing it was found that 5 seconds is a suitable middle ground between 2 seconds and 10 seconds.</p>" +
+
+
+
 "<h4>App Development Story</h4>"+
 "<p>Design for the app began during assignment 2. This included building a basic understanding of platforms, what would be included and what would be required to create an app to meet the requirements. It was decided that the app would be a native app for iOS and Android. This is because native apps can be distributed through the respective app stores, having met the compliance guidelines and regulations. For the iOS app, Swift will be the programming language and XCode will be the IDE. For the Android app, Java will be the programming language and Android Studio will be the IDE. The design of the app is focused on being user-centred. To achieve this, Nielsen’s Usability Heuristics will act as a guideline for the user interface. Nielsen's usability heuristics focus on simplicity and usability, which are key factors in designing a basic app (Nielsen 1994). The purpose of the app is to connect to the Courtesy Light device and allow the user to make two individualised messages that will be displayed on the device.  </p>" +
 
@@ -649,7 +758,9 @@ export let project_plan =
 
 
 "<h3>Scope and Limits </h3>" + 
-"<p> Text </p>" +
+"<p>Out teams’ overall goal is to reduce the amount of road rage incidents on public roads by showing positivity and appreciation to other fellow road users. Due to the limited amount of time and resources available we opted for “The Courtesy Light” due to its simple design with the potential to easily scale the product to suit a variety of form factors. “The Courtesy Light’s” fundamental function is to display “Thanks” or “Sorry” when called upon by the driver by a simple press of a button. Furthermore, we are also going to further improve the products user-interface by an accompanying app allowing for two additional customisable messages. With these two cores features we will be able to produce an accurate representation of our product to achieve our main goal. To demonstrate “The Courtesy Light” our design we will provide a virtual representation of the product in a simulation to outline its core features and functions providing a rough overview of the prototype. A simple protype of the app will also be presented outlining the user-interface and layout to demonstrate how the user will interact with the “The Courtesy Light”. </p>" +
+"<p>However, as stated before “The Courtesy Light” has the potential to expand upon its features and form. As of now the product is only available in English and is only suitable for a car. Due to its simple nature the “The Courtesy Light” can be easily improved upon by offering additional variations to accommodate trucks/semi-trailers, motorcyclists, and cyclists. This can be achieved by simply adjusting the size of the module to safely and reliably fit in the users preferred mode transportation (i.e Car, Truck, Bike, Scooter, etc.).  The potential of a unique version of the “The Courtesy Light” can be offered to cyclists by incorporating indicators similar to car indicators to offer a more immersive and practical use for the product. The accompanying app can also be further improved by incorporating more features and customisability to the user such as colours or animations or adding additional languages. </p>" +
+
 "<h4>App Scope</h4>" +
 "<p>The app design has four main goals. These goals are considered the scope of the app.  </p>" +
 "<ul>" + 
