@@ -1112,7 +1112,7 @@ export let team_reflections =
 
 "<h2>Benjamin Turner</h2>" +
 "<h4>What went well?</h4>" +
-"<p>In my opinion, our overall group communication was great throughout the A3 process. That is not to say that it was an issue during A2 but as we were more familiar with each other and aware of each other’s strengths and skills it was far more comfortable to chat openly during meetings, direct messages, and via posts in Microsoft Teams."
+"<p>In my opinion, our overall group communication was great throughout the A3 process. That is not to say that it was an issue during A2 but as we were more familiar with each other and aware of each other’s strengths and skills it was far more comfortable to chat openly during meetings, direct messages, and via posts in Microsoft Teams." +
 "<h4>What could be improved?</h4>" +
 "<p>I agree with what Nicole has written below regarding the way in which we divided up the work for this assessment as opposed to A2. Dividing the work up by section worked in the previous assignment as it was a lot more compartmentalised. The majority of the task for A3 was centred around the development of the Courtesy Light project which we subdivided amongst members. After commencing, we realised that there would be a lot more overlap between sections, and as a result, we decided to divide work by topic rather than report subheadings. This worked out fat better in the end as I once my content was written, I was able to focus a lot more on ensuring everyone else’s work flowed together to create a more cohesive report.</p>" +
 "<h4>At least one thing that was surprising?</h4>" +
