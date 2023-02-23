@@ -198,7 +198,7 @@ export let kangaroo_team_profiles =
   "</tr>"+
   "<tr>"+
     "<td>Benjamin Turner</td>"+
-    "<td>Data Engineer</td>"+
+    "<td>Data Engineer (now Bioinformatics in genomic data science, reasons explained below)</td>"+
     "<td>Bachelor or Master of computer science, data science, software engineering, bioinformatics or related fields</td>"+
     "<td>Proficiency in the following languages: Python, R, SAS, SQL</td>"+
     "<td>Knowledge in data science and data visualisation packages, knowledge of cloud platforms (AWS in particular)</td>"+
@@ -228,11 +228,11 @@ export let kangaroo_team_profiles =
 
 "<hr>"+
 "<h4>Discussion of the Ideal Jobs Table </h4>" +
-"<p>Across the Kangaroos 5 members there are 4 distinct disciplines or career paths mentioned. John seeking to enter a more managerial role as a Chief digital officer, Tatsuya looking to enter industry as a software developer, Tarish is after a position in cyber security and both Nicole and Ben’s ideal roles are similar within the field of data science (Nicole’s leaning towards data analysis, Ben’s towards data management). </p>"+
-"<p>All besides John’s CDO role (needing 20+ years' experience) require between 2-5 years of experience which is an accurate reflection of each team member’s life and career experience in and around the IT field. </p>"+
-"<p>Surprisingly, only Ben and Tatsuya’s ideal jobs specifically require a tertiary degree, with Nicole and John’s jobs favouring proficiency in industry standard skills, and Tarish’s preferring industry standard security certifications (which admittedly do require some tertiary level education) (Meah,J. 2022). </p>"+
-"<p>With regards to the skills required for each job Ben and Nicole’s related roles require similar language, tool and soft skills. Tatsuya’s requires similar soft skills but a more tailored tool and language set to that of a software dev role. Both John and Tarish have chosen roles that prioritise proficiency in soft skills (teamwork, leadership, experience) with assumed technical tool and language proficiency.   </p>"+
-"<p>John is the Kangaroos member closest to being application ready for his ideal role. The other 4 members are in the earlier stages of their IT careers and understandably lack the necessary skills required for their ideal jobs. That said, every team member has a plan as to how they will obtain these skills and work towards their goals.  </p>"+
+"<p>Across the Kangaroos 5 members there are 3 distinct disciplines or career paths mentioned. Tatsuya looking to enter industry as a software developer, Tarish is after a position in cyber security and both Nicole and Ben’s ideal roles are similar within the field of data science (Nicole’s leaning towards data analytics, Ben’s with a required domain knowledge in biology. </p>"+
+"<p>All our ideal roles require between 2-5 years of experience which makes them achievable in the recent future when considered as an accurate reflection of each team member’s life and career experience in and around the IT field. This leaves room for some years gaining experience in entry level jobs for a few years in order to explore the field in a practical sense and really gain an understanding of what it is like to work in the fields that we have chosen before settling into a more long-term position. </p>"+
+"<p>Surprisingly, only Ben and Tatsuya’s ideal jobs specifically require a tertiary degree, with Nicole’s jobs favouring proficiency in industry standard skills with a practical body of work to show for it, and Tarish’s preferring industry standard security certifications (which admittedly do require some tertiary level education, just not a full bachelor's degree) (Meah 2022). </p>"+
+"<p>With regards to the skills required for each job Ben and Nicole’s related roles require similar language, tool and soft skills. Tatsuya’s requires similar soft skills but a more tailored tool and language set as is befitting of a software dev role. Tarish’s role in security is one that prioritises proficiency in soft skills (teamwork, leadership, experience) with assumed technical tool, problem solving skills, and language proficiency.   </p>"+
+"<p>All four members of our group are in the earlier stages of our IT careers and understandably lack the necessary technical skills and experience required for our ideal jobs. That said, every team member has a plan as to how we will obtain these skills and work towards their goals as is discussed below in the Career Plans table. </p>"+
 
 
 "<hr>"+
