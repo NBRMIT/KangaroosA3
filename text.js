@@ -239,12 +239,7 @@ export let kangaroo_team_profiles =
 
 
 "<hr>"+
-"<h4>Group Processes </h4>" +
-"<p>This assignment will follow the same procedure as assignment 2. Our team will communicate via Microsoft Teams, utilising the messaging features of the platform for regular updates and conversations. In addition, weekly meetings with a clear agenda and documented minutes will be organised. To ensure that everyone is on the same page, the team will be encouraged to participate in the MS Teams discussion boards and to upload our work to a shared template document on a regular basis. Much like with assignment 2, a shared document will be utilised for final submission.</p>"+
-"<p>Having a detailed and organised plan will also help us stay on track and focused on the project's objectives. We will create a detailed to-do list for this assignment, that includes all of the relevant tasks and responsibilities to keep us accountable and on track throughout the project. This will allow us to immediately detect potential problems and collaborate to overcome them before they become major obstacles.</p>"+
-
-"<hr>"+
-"<h4>Career Plans </h4>" +
+"<h3>Career Plans </h3>" +
 "<table>"+
   "<tr>"+
   "<th>Name</th>"+
@@ -291,7 +286,10 @@ export let kangaroo_team_profiles =
 "<p>Our group members also express some differences concerning their career plans. Despite the fact that all team member’s job titles fall under the STEM category, each has listed a distinct job title. This has led to members seeking to acquire a diverse range of skills. For instance, Tarish refers to standard certifications like CISSP, CISA, and CISM, while Ben and Nicole refer to particular programming languages like Python. The diverse interests amongst team members has been beneficial for this assignment, as members have been able to contribute in areas where they have a unique interest. </p>"+
 "<p>Despite these differences, the majority of members also want to gain work experience in their chosen field prior to assuming their ideal job role. Our team members will likely benefit from this industry experience for further skill development after earning their bachelor's degree.  </p>"+
 
-
+"<hr>"+
+"<h3>Group Processes </h3>" +
+"<p>This assignment will follow the same procedure as assignment 2. Our team will communicate via Microsoft Teams, utilising the messaging features of the platform for regular updates and conversations. In addition, weekly meetings with a clear agenda and documented minutes will be organised. To ensure that everyone is on the same page, the team will be encouraged to participate in the MS Teams discussion boards and to upload our work to a shared template document on a regular basis. Much like with assignment 2, a shared document will be utilised for final submission.</p>"+
+"<p>Having a detailed and organised plan will also help us stay on track and focused on the project's objectives. We will create a detailed to-do list for this assignment, that includes all of the relevant tasks and responsibilities to keep us accountable and on track throughout the project. This will allow us to immediately detect potential problems and collaborate to overcome them before they become major obstacles.</p>"+
 
 
 "<hr>"
