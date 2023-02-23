@@ -354,7 +354,7 @@ export let tools =
 
 "<hr>"+
 "<h3>•How well do you think your GitHub log of activity reflects your group’s work on this assignment?</h3>" + 
-"<p> Ben: </p>" +
+"<p> Ben: As we have made predominantly content updates and stylistic changes to the website, I believe yes, the GitHub log of activity is a representation of the work that we put in (to the website that is). That said, obviously the timeline is not accurate as we preferred to keep our focus mainly on the content and developing of the ideas involved in the project as opposed to uploading website updates. This explains why the majority of the commits were made in the last week of the project. As I said in the previous assessment, I do not believe these logs are a good metric for the work put in by the team necessarily as it does not factor in any of the research time or effort that goes into formulating responses, as wel as the general formatting that is involved in the other aspects of the project. </p>" +
 "<p> Nicole: I believe that the GitHub log of activity reflects decently well on how our group worked on this assignment. Primarily as a result of individuals uploading the particular assignment sections that they have personally worked on, with a few minor exceptions. </p>" +
 "<p> Tarish: </p>" +
 "<p> Tatsuya </p>" +
