@@ -250,7 +250,7 @@ export let kangaroo_team_profiles =
   "</tr>"+
 
   "<tr>"+
-    "<td>Ben</td>"+
+    "<td>Benjamin Turner</td>"+
     "<td>Bioinformatician - Genomic Data Science </td>"+
     "<td>BSc in computational biology, or related field with 3+ year's experience (or equivalent). Skills: Fluency in at least one programming language (Python preferred), problem solving skills, experience with scaling data pipelines, working in a collaborative coding environment, and large-scale genomic data. </td>"+
     "<td>Data science in the field of genomics is growing at a rapid pace, there are massive amounts of genomic data produced daily and comparatively few people skilled in the art of translating this data into useful research outcomes. This is a growing industry (as is data science overall) with plenty of great employment opportunities available. </td>"+
@@ -271,7 +271,7 @@ export let kangaroo_team_profiles =
   "<td>My goal is to have at least two or three industry-specific certifications accomplished by the time I finish my bachelor's degree in IT. This will provide me with the tools I need to work in the industry.</td>"+
 "</tr>"+
 "<tr>"+
-    "<td>Tatsuya</td>"+
+    "<td>Tatsuya Rood'e</td>"+
     "<td> Software Developer </td>"+
     "<td> Minimum of a bachelor in any software related field Skills - Net Framework, Net core, C#, Teamwork, clear understanding of the product’s features, functions, and design. </td>"+
     "<td> With the rapid expansion of the technology industry there has been an increasing demand for software developers needed in all relevant fields. This creates a vast number of opportunities for software developers.  </td>"+
