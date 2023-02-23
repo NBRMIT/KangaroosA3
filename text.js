@@ -265,10 +265,10 @@ export let kangaroo_team_profiles =
   "</tr>"+
   "<tr>"+
   "<td>Tarish Kapur</td>"+
-  "<td> text </td>"+
-  "<td> text </td>"+
-  "<td> text </td>"+
-  "<td> text </td>"+
+  "<td>Security Analyst</td>"+
+  "<td>Bachelor's degree in information technology. Including any standard certifications such as CISSP, CISA and CISM to list a few.</td>"+
+  "<td>The industry data point to a large increase in job growth for Database & Systems Administrators, as well as ICT Security, over the next five years. Furthermore, the industry now has one of the lowest employment rates in the field of information technology, making it a promising career path.</td>"+
+  "<td>My goal is to have at least two or three industry-specific certifications accomplished by the time I finish my bachelor's degree in IT. This will provide me with the tools I need to work in the industry.</td>"+
 "</tr>"+
 "<tr>"+
     "<td>Tatsuya</td>"+
@@ -357,7 +357,7 @@ export let tools =
 "<h3>•How well do we think the GitHub log of activity reflects our group’s work on this assignment?</h3>" + 
 "<p> Ben: As we have made predominantly content updates and stylistic changes to the website, I believe yes, the GitHub log of activity is a representation of the work that we put in (to the website that is). That said, obviously the timeline is not accurate as we preferred to keep our focus mainly on the content and developing of the ideas involved in the project as opposed to uploading website updates. This explains why the majority of the commits were made in the last week of the project. As I said in the previous assessment, I do not believe these logs are a good metric for the work put in by the team necessarily as it does not factor in any of the research time or effort that goes into formulating responses, as wel as the general formatting that is involved in the other aspects of the project. </p>" +
 "<p> Nicole: I believe that the GitHub log of activity reflects decently well on how our group worked on this assignment. Primarily as a result of individuals uploading the particular assignment sections that they have personally worked on, with a few minor exceptions. </p>" +
-"<p> Tarish: </p>" +
+"<p> Tarish: The group found that the GitHub log was an easy to use tool that substantially helped in the work of logging and tracking issues. I personally also valued the fact that numerous individuals were experienced in utilising GitHub, which assisted in the quick and efficient resolution of any issue that arose.  </p>" +
 "<p> Tatsuya: GitHubs activity log is a usefull tool that helps keep track of our teams overall contribution. It is evident that the whole team is contributing towards our assignment by observing the activity and commits in the log. As this assignmnet is a continuation of the previous assignment not much has been changed however, it can be seen that all members of the group have uploaded there respective parts.  </p>" +
 
 "<hr>"
@@ -1240,7 +1240,7 @@ export let team_reflections =
 "<h4>What went well?</h4>" +
 "<p>To accomplish the project, we successfully created clear goals and objectives for the assignment and collaborated well. The group members communicated effectively, allowing us to all comprehend the responsibilities allocated to us. Our major communication platform was Microsoft Teams, and we held weekly meetings with agendas and minutes. We also used Microsoft Teams to deliver updates regularly. Similarly, to assignment 2, the team shared their work via a shared template document and, ultimately, a shared document for submission. Because of our effective communication and collaboration, we were able to complete the assignment quickly and obtain the required results.</p>" +
 "<h4>What could be improved?</h4>" +
-"<p>The team performed exceptionally well and there were no major issues to be addressed. </p>" +
+"<p>The team's overall performance was exceptional, with no major issues to address. However, the loss of an active team member highlighted the need for better workload distribution. </p>" +
 "<h4>At least one thing that was surprising?</h4>" +
 "<p>One of the surprising parts of this project was the team's level of structure. We worked together to complete a task list set out by one of the group members, this ensured that each member understood their roles and what needed to be accomplished.  </p>" +
 "<h4>At least one thing that you have learned about groups?</h4>" +
@@ -1261,13 +1261,13 @@ export let team_reflections =
 
 "<h2>Group Reflection </h2>"+
 "<h4>What went well?</h4>" +
-"<p>text</p>"+
+"<p>Throughout the assignment, the group worked well together and communicated efficiently. Each team member's different skill sets and views allowed for multiple approaches to problems, and everyone was able to participate in areas of personal interest. Clear goals and objectives were defined, and regular weekly meetings kept the group focused and organised. As a result, the group was capable of finishing the assignment efficiently and accomplish its set goals.</p>"+
 "<h4>What could be improved?</h4>" +
-"<p>text</p>"+
+"<p>Upon reflection of our group assignment, we all agreed that the work division could have been more carefully planned to ensure consistency throughout the project. Initially, work was divided into topics, but due to the loss of a team member, this caused some issues with workload distribution. One team member suggested that in the future, the work should be divided more carefully from the outset to avoid such problems. Another team member noted that some sections required more work than others and that it would have been beneficial to divide the workload more equitably in order to meet the deadline. Overall, the group performed well, but there is room for improvement in task assignment and workload distribution.</p>"+
 "<h4>At least one thing that was surprising?</h4>" +
-"<p>text</p>"+
+"<p>The groups ability to handle the loss of an active member during the assignment was one of the assignments most surprising aspects. Despite the initial uncertainty and the absence of a group member, the team was able to quickly adapt and fill the gap in order to meet the deadline. The structure of the team also contributed to our success in dealing with this situation.</p>"+
 "<h4>At least one thing that you have learned about groups?</h4>" +
-"<p>text</p>"+
+"<p>Through this assignment, the group learned important lessons about effective teamwork, communication, and organisation. Trusting the varied set of skills of fellow group members, as well as learning to incorporate everyone’s individual strengths and weaknesses, allowed the team to work cohesively and accomplish tasks more efficiently. The success of the group was attributed to its ability to communicate well, stay organised, and understand each member’s duties and responsibilities. The experience also showed that online group work can be just as productive as in-person group work, as long as clear communication channels are established and meetings are planned in advance.</p>"+
 
 
 "<hr>"
