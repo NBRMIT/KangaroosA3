@@ -342,10 +342,10 @@ export let tools =
     "<td>MS Teams</td>"+
   "</tr>"+
   "<tr>"+
-    "<td>13/02/2023</td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EQk6Nq_N0SlGlUtRdDaK0AoBNBVasBWelJ3tkcGcSbanww?e=2UDsga'>Agenda</a></td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/EeRamPhiTfVKiDkRTJP-tRcBbHkBqZjAzScfblPyfOIhZA?e=cLXS1H'>Recording</a></td>"+
-    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EX2O97_x4ZZJnLdEMFQNXDABbN2axtngbjsUj3xF9gRjqw?e=awqbdr'>Actions</a></td>"+
+    "<td>23/02/2023</td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/ES2N09TJQtdFkvFGEM-gnzUBVTE0jU1-vxRbBe3qOeRA8w?e=1RScCd'>Agenda</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:v:/s/Kangaroos/EY5M19FWTwpKmJY68QMSd8kBGQwS1siSaR8qxTnQKM33FA?e=ai1jOg'>Recording</a></td>"+
+    "<td><a href='https://rmiteduau.sharepoint.com/:w:/s/Kangaroos/EcmiORQFOCBHgn2NpmzZqwgB0tUDVpMXBUZ6R3BhlPmLXw?e=eofF8G'>Actions</a></td>"+
     "<td>MS Teams</td>"+
   "</tr>"+
 
@@ -397,7 +397,7 @@ export let project_plan =
 
 
 "<h2>Detailed Description </h2>" + 
-"<p> Text </p>" +
+"<p> </p>" +
 
 "<hr>" +
 
