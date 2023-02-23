@@ -46,7 +46,7 @@ export let kangaroo_team_profiles =
 "<blockquote cite = 'https://www.nma.gov.au/exhibitions/defining-symbols-australia/kangaroo'> Acton, C 2019, ‘Kangaroo | National Museum of Australia’,Nma.gov.au, viewed 29 December 2022," +
 "<a href='https://www.nma.gov.au/exhibitions/defining-symbols-australia/kangaroo'> https://www.nma.gov.au/exhibitions/defining-symbols-australia/kangaroo</a> </blockquote>"+
 "<p>The word ‘kangaroo’ comes from the Guugu Yimidhirr people sharing the word ‘gangurru’ with James Cook and the crew of the Endeavour in 1770.  </p>"+
-"Emblematic of Australia’s unique wildlife, the kangaroo is part of the coat of arms, is seen in various logos and is a mascot at international sporting events"
+"Emblematic of Australia’s unique wildlife, the kangaroo is part of the coat of arms, is seen in various logos and is a mascot at international sporting events"+
 "<blockquote cite = 'https://www.rmit.edu.au/about/our-heritage/history-of-rmit'>History of RMIT 2012, Rmit.edu.au, viewed 29 December 2022, <a href='https://www.rmit.edu.au/about/our-heritage/history-of-rmit'>https://www.rmit.edu.au/about/our-heritage/history-of-rmit</a> </blockquote>"+
 
 
