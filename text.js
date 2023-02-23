@@ -696,7 +696,7 @@ export let project_plan =
 "<li>Bluetooth serial module (HC-05 Bluetooth) </li>" +
 "<li>Jumper wires (copper cabling) </li>" +
 "</ul>" +
-"<p>To assemble the The Courtesy Light basic electrical circuit theory is required to connect and wire the hardware together. However, in Australia a Class 1 licence is required for any electrical installation work which falls under Regulation 18(d) of the Electrical Safety (Regulation and Licencing) Regulations 2020 (energysafe Victoria 2023). The required skills and qualifications needed to assemble/test The Courtesy Light in accordance with the Licencing and Registration Regulations are as follows: </p>" +
+"<p>To assemble The Courtesy Light basic electrical circuit theory is required to connect and wire the hardware together. However, in Australia a Class 1 licence is required for any electrical installation work which falls under Regulation 18(d) of the Electrical Safety (Regulation and Licencing) Regulations 2020 (energysafe Victoria 2023). The required skills and qualifications needed to assemble/test The Courtesy Light in accordance with the Licencing and Registration Regulations are as follows: </p>" +
 "<ul>" + 
 "<li>Certificate 3 in instrumental and control </li>" +
 "<li>Certificate 4 in instrumental and control  </li>" +
