@@ -682,10 +682,41 @@ export let project_plan =
 "<ul>" + 
 "<li>Figma developed by Figma, Inc. Note: Figma has a free and premium version. I have used the premium version for the prototype, because I have a license from another course I am doing.   </li>" +
 "</ul>" +
-"<p> Text </p>" +
-"<p> Text </p>" +
-"<p> Text </p>" +
-
+"<h4>Prototyping Tools and Technologies  </h4>" +
+"<p>At its current stage in development The Courtesy Light’s physical hardware components required are listed below:  </p>" +
+"<ul>" + 
+"<li>Arduino Uno – R3 </li>" +
+"<li>Generic breadboard</li>" +
+"<li>12V battery holder 8 x AA</li>" +
+"<li>LED matrix modules </li>" +
+"<li>Resistors </li>" +
+"<li>2x push buttons</li>" +
+"<li>Capacitor (Capacitor Ceramic 100nF)</li>" +
+"<li>Voltage regulator 5V </li>" +
+"<li>Bluetooth serial module (HC-05 Bluetooth) </li>" +
+"<li>Jumper wires (copper cabling) </li>" +
+"</ul>" +
+"<p>To assemble the The Courtesy Light basic electrical circuit theory is required to connect and wire the hardware together. However, in Australia a Class 1 licence is required for any electrical installation work which falls under Regulation 18(d) of the Electrical Safety (Regulation and Licencing) Regulations 2020 (energysafe Victoria 2023). The required skills and qualifications needed to assemble/test The Courtesy Light in accordance with the Licencing and Registration Regulations are as follows: </p>" +
+"<ul>" + 
+"<li>Certificate 3 in instrumental and control </li>" +
+"<li>Certificate 4 in instrumental and control  </li>" +
+"<li>BSc – electronic and electrical engineering</li>" +
+"<li>Certificate 3 in security equipment</li>" +
+"</ul>" +
+"<p>As for the casing for The Courtesy Light a custom case can be manufactured with the use a robust 3D printer (or multiple printers as scaling and prototyping requires) such as a Raise3D Pro2 plus. Particularly for the engineer and potentially marketing people to get involved in early on in terms of designing the product enclosures.</p>" +
+"<p>3D CAD software is also required to design the prototypes for printing. There are a number of free options available with the best of them being Blender due to its expansive feature set, the fact that it is open source, and most importantly, it has an expansive community of users online (Allen 2022). There is a slight learning curve to the software and designing aspects so having one experienced person on the team initially would be a bonus (Bardwell 2023).</p>" +
+"<p>To round out the electronics lab requirements are a series of relatively inexpensive tools that should form the backbone of every good electronics workshop (Santos 2016).</p>" +
+"<ul>" + 
+"<li>A soldering station  </li>" +
+"<li>Hot glue gun  </li>" +
+"<li>Dremel rotary tool  </li>" +
+"<li>Multimeter  </li>" +
+"<li>Precision screwdriver set  </li>" +
+"<li>Wire stripper/cutter tool  </li>" +
+"<li>Third Hand tool  </li>" +
+"<li>Ceramic tweezers </li>" +
+"</ul>" +
+"<p>The Courtesy light will also require software skills to program the required code for the LED to function. The language used for Arduino is C++ which is processed and compiled to machine language. The required code will be written using the Arduino interface known as the Arduino Integrated Development Environment or Arduino IDE for short (Circuito Team 2018). </p"
 
 "<hr>" +
 
