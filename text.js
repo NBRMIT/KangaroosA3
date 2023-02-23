@@ -716,7 +716,7 @@ export let project_plan =
 "<li>Third Hand tool  </li>" +
 "<li>Ceramic tweezers </li>" +
 "</ul>" +
-"<p>The Courtesy light will also require software skills to program the required code for the LED to function. The language used for Arduino is C++ which is processed and compiled to machine language. The required code will be written using the Arduino interface known as the Arduino Integrated Development Environment or Arduino IDE for short (Circuito Team 2018). </p"
+"<p>The Courtesy light will also require software skills to program the required code for the LED to function. The language used for Arduino is C++ which is processed and compiled to machine language. The required code will be written using the Arduino interface known as the Arduino Integrated Development Environment or Arduino IDE for short (Circuito Team 2018). </p"+
 
 "<hr>" +
 
